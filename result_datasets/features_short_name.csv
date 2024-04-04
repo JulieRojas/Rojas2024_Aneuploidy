@@ -1,0 +1,130 @@
+,Number of missing values,% missing values
+Systematic name,0,0.0
+logFC,0,0.0
+FDR,0,0.0
+geneLen,0,0.0
+GC_content,0,0.0
+median_IUPRED,0,0.0
+%AA_A,0,0.0
+%AA_C,0,0.0
+%AA_D,0,0.0
+%AA_E,0,0.0
+%AA_F,0,0.0
+%AA_G,0,0.0
+%AA_H,0,0.0
+%AA_I,0,0.0
+%AA_K,0,0.0
+%AA_L,0,0.0
+%AA_M,0,0.0
+%AA_N,0,0.0
+%AA_P,0,0.0
+%AA_Q,0,0.0
+%AA_R,0,0.0
+%AA_S,0,0.0
+%AA_T,0,0.0
+%AA_V,0,0.0
+%AA_W,0,0.0
+%AA_Y,0,0.0
+%Helical,0,0.0
+%Proteinturn,0,0.0
+%Beta-sheet,0,0.0
+Acidic AA%,0,0.0
+Basic AA%,0,0.0
+Polar AA%,0,0.0
+Hydrophobic AA%,0,0.0
+Charged AA%,0,0.0
+number of physical interaction,0,0.0
+number of positive genetic interaction,0,0.0
+number of negative genetic interaction,0,0.0
+"number of ppi, all",4,0.09523809523809523
+"number of ppi, score >= 0.25",30,0.7142857142857143
+"number of ppi, score > 0.5",0,0.0
+"number of ppi, score > 0.8",0,0.0
+"number of ppi, score >= 0.95",0,0.0
+RNAseq Eupl,19,0.4523809523809524
+rna logFC,131,3.119047619047619
+rna FC - other,131,3.119047619047619
+Imputed log2(MS),0,0.0
+Ribo_profilling_init_rate,344,8.190476190476192
+Ribo_profilling_trans_rate,344,8.190476190476192
+IDR ratio,0,0.0
+Number of complexe,0,0.0
+Intron status,0,0.0
+aliphaticIndex,0,0.0
+aromaticityScore,0,0.0
+cai,0,0.0
+codonBias,0,0.0
+gravyScore,0,0.0
+instabilityIndex,0,0.0
+pI,0,0.0
+5'-UTR_length,749,17.833333333333336
+3'-UTR_length,325,7.738095238095238
+protein half-life (hr),1265,30.119047619047617
+mRNA half-life (min),388,9.238095238095239
+Ubiquitilation number,2716,64.66666666666666
+Phosphorylation number,969,23.07142857142857
+is in complex,0,0.0
+is essential,0,0.0
+variants_impact_HIGH,0,0.0
+variants_impact_LOW,0,0.0
+variants_impact_MODERATE,0,0.0
+variants_impact_MODIFIER,0,0.0
+variants_effect_conservative_inframe_deletion,0,0.0
+variants_effect_conservative_inframe_insertion,0,0.0
+variants_effect_disruptive_inframe_deletion,0,0.0
+variants_effect_disruptive_inframe_insertion,0,0.0
+variants_effect_downstream_gene_variant,0,0.0
+variants_effect_frameshift_variant,0,0.0
+variants_effect_intron_variant,0,0.0
+variants_effect_missense_variant,0,0.0
+variants_effect_splice_region_variant,0,0.0
+variants_effect_start_lost,0,0.0
+variants_effect_stop_gained,0,0.0
+variants_effect_stop_lost,0,0.0
+variants_effect_stop_retained_variant,0,0.0
+variants_effect_synonymous_variant,0,0.0
+variants_effect_upstream_gene_variant,0,0.0
+alpha IDRratio,1,0.023809523809523808
+A3D mean score,1,0.023809523809523808
+A3D ratio,2,0.047619047619047616
+A3D mean +score,2,0.047619047619047616
+has disordered region,0,0.0
+has transmembrane domain,0,0.0
+flDPnn_disorder,3,0.07142857142857142
+PSIPRED_helix,0,0.0
+PSIPRED_strand,0,0.0
+PSIPRED_coil,0,0.0
+MMseq2_low_conservation,0,0.0
+MMseq2_high_conservation,0,0.0
+MMseq2_median,0,0.0
+SignalP,0,0.0
+DFLpred_linker,0,0.0
+ASAquick_buried,0,0.0
+DisoRDPbind_RNA,75,1.7857142857142856
+DisoRDPbind_DNA,75,1.7857142857142856
+DisoRDPbind_PRO,75,1.7857142857142856
+MoRFchibi_morf,0,0.0
+DRNApred_RNA,2,0.047619047619047616
+DRNApred_DNA,2,0.047619047619047616
+SCRIBER_PRO,27,0.6428571428571428
+PTM_content,0,0.0
+haploinsufficient,0,0.0
+Label,0,0.0
+Numeric Label,0,0.0
+rank,0,0.0
+mitotic_cell_cycle,0,0.0
+cellular_morphology,0,0.0
+regulation of mitotic cell cycle (GO:0007346),0,0.0
+prion_inheritance,0,0.0
+regulation of cell cycle process (GO:0010564),0,0.0
+prions,0,0.0
+Prion-like,0,0.0
+Sphingolipid Metabolism_WP370,0,0.0
+number of genetic interaction,0,0.0
+IDR ratio mean,1,0.023809523809523808
+Phosphorylation number norm_geneLen,969,23.07142857142857
+Ubiquitilation number norm_geneLen,2716,64.66666666666666
+variants_impact_MODERATE norm_geneLen,0,0.0
+variants_effect_missense_variant norm_geneLen,0,0.0
+variants_impact_LOW norm_geneLen,0,0.0
+variants_effect_synonymous_variant norm_geneLen,0,0.0

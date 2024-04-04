@@ -1,0 +1,6287 @@
+Name	gene	Chromosome	orf_classification
+YNL337W		1	Dubious
+YDR542W	PAU10	1	Verified
+YAL067C	SEO1	1	Verified
+YAL066W		1	Dubious
+YAL065C		1	Uncharacterized
+YAL064W-B		1	Uncharacterized
+YAL062W	GDH3	1	Verified
+YAL061W	BDH2	1	Uncharacterized
+YAL060W	BDH1	1	Verified
+YAL059C-A		1	Dubious
+YAL059W	ECM1	1	Verified
+YAL058W	CNE1	1	Verified
+YAL056C-A		1	Dubious
+YAL056W	GPB2	1	Verified
+YAL055W	PEX22	1	Verified
+YAL054C	ACS1	1	Verified
+YAL053W	FLC2	1	Verified
+YAL051W	OAF1	1	Verified
+YAL049C	AIM2	1	Verified
+YAL048C	GEM1	1	Verified
+YAL047W-A		1	Dubious
+YAL047C	SPC72	1	Verified
+YAL046C	BOL3	1	Verified
+YAL045C		1	Dubious
+YAL044W-A	BOL1	1	Verified
+YAL044C	GCV3	1	Verified
+YAL043C	PTA1	1	Verified
+YAL042C-A		1	Dubious
+YAL042W	ERV46	1	Verified
+YAL041W	CDC24	1	Verified
+YAL040C	CLN3	1	Verified
+YAL039C	CYC3	1	Verified
+YAL038W	CDC19	1	Verified
+YAL037C-B		1	Dubious
+YAL037C-A		1	Uncharacterized
+YAL037W		1	Uncharacterized
+YAL036C	RBG1	1	Verified
+YAL035W	FUN12	1	Verified
+YAL034W-A	MTW1	1	Verified
+YAL034C	FUN19	1	Verified
+YAL033W	POP5	1	Verified
+YAL032C	PRP45	1	Verified
+YAL031C	GIP4	1	Verified
+YAL030W	SNC1	1	Verified
+YAL029C	MYO4	1	Verified
+YAL028W	FRT2	1	Verified
+YAL027W	SAW1	1	Verified
+YAL026C	DRS2	1	Verified
+YAL025C	MAK16	1	Verified
+YAL024C	LTE1	1	Verified
+YAL023C	PMT2	1	Verified
+YAL022C	FUN26	1	Verified
+YAL021C	CCR4	1	Verified
+YAL020C	ATS1	1	Verified
+YAL019W-A		1	Dubious
+YAL019W	FUN30	1	Verified
+YAL018C	LDS1	1	Verified
+YAL017W	PSK1	1	Verified
+YAL016C-B		1	Dubious
+YAL016C-A		1	Dubious
+YAL016W	TPD3	1	Verified
+YAL015C	NTG1	1	Verified
+YAL014C	SYN8	1	Verified
+YAL013W	DEP1	1	Verified
+YAL012W	CYS3	1	Verified
+YAL011W	SWC3	1	Verified
+YAL010C	MDM10	1	Verified
+YAL009W	SPO7	1	Verified
+YAL008W	FUN14	1	Verified
+YAL007C	ERP2	1	Verified
+YAL005C	SSA1	1	Verified
+YAL004W		1	Dubious
+YAL003W	EFB1	1	Verified
+YAL002W	VPS8	1	Verified
+YAL001C	TFC3	1	Verified
+YAR002W	NUP60	1	Verified
+YAR002C-A	ERP1	1	Verified
+YAR003W	SWD1	1	Verified
+YAR007C	RFA1	1	Verified
+YAR008W	SEN34	1	Verified
+YAR014C	BUD14	1	Verified
+YAR015W	ADE1	1	Verified
+YAR018C	KIN3	1	Verified
+YAR019C	CDC15	1	Verified
+YAR019W-A		1	Dubious
+YAR020C	PAU7	1	Verified
+YAR023C		1	Uncharacterized
+YAR028W		1	Uncharacterized
+YAR029W		1	Uncharacterized
+YAR030C		1	Dubious
+YGL053W	PRM8	1	Verified
+YAR033W	MST28	1	Verified
+YGL051W	MST27	1	Verified
+YAR035W	YAT1	1	Verified
+YAR035C-A		1	Uncharacterized
+YAR042W	SWH1	1	Verified
+YAR050W	FLO1	1	Verified
+YHR211W	FLO5	1	Verified
+YAL064W-B		1	Uncharacterized
+YAL063C-A		1	Uncharacterized
+YAR060C		1	Dubious
+YHR212C		1	Dubious
+YHR213W		1	Uncharacterized
+YHR213W-A		1	Uncharacterized
+YHR213W-B		1	Uncharacterized
+YAR068W		1	Uncharacterized
+YHR214W-A		1	Dubious
+YAR070C		1	Dubious
+YAR071W	PHO11	1	Verified
+YHR215W	PHO12	1	Verified
+YHR216W	IMD2	1	Verified
+YNL337W		2	Dubious
+YBL107C	MIX23	2	Verified
+YBL106C	SRO77	2	Verified
+YBL105C	PKC1	2	Verified
+YBL104C	SEA4	2	Verified
+YBL103C	RTG3	2	Verified
+YBL102W	SFT2	2	Verified
+YBL101C	ECM21	2	Verified
+YBL100W-C		2	Uncharacterized
+YBL100C		2	Dubious
+YBL099W	ATP1	2	Verified
+YBL098W	BNA4	2	Verified
+YBL097W	BRN1	2	Verified
+YBL096C		2	Dubious
+YBL095W	MRX3	2	Uncharacterized
+YBL094C		2	Dubious
+YBL093C	ROX3	2	Verified
+YBL092W	RPL32	2	Verified
+YBL091C-A	SCS22	2	Verified
+YBL091C	MAP2	2	Verified
+YBL090W	MRP21	2	Verified
+YBL089W	AVT5	2	Verified
+YBL088C	TEL1	2	Verified
+YBL087C	RPL23A	2	Verified
+YBL086C		2	Uncharacterized
+YBL085W	BOI1	2	Verified
+YBL084C	CDC27	2	Verified
+YBL083C		2	Dubious
+YBL082C	ALG3	2	Verified
+YBL081W		2	Uncharacterized
+YBL080C	PET112	2	Verified
+YBL079W	NUP170	2	Verified
+YBL078C	ATG8	2	Verified
+YBL077W		2	Dubious
+YBL076C	ILS1	2	Verified
+YBL075C	SSA3	2	Verified
+YBL074C	AAR2	2	Verified
+YBL073W		2	Dubious
+YBL072C	RPS8A	2	Verified
+YBL071C-B		2	Uncharacterized
+YBL071W-A	KTI11	2	Verified
+YBL070C		2	Dubious
+YBL069W	AST1	2	Verified
+YBL068W-A		2	Dubious
+YBL068W	PRS4	2	Verified
+YBL067C	UBP13	2	Verified
+YBL066C	SEF1	2	Verified
+YBL065W		2	Dubious
+YBL064C	PRX1	2	Verified
+YBL063W	KIP1	2	Verified
+YBL062W		2	Dubious
+YBL061C	SKT5	2	Verified
+YBL060W	YEL1	2	Verified
+YBL059C-A	CMC2	2	Verified
+YBL059W	IAI11	2	Uncharacterized
+YBL058W	SHP1	2	Verified
+YBL057C	PTH2	2	Verified
+YBL056W	PTC3	2	Verified
+YBL055C		2	Verified
+YBL054W	TOD6	2	Verified
+YBL053W		2	Dubious
+YBL052C	SAS3	2	Verified
+YBL051C	PIN4	2	Verified
+YBL050W	SEC17	2	Verified
+YBL049W	MOH1	2	Verified
+YBL048W	RRT1	2	Uncharacterized
+YBL047C	EDE1	2	Verified
+YBL046W	PSY4	2	Verified
+YBL045C	COR1	2	Verified
+YBL043W	ECM13	2	Verified
+YBL042C	FUI1	2	Verified
+YBL041W	PRE7	2	Verified
+YBL040C	ERD2	2	Verified
+YBL039W-B	MIN6	2	Uncharacterized
+YBL039C	URA7	2	Verified
+YBL039C-A		2	Dubious
+YBL038W	MRPL16	2	Verified
+YBL037W	APL3	2	Verified
+YBL036C		2	Verified
+YBL035C	POL12	2	Verified
+YBL034C	STU1	2	Verified
+YBL033C	RIB1	2	Verified
+YBL032W	HEK2	2	Verified
+YBL031W	SHE1	2	Verified
+YBL030C	PET9	2	Verified
+YBL029C-A		2	Verified
+YBL029W		2	Uncharacterized
+YBL028C		2	Verified
+YBL027W	RPL19B	2	Verified
+YBL026W	LSM2	2	Verified
+YBL025W	RRN10	2	Verified
+YBL024W	NCL1	2	Verified
+YBL023C	MCM2	2	Verified
+YBL022C	PIM1	2	Verified
+YBL021C	HAP3	2	Verified
+YBL020W	RFT1	2	Verified
+YBL019W	APN2	2	Verified
+YBL018C	POP8	2	Verified
+YBL017C	PEP1	2	Verified
+YBL016W	FUS3	2	Verified
+YBL015W	ACH1	2	Verified
+YBL014C	RRN6	2	Verified
+YBL013W	FMT1	2	Verified
+YBL012C		2	Dubious
+YBL011W	SCT1	2	Verified
+YBL010C	LAA2	2	Verified
+YBL009W	ALK2	2	Verified
+YBL008W-A		2	Uncharacterized
+YBL008W	HIR1	2	Verified
+YBL007C	SLA1	2	Verified
+YBL006C	LDB7	2	Verified
+YBL006W-A		2	Dubious
+YBL005W	PDR3	2	Verified
+YBL004W	UTP20	2	Verified
+YBL003C	HTA2	2	Verified
+YBL002W	HTB2	2	Verified
+YBL001C	ECM15	2	Verified
+YBR001C	NTH2	2	Verified
+YBR002C	RER2	2	Verified
+YBR003W	COQ1	2	Verified
+YBR004C	GPI18	2	Verified
+YBR005W	RCR1	2	Verified
+YBR006W	UGA2	2	Verified
+YBR007C	DSF2	2	Verified
+YBR008C	FLR1	2	Verified
+YBR009C	HHF1	2	Verified
+YBR010W	HHT1	2	Verified
+YBR011C	IPP1	2	Verified
+YBR012C		2	Dubious
+YBR014C	GRX7	2	Verified
+YBR015C	MNN2	2	Verified
+YBR016W		2	Verified
+YBR017C	KAP104	2	Verified
+YBR018C	GAL7	2	Verified
+YBR019C	GAL10	2	Verified
+YBR020W	GAL1	2	Verified
+YBR021W	FUR4	2	Verified
+YBR022W	POA1	2	Verified
+YBR023C	CHS3	2	Verified
+YBR024W	SCO2	2	Verified
+YBR025C	OLA1	2	Verified
+YBR026C	ETR1	2	Verified
+YBR027C		2	Uncharacterized
+YBR028C	YPK3	2	Verified
+YBR029C	CDS1	2	Verified
+YBR030W	RKM3	2	Verified
+YBR032W		2	Uncharacterized
+YBR033W	EDS1	2	Uncharacterized
+YBR034C	HMT1	2	Verified
+YBR035C	PDX3	2	Verified
+YBR036C	CSG2	2	Verified
+YBR037C	SCO1	2	Verified
+YBR038W	CHS2	2	Verified
+YBR039W	ATP3	2	Verified
+YBR040W	FIG1	2	Verified
+YBR041W	FAT1	2	Verified
+YBR042C	CST26	2	Verified
+YBR043C	QDR3	2	Verified
+YBR044C	TCM62	2	Verified
+YBR045C	GIP1	2	Verified
+YBR046C	ZTA1	2	Verified
+YBR047W	FMP23	2	Uncharacterized
+YBR048W	RPS11B	2	Verified
+YBR049C	REB1	2	Verified
+YBR050C	REG2	2	Verified
+YBR051W		2	Dubious
+YBR052C	RFS1	2	Verified
+YBR053C		2	Uncharacterized
+YBR054W	YRO2	2	Verified
+YBR055C	PRP6	2	Verified
+YBR056W	MRX18	2	Verified
+YBR056W-A	MNC1	2	Uncharacterized
+YBR056C-B		2	Dubious
+YBR057C	MUM2	2	Verified
+YBR058C	UBP14	2	Verified
+YBR058C-A	TSC3	2	Verified
+YBR059C	AKL1	2	Verified
+YBR060C	ORC2	2	Verified
+YBR061C	TRM7	2	Verified
+YBR062C		2	Uncharacterized
+YBR063C		2	Uncharacterized
+YBR064W		2	Dubious
+YBR065C	ECM2	2	Verified
+YBR066C	NRG2	2	Verified
+YBR067C	TIP1	2	Verified
+YBR068C	BAP2	2	Verified
+YBR069C	TAT1	2	Verified
+YBR070C	ALG14	2	Verified
+YBR071W		2	Verified
+YBR072W	HSP26	2	Verified
+YBR074W	PFF1	2	Verified
+YBR076W	ECM8	2	Verified
+YBR076C-A		2	Dubious
+YBR077C	SLM4	2	Verified
+YBR078W	ECM33	2	Verified
+YBR079C	RPG1	2	Verified
+YBR080C	SEC18	2	Verified
+YBR081C	SPT7	2	Verified
+YBR082C	UBC4	2	Verified
+YBR083W	TEC1	2	Verified
+YBR084W	MIS1	2	Verified
+YBR084C-A	RPL19A	2	Verified
+YBR085W	AAC3	2	Verified
+YBR085C-A		2	Verified
+YBR086C	IST2	2	Verified
+YBR087W	RFC5	2	Verified
+YBR088C	POL30	2	Verified
+YBR089W		2	Dubious
+YBR089C-A	NHP6B	2	Verified
+YBR091C	TIM12	2	Verified
+YBR092C	PHO3	2	Verified
+YBR093C	PHO5	2	Verified
+YBR094W	PBY1	2	Verified
+YBR095C	RXT2	2	Verified
+YBR096W		2	Uncharacterized
+YBR097W	VPS15	2	Verified
+YBR098W	MMS4	2	Verified
+YBR099C		2	Dubious
+YBR101C	FES1	2	Verified
+YBR102C	EXO84	2	Verified
+YBR103W	SIF2	2	Verified
+YBR103C-A		2	Dubious
+YBR104W	YMC2	2	Verified
+YBR105C	VID24	2	Verified
+YBR106W	SND3	2	Verified
+YBR107C	IML3	2	Verified
+YBR108W	AIM3	2	Verified
+YBR109C	CMD1	2	Verified
+YBR109W-A		2	Dubious
+YBR110W	ALG1	2	Verified
+YBR111C	YSA1	2	Verified
+YBR111W-A	SUS1	2	Verified
+YBR112C	CYC8	2	Verified
+YBR113W		2	Dubious
+YBR114W	RAD16	2	Verified
+YBR115C	LYS2	2	Verified
+YBR116C		2	Dubious
+YBR117C	TKL2	2	Verified
+YBR118W	TEF2	2	Verified
+YPR080W	TEF1	2	Verified
+YBR119W	MUD1	2	Verified
+YBR120C	CBP6	2	Verified
+YBR121C	GRS1	2	Verified
+YBR121C-A		2	Dubious
+YBR122C	MRPL36	2	Verified
+YBR123C	TFC1	2	Verified
+YBR124W		2	Dubious
+YBR125C	PTC4	2	Verified
+YBR126C	TPS1	2	Verified
+YBR126W-A	MEO1	2	Verified
+YBR126W-B		2	Dubious
+YBR127C	VMA2	2	Verified
+YBR128C	ATG14	2	Verified
+YBR129C	OPY1	2	Verified
+YBR130C	SHE3	2	Verified
+YBR131W	CCZ1	2	Verified
+YBR131C-A		2	Dubious
+YBR132C	AGP2	2	Verified
+YBR133C	HSL7	2	Verified
+YBR134W		2	Dubious
+YBR135W	CKS1	2	Verified
+YBR136W	MEC1	2	Verified
+YBR137W		2	Verified
+YBR138C		2	Uncharacterized
+YBR139W	ATG42	2	Verified
+YBR140C	IRA1	2	Verified
+YBR141C	BMT2	2	Verified
+YBR141W-A		2	Dubious
+YBR142W	MAK5	2	Verified
+YBR143C	SUP45	2	Verified
+YBR144C		2	Uncharacterized
+YBR145W	ADH5	2	Verified
+YBR146W	MRPS9	2	Verified
+YBR147W	RTC2	2	Verified
+YBR148W	YSW1	2	Verified
+YBR149W	ARA1	2	Verified
+YBR150C	TBS1	2	Verified
+YBR151W	APD1	2	Verified
+YBR152W	SPP381	2	Verified
+YBR153W	RIB7	2	Verified
+YBR154C	RPB5	2	Verified
+YBR155W	CNS1	2	Verified
+YBR156C	SLI15	2	Verified
+YBR157C	ICS2	2	Verified
+YBR158W	AMN1	2	Verified
+YBR159W	IFA38	2	Verified
+YBR160W	CDC28	2	Verified
+YBR161W	CSH1	2	Verified
+YBR162C	TOS1	2	Verified
+YBR162W-A	YSY6	2	Verified
+YBR163W	EXO5	2	Verified
+YBR164C	ARL1	2	Verified
+YBR165W	UBS1	2	Verified
+YBR166C	TYR1	2	Verified
+YBR167C	POP7	2	Verified
+YBR168W	PEX32	2	Verified
+YBR169C	SSE2	2	Verified
+YBR170C	NPL4	2	Verified
+YBR171W	SEC66	2	Verified
+YBR172C	SMY2	2	Verified
+YBR173C	UMP1	2	Verified
+YBR174C		2	Dubious
+YBR175W	SWD3	2	Verified
+YBR176W	ECM31	2	Verified
+YBR177C	EHT1	2	Verified
+YBR179C	FZO1	2	Verified
+YBR180W	DTR1	2	Verified
+YBR181C	RPS6B	2	Verified
+YBR182C	SMP1	2	Verified
+YBR183W	YPC1	2	Verified
+YBR184W		2	Uncharacterized
+YBR185C	MBA1	2	Verified
+YBR186W	PCH2	2	Verified
+YBR187W	GDT1	2	Verified
+YBR188C	NTC20	2	Verified
+YBR189W	RPS9B	2	Verified
+YBR190W		2	Dubious
+YBR191W	RPL21A	2	Verified
+YBR191W-A		2	Dubious
+YBR192W	RIM2	2	Verified
+YBR193C	MED8	2	Verified
+YBR194W	AIM4	2	Verified
+YBR195C	MSI1	2	Verified
+YBR196C	PGI1	2	Verified
+YBR196C-A		2	Uncharacterized
+YBR196C-B		2	Uncharacterized
+YBR197C		2	Verified
+YBR198C	TAF5	2	Verified
+YBR199W	KTR4	2	Verified
+YBR200W	BEM1	2	Verified
+YBR200W-A		2	Uncharacterized
+YBR201W	DER1	2	Verified
+YBR201C-A	MIN7	2	Uncharacterized
+YBR202W	MCM7	2	Verified
+YBR203W	COS111	2	Verified
+YBR204C	LDH1	2	Verified
+YBR205W	KTR3	2	Verified
+YBR206W		2	Dubious
+YBR207W	FTH1	2	Verified
+YBR208C	DUR1%2C2	2	Verified
+YBR209W		2	Uncharacterized
+YBR210W	ERV15	2	Verified
+YBR211C	AME1	2	Verified
+YBR212W	NGR1	2	Verified
+YBR213W	MET8	2	Verified
+YBR214W	SDS24	2	Verified
+YBR215W	HPC2	2	Verified
+YBR216C	YBP1	2	Verified
+YBR217W	ATG12	2	Verified
+YBR218C	PYC2	2	Verified
+YBR220C		2	Uncharacterized
+YBR221C	PDB1	2	Verified
+YBR221W-A		2	Uncharacterized
+YBR222C	PCS60	2	Verified
+YBR223C	TDP1	2	Verified
+YBR223W-A		2	Dubious
+YBR224W		2	Dubious
+YBR225W		2	Uncharacterized
+YBR226C		2	Dubious
+YBR227C	MCX1	2	Verified
+YBR228W	SLX1	2	Verified
+YBR229C	ROT2	2	Verified
+YBR230C	OM14	2	Verified
+YBR230W-A	COQ21	2	Verified
+YBR231C	SWC5	2	Verified
+YBR232C		2	Dubious
+YBR233W	PBP2	2	Verified
+YBR233W-A	DAD3	2	Verified
+YBR234C	ARC40	2	Verified
+YBR235W	VHC1	2	Verified
+YBR236C	ABD1	2	Verified
+YBR237W	PRP5	2	Verified
+YBR238C		2	Verified
+YBR239C	ERT1	2	Verified
+YBR240C	THI2	2	Verified
+YBR241C	VVS1	2	Verified
+YBR242W		2	Verified
+YBR243C	ALG7	2	Verified
+YBR244W	GPX2	2	Verified
+YBR245C	ISW1	2	Verified
+YBR246W	RRT2	2	Verified
+YBR247C	ENP1	2	Verified
+YBR248C	HIS7	2	Verified
+YBR249C	ARO4	2	Verified
+YBR250W	SPO23	2	Verified
+YBR251W	MRPS5	2	Verified
+YBR252W	DUT1	2	Verified
+YBR253W	SRB6	2	Verified
+YBR254C	TRS20	2	Verified
+YBR255W	MTC4	2	Verified
+YBR255C-A	RCF3	2	Uncharacterized
+YBR256C	RIB5	2	Verified
+YBR257W	POP4	2	Verified
+YBR258C	SHG1	2	Verified
+YBR259W		2	Verified
+YBR260C	RGD1	2	Verified
+YBR261C	TAE1	2	Verified
+YBR262C	MIC12	2	Verified
+YBR263W	SHM1	2	Verified
+YBR264C	YPT10	2	Verified
+YBR265W	TSC10	2	Verified
+YBR267W	REI1	2	Verified
+YBR266C	SLM6	2	Verified
+YBR268W	MRPL37	2	Verified
+YBR269C	SDH8	2	Verified
+YBR270C	BIT2	2	Verified
+YBR271W	EFM2	2	Verified
+YBR272C	HSM3	2	Verified
+YBR273C	UBX7	2	Verified
+YBR274W	CHK1	2	Verified
+YBR275C	RIF1	2	Verified
+YBR276C	PPS1	2	Verified
+YBR277C		2	Dubious
+YBR278W	DPB3	2	Verified
+YBR279W	PAF1	2	Verified
+YBR280C	SAF1	2	Verified
+YBR281C	DUG2	2	Verified
+YBR282W	MRPL27	2	Verified
+YBR283C	SSH1	2	Verified
+YBR284W		2	Uncharacterized
+YBR285W		2	Uncharacterized
+YBR286W	APE3	2	Verified
+YBR287W		2	Uncharacterized
+YBR288C	APM3	2	Verified
+YBR289W	SNF5	2	Verified
+YBR290W	BSD2	2	Verified
+YBR291C	CTP1	2	Verified
+YBR293W	VBA2	2	Verified
+YBR294W	SUL1	2	Verified
+YBR296C	PHO89	2	Verified
+YBR296C-A	TYC1	2	Verified
+YBR297W	MAL33	2	Verified
+YGR293C		2	Dubious
+YBR301W	PAU24	2	Verified
+YGR294W	PAU12	2	Verified
+YGR295C	COS6	2	Verified
+YCR108C		2	Uncharacterized
+YCL073C	GEX1	3	Verified
+YKR106W	GEX2	3	Verified
+YKR105C	VBA5	3	Verified
+YCR038W-A		3	Dubious
+YCL066W	HMLALPHA1	3	Verified
+YCR040W	MATALPHA1	3	Verified
+YCL064C	CHA1	3	Verified
+YCL063W	VAC17	3	Verified
+YCL061C	MRC1	3	Verified
+YCL059C	KRR1	3	Verified
+YCL058C	FYV5	3	Verified
+YCL058W-A	ADF1	3	Verified
+YCL057C-A	MIC10	3	Verified
+YCL057W	PRD1	3	Verified
+YCL056C	PEX34	3	Verified
+YCL055W	KAR4	3	Verified
+YCL054W-A	RDT1	3	Uncharacterized
+YCL054W	SPB1	3	Verified
+YCL052C	PBN1	3	Verified
+YCL051W	LRE1	3	Verified
+YCL050C	APA1	3	Verified
+YCL049C		3	Uncharacterized
+YCL048W-A		3	Uncharacterized
+YCL048W	SPS22	3	Verified
+YCL047C	POF1	3	Verified
+YCL045C	EMC1	3	Verified
+YCL046W		3	Dubious
+YCL044C	MGR1	3	Verified
+YCL043C	PDI1	3	Verified
+YCL040W	GLK1	3	Verified
+YCL039W	GID7	3	Verified
+YCL038C	ATG22	3	Verified
+YCL037C	SRO9	3	Verified
+YCL036W	GFD2	3	Verified
+YCL035C	GRX1	3	Verified
+YCL034W	LSB5	3	Verified
+YCL033C	MXR2	3	Verified
+YCL032W	STE50	3	Verified
+YCL031C	RRP7	3	Verified
+YCL030C	HIS4	3	Verified
+YCL029C	BIK1	3	Verified
+YCL028W	RNQ1	3	Verified
+YCL027W	FUS1	3	Verified
+YCL026C-B	HBN1	3	Verified
+YCL026C-A	FRM2	3	Verified
+YCL025C	AGP1	3	Verified
+YCL023C		3	Dubious
+YCL024W	KCC4	3	Verified
+YCL022C		3	Dubious
+YCL021W-A		3	Uncharacterized
+YCL018W	LEU2	3	Verified
+YCL017C	NFS1	3	Verified
+YCL016C	DCC1	3	Verified
+YCL014W	BUD3	3	Verified
+YCL012C		3	Verified
+YCL011C	GBP2	3	Verified
+YCL010C	SGF29	3	Verified
+YCL009C	ILV6	3	Verified
+YCL008C	STP22	3	Verified
+YCL007C		3	Dubious
+YCL005W-A	VMA9	3	Verified
+YCL005W	LDB16	3	Verified
+YCL004W	PGS1	3	Verified
+YCL002C		3	Uncharacterized
+YCL001W	RER1	3	Verified
+YCL001W-A		3	Uncharacterized
+YCL001W-B		3	Uncharacterized
+YCR001W		3	Uncharacterized
+YCR002C	CDC10	3	Verified
+YCR003W	MRPL32	3	Verified
+YCR004C	YCP4	3	Verified
+YCR005C	CIT2	3	Verified
+YCR006C		3	Uncharacterized
+YCR007C		3	Uncharacterized
+YCR008W	SAT4	3	Verified
+YCR009C	RVS161	3	Verified
+YCR010C	ADY2	3	Verified
+YCR011C	ADP1	3	Verified
+YCR012W	PGK1	3	Verified
+YCR013C		3	Dubious
+YCR014C	POL4	3	Verified
+YCR015C	CTO1	3	Verified
+YCR016W		3	Uncharacterized
+YCR017C	CWH43	3	Verified
+YCR018C	SRD1	3	Verified
+YCR018C-A		3	Dubious
+YCR019W	MAK32	3	Verified
+YCR020C	PET18	3	Verified
+YCR020C-A	MAK31	3	Verified
+YCR020W-B	HTL1	3	Verified
+YCR021C	HSP30	3	Verified
+YCR023C		3	Verified
+YCR024C	SLM5	3	Verified
+YCR024C-A	PMP1	3	Verified
+YCR025C		3	Uncharacterized
+YCR026C	NPP1	3	Verified
+YCR027C	RHB1	3	Verified
+YCR028C	FEN2	3	Verified
+YCR028C-A	RIM1	3	Verified
+YCR030C	SYP1	3	Verified
+YCR031C	RPS14A	3	Verified
+YCR032W	BPH1	3	Verified
+YCR033W	SNT1	3	Verified
+YCR034W	ELO2	3	Verified
+YCR035C	RRP43	3	Verified
+YCR036W	RBK1	3	Verified
+YCR037C	PHO87	3	Verified
+YCR038C	BUD5	3	Verified
+YCR038W-A		3	Dubious
+YCR097W	HMRA1	3	Verified
+YCR041W		3	Verified
+YCR042C	TAF2	3	Verified
+YCR043C		3	Uncharacterized
+YCR044C	PER1	3	Verified
+YCR045C	RRT12	3	Verified
+YCR045W-A		3	Dubious
+YCR046C	IMG1	3	Verified
+YCR047C	BUD23	3	Verified
+YCR047W-A		3	Dubious
+YCR049C		3	Dubious
+YCR048W	ARE1	3	Verified
+YCR050C		3	Uncharacterized
+YCR051W		3	Uncharacterized
+YCR052W	RSC6	3	Verified
+YCR053W	THR4	3	Verified
+YCR054C	CTR86	3	Verified
+YCR057C	PWP2	3	Verified
+YCR059C	YIH1	3	Verified
+YCR060W	TAH1	3	Verified
+YCR061W	TVS1	3	Verified
+YCR064C		3	Dubious
+YCR063W	BUD31	3	Verified
+YCR065W	HCM1	3	Verified
+YCR066W	RAD18	3	Verified
+YCR067C	SED4	3	Verified
+YCR068W	ATG15	3	Verified
+YCR069W	CPR4	3	Verified
+YCR071C	IMG2	3	Verified
+YCR072C	RSA4	3	Verified
+YCR073W-A	SOL2	3	Verified
+YCR075C	ERS1	3	Verified
+YCR075W-A	EGO2	3	Verified
+YCR076C	FUB1	3	Verified
+YCR077C	PAT1	3	Verified
+YCR079W	PTC6	3	Verified
+YCR081W	SRB8	3	Verified
+YCR081C-A		3	Dubious
+YCR082W	AHC2	3	Verified
+YCR083W	TRX3	3	Verified
+YCR084C	TUP1	3	Verified
+YCR086W	CSM1	3	Verified
+YCR087W		3	Dubious
+YCR087C-A		3	Uncharacterized
+YCR088W	ABP1	3	Verified
+YCR089W	FIG2	3	Verified
+YCR090C		3	Uncharacterized
+YCR091W	KIN82	3	Verified
+YCR092C	MSH3	3	Verified
+YCR093W	CDC39	3	Verified
+YCR094W	CDC50	3	Verified
+YCR095C	OCA4	3	Uncharacterized
+YCR095W-A		3	Uncharacterized
+YCR096C	HMRA2	3	Verified
+YCR097W	HMRA1	3	Verified
+YCR097W-A		3	Dubious
+YCR098C	GIT1	3	Verified
+YCR102C		3	Uncharacterized
+YHL042W		3	Uncharacterized
+YJL222W-B		3	Dubious
+YNL337W		3	Dubious
+YOR394C-A		3	Uncharacterized
+YNR077C		4	Uncharacterized
+YDL247W-A		4	Dubious
+YJR160C	MPH3	4	Verified
+YDL246C	SOR2	4	Verified
+YJR159W	SOR1	4	Verified
+YDL245C	HXT15	4	Verified
+YJR158W	HXT16	4	Verified
+YJR157W		4	Dubious
+YFL058W	THI5	4	Verified
+YDL243C	AAD4	4	Verified
+YDL241W		4	Uncharacterized
+YDL240C-A		4	Dubious
+YDL240W	LRG1	4	Verified
+YDL239C	ADY3	4	Verified
+YDL238C	GUD1	4	Verified
+YDL237W	AIM6	4	Verified
+YDL236W	PHO13	4	Verified
+YDL235C	YPD1	4	Verified
+YDL234C	GYP7	4	Verified
+YDL233W	MFG1	4	Uncharacterized
+YDL232W	OST4	4	Verified
+YDL231C	BRE4	4	Verified
+YDL230W	PTP1	4	Verified
+YDL229W	SSB1	4	Verified
+YDL228C		4	Dubious
+YDL226C	GCS1	4	Verified
+YDL225W	SHS1	4	Verified
+YDL224C	WHI4	4	Verified
+YDL223C	HBT1	4	Verified
+YDL222C	FMP45	4	Verified
+YDL221W		4	Dubious
+YDL220C	CDC13	4	Verified
+YDL219W	DTD1	4	Verified
+YDL218W		4	Uncharacterized
+YDL217C	TIM22	4	Verified
+YDL216C	RRI1	4	Verified
+YDL215C	GDH2	4	Verified
+YDL214C	PRR2	4	Verified
+YDL213C	NOP6	4	Verified
+YDL212W	SHR3	4	Verified
+YDL211C		4	Uncharacterized
+YDL210W	UGA4	4	Verified
+YDL209C	CWC2	4	Verified
+YDL208W	NHP2	4	Verified
+YDL207W	GLE1	4	Verified
+YDL206W		4	Uncharacterized
+YDL205C	HEM3	4	Verified
+YDL204W	RTN2	4	Verified
+YDL203C	ACK1	4	Verified
+YDL202W	MRPL11	4	Verified
+YDL201W	TRM8	4	Verified
+YDL200C	MGT1	4	Verified
+YDL199C		4	Uncharacterized
+YDL198C	GGC1	4	Verified
+YDL197C	ASF2	4	Verified
+YDL195W	SEC31	4	Verified
+YDL194W	SNF3	4	Verified
+YDL193W	NUS1	4	Verified
+YDL192W	ARF1	4	Verified
+YDL191W	RPL35A	4	Verified
+YDL190C	UFD2	4	Verified
+YDL189W	RBS1	4	Verified
+YDL188C	PPH22	4	Verified
+YDL187C		4	Dubious
+YDL186W		4	Uncharacterized
+YDL185C-A		4	Dubious
+YDL185W	VMA1	4	Verified
+YDL184C	RPL41A	4	Verified
+YDL183C	MRX19	4	Verified
+YDL182W	LYS20	4	Verified
+YDL181W	INH1	4	Verified
+YDL180W		4	Uncharacterized
+YDL179W	PCL9	4	Verified
+YDL178W	DLD2	4	Verified
+YDL177C		4	Uncharacterized
+YDL176W	IPF1	4	Verified
+YDL175C	AIR2	4	Verified
+YDL174C	DLD1	4	Verified
+YDL173W	PAR32	4	Verified
+YDL172C		4	Dubious
+YDL171C	GLT1	4	Verified
+YDL170W	UGA3	4	Verified
+YDL169C	UGX2	4	Verified
+YDL168W	SFA1	4	Verified
+YDL167C	NRP1	4	Verified
+YDL166C	FAP7	4	Verified
+YDL165W	CDC36	4	Verified
+YDL164C	CDC9	4	Verified
+YDL163W		4	Dubious
+YDL162C		4	Dubious
+YDL161W	ENT1	4	Verified
+YDL160C-A	MHF2	4	Verified
+YDL160C	DHH1	4	Verified
+YDL159W-A		4	Uncharacterized
+YDL159W	STE7	4	Verified
+YDL159C-B		4	Dubious
+YDL158C		4	Dubious
+YDL157C		4	Uncharacterized
+YDL156W	CMR1	4	Verified
+YDL155W	CLB3	4	Verified
+YDL154W	MSH5	4	Verified
+YDL153C	SAS10	4	Verified
+YDL152W		4	Dubious
+YDL151C	BUD30	4	Dubious
+YDL150W	RPC53	4	Verified
+YDL149W	ATG9	4	Verified
+YDL148C	NOP14	4	Verified
+YDL147W	RPN5	4	Verified
+YDL146W	LDB17	4	Verified
+YDL145C	COP1	4	Verified
+YDL144C		4	Verified
+YDL143W	CCT4	4	Verified
+YDL142C	CRD1	4	Verified
+YDL141W	BPL1	4	Verified
+YDL140C	RPO21	4	Verified
+YDL139C	SCM3	4	Verified
+YDL138W	RGT2	4	Verified
+YDL137W	ARF2	4	Verified
+YDL136W	RPL35B	4	Verified
+YDL135C	RDI1	4	Verified
+YDL134C	PPH21	4	Verified
+YDL133C-A	RPL41B	4	Verified
+YDL133W	SRF1	4	Verified
+YDL132W	CDC53	4	Verified
+YDL131W	LYS21	4	Verified
+YDL130W-A	STF1	4	Verified
+YDL130W	RPP1B	4	Verified
+YDL129W		4	Verified
+YDL128W	VCX1	4	Verified
+YDL127W	PCL2	4	Verified
+YDL126C	CDC48	4	Verified
+YDL125C	HNT1	4	Verified
+YDL124W		4	Verified
+YDL123W	SNA4	4	Verified
+YDL122W	UBP1	4	Verified
+YDL121C	EXP1	4	Verified
+YDL120W	YFH1	4	Verified
+YDL119C	HEM25	4	Verified
+YDL118W		4	Dubious
+YDL117W	CYK3	4	Verified
+YDL116W	NUP84	4	Verified
+YDL115C	IWR1	4	Verified
+YDL114W-A		4	Dubious
+YDL114W		4	Uncharacterized
+YDL113C	ATG20	4	Verified
+YDL112W	TRM3	4	Verified
+YDL111C	RRP42	4	Verified
+YDL110C	TMA17	4	Verified
+YDL109C		4	Uncharacterized
+YDL108W	KIN28	4	Verified
+YDL107W	MSS2	4	Verified
+YDL106C	PHO2	4	Verified
+YDL105W	NSE4	4	Verified
+YDL104C	QRI7	4	Verified
+YDL103C	QRI1	4	Verified
+YDL102W	POL3	4	Verified
+YDL101C	DUN1	4	Verified
+YDL100C	GET3	4	Verified
+YDL099W	BUG1	4	Verified
+YDL098C	SNU23	4	Verified
+YDL097C	RPN6	4	Verified
+YDL096C	OPI6	4	Dubious
+YDL095W	PMT1	4	Verified
+YDL093W	PMT5	4	Verified
+YDL092W	SRP14	4	Verified
+YDL091C	UBX3	4	Verified
+YDL090C	RAM1	4	Verified
+YDL089W	NUR1	4	Verified
+YDL088C	ASM4	4	Verified
+YDL087C	LUC7	4	Verified
+YDL086W		4	Uncharacterized
+YDL086C-A		4	Dubious
+YDL085C-A		4	Uncharacterized
+YDL085W	NDE2	4	Verified
+YDL084W	SUB2	4	Verified
+YDL083C	RPS16B	4	Verified
+YDL082W	RPL13A	4	Verified
+YDL081C	RPP1A	4	Verified
+YDL080C	THI3	4	Verified
+YDL079C	MRK1	4	Verified
+YDL078C	MDH3	4	Verified
+YDL077C	VAM6	4	Verified
+YDL076C	RXT3	4	Verified
+YDL075W	RPL31A	4	Verified
+YDL074C	BRE1	4	Verified
+YDL073W	AHK1	4	Verified
+YDL072C	YET3	4	Verified
+YDL070W	BDF2	4	Verified
+YDL069C	CBS1	4	Verified
+YDL068W		4	Dubious
+YDL067C	COX9	4	Verified
+YDL066W	IDP1	4	Verified
+YDL065C	PEX19	4	Verified
+YDL064W	UBC9	4	Verified
+YDL063C	SYO1	4	Verified
+YDL061C	RPS29B	4	Verified
+YDL060W	TSR1	4	Verified
+YDL059C	RAD59	4	Verified
+YDL058W	USO1	4	Verified
+YDL057W		4	Uncharacterized
+YDL056W	MBP1	4	Verified
+YDL055C	PSA1	4	Verified
+YDL054C	MCH1	4	Verified
+YDL053C	PBP4	4	Verified
+YDL052C	SLC1	4	Verified
+YDL051W	LHP1	4	Verified
+YDL050C		4	Dubious
+YDL049C	KNH1	4	Verified
+YDL048C	STP4	4	Verified
+YDL047W	SIT4	4	Verified
+YDL046W	NPC2	4	Verified
+YDL045W-A	MRP10	4	Verified
+YDL045C	FAD1	4	Verified
+YDL044C	MTF2	4	Verified
+YDL043C	PRP11	4	Verified
+YDL042C	SIR2	4	Verified
+YDL041W		4	Dubious
+YDL040C	NAT1	4	Verified
+YDL039C	PRM7	4	Verified
+YDL037C	BSC1	4	Verified
+YDL036C	PUS9	4	Verified
+YDL035C	GPR1	4	Verified
+YDL034W		4	Dubious
+YDL033C	SLM3	4	Verified
+YDL032W		4	Dubious
+YDL031W	DBP10	4	Verified
+YDL030W	PRP9	4	Verified
+YDL029W	ARP2	4	Verified
+YDL028C	MPS1	4	Verified
+YDL027C	MRX9	4	Uncharacterized
+YDL026W		4	Dubious
+YDL025C	RTK1	4	Verified
+YDL025W-A		4	Dubious
+YDL024C	DIA3	4	Verified
+YDL022W	GPD1	4	Verified
+YDL021W	GPM2	4	Verified
+YDL020C	RPN4	4	Verified
+YDL019C	OSH2	4	Verified
+YDL018C	ERP3	4	Verified
+YDL017W	CDC7	4	Verified
+YDL016C		4	Dubious
+YDL015C	TSC13	4	Verified
+YDL014W	NOP1	4	Verified
+YDL013W	SLX5	4	Verified
+YDL012C		4	Verified
+YDL011C		4	Dubious
+YDL010W	GRX6	4	Verified
+YDL008W	APC11	4	Verified
+YDL007C-A		4	Uncharacterized
+YDL007W	RPT2	4	Verified
+YDL006W	PTC1	4	Verified
+YDL005C	MED2	4	Verified
+YDL004W	ATP16	4	Verified
+YDL003W	MCD1	4	Verified
+YDL002C	NHP10	4	Verified
+YDL001W	RMD1	4	Verified
+YDR001C	NTH1	4	Verified
+YDR002W	YRB1	4	Verified
+YDR003W	RCR2	4	Verified
+YDR003W-A		4	Uncharacterized
+YDR004W	RAD57	4	Verified
+YDR005C	MAF1	4	Verified
+YDR006C	SOK1	4	Verified
+YDR007W	TRP1	4	Verified
+YDR008C		4	Dubious
+YDR009W	GAL3	4	Verified
+YDR011W	SNQ2	4	Verified
+YDR012W	RPL4B	4	Verified
+YDR013W	PSF1	4	Verified
+YDR014W	RAD61	4	Verified
+YDR014W-A	HED1	4	Verified
+YDR015C		4	Dubious
+YDR016C	DAD1	4	Verified
+YDR017C	KCS1	4	Verified
+YDR019C	GCV1	4	Verified
+YDR020C	DAS2	4	Uncharacterized
+YDR021W	FAL1	4	Verified
+YDR022C	ATG31	4	Verified
+YDR023W	SES1	4	Verified
+YDR024W	FYV1	4	Dubious
+YDR025W	RPS11A	4	Verified
+YDR026C	NSI1	4	Verified
+YDR027C	VPS54	4	Verified
+YDR028C	REG1	4	Verified
+YDR029W		4	Uncharacterized
+YDR030C	RAD28	4	Verified
+YDR031W	MIX14	4	Verified
+YDR032C	PST2	4	Verified
+YDR033W	MRH1	4	Verified
+YDR034C	LYS14	4	Verified
+YDR034W-B		4	Uncharacterized
+YDR035W	ARO3	4	Verified
+YDR036C	EHD3	4	Verified
+YDR037W	KRS1	4	Verified
+YDR038C	ENA5	4	Verified
+YDR039C	ENA2	4	Verified
+YDR040C	ENA1	4	Verified
+YDR041W	RSM10	4	Verified
+YDR042C		4	Uncharacterized
+YDR043C	NRG1	4	Verified
+YDR044W	HEM13	4	Verified
+YDR045C	RPC11	4	Verified
+YDR046C	BAP3	4	Verified
+YDR047W	HEM12	4	Verified
+YDR049W	VMS1	4	Verified
+YDR050C	TPI1	4	Verified
+YDR051C	DET1	4	Verified
+YDR052C	DBF4	4	Verified
+YDR053W		4	Dubious
+YDR054C	CDC34	4	Verified
+YDR055W	PST1	4	Verified
+YDR056C	EMC10	4	Uncharacterized
+YDR057W	YOS9	4	Verified
+YDR058C	TGL2	4	Verified
+YDR059C	UBC5	4	Verified
+YDR060W	MAK21	4	Verified
+YDR061W		4	Uncharacterized
+YDR062W	LCB2	4	Verified
+YDR063W	AIM7	4	Verified
+YDR064W	RPS13	4	Verified
+YDR065W	RRG1	4	Verified
+YDR066C	RTR2	4	Verified
+YDR067C	OCA6	4	Uncharacterized
+YDR068W	DOS2	4	Verified
+YDR069C	DOA4	4	Verified
+YDR070C	FMP16	4	Verified
+YDR071C	PAA1	4	Verified
+YDR072C	IPT1	4	Verified
+YDR073W	SNF11	4	Verified
+YDR074W	TPS2	4	Verified
+YDR075W	PPH3	4	Verified
+YDR076W	RAD55	4	Verified
+YDR077W	SED1	4	Verified
+YDR078C	SHU2	4	Verified
+YDR079W	PET100	4	Verified
+YDR079C-A	TFB5	4	Verified
+YDR080W	VPS41	4	Verified
+YDR081C	PDC2	4	Verified
+YDR082W	STN1	4	Verified
+YDR083W	RRP8	4	Verified
+YDR084C	TVP23	4	Verified
+YDR085C	AFR1	4	Verified
+YDR086C	SSS1	4	Verified
+YDR087C	RRP1	4	Verified
+YDR088C	SLU7	4	Verified
+YDR089W	VTC5	4	Verified
+YDR090C	ILT1	4	Verified
+YDR091C	RLI1	4	Verified
+YDR092W	UBC13	4	Verified
+YDR093W	DNF2	4	Verified
+YDR094W		4	Dubious
+YDR095C		4	Dubious
+YDR096W	GIS1	4	Verified
+YDR097C	MSH6	4	Verified
+YDR098C	GRX3	4	Verified
+YDR099W	BMH2	4	Verified
+YDR100W	TVP15	4	Verified
+YDR101C	ARX1	4	Verified
+YDR102C		4	Uncharacterized
+YDR103W	STE5	4	Verified
+YDR104C	SPO71	4	Verified
+YDR105C	TMS1	4	Verified
+YDR106W	ARP10	4	Verified
+YDR107C	TMN2	4	Verified
+YDR108W	TRS85	4	Verified
+YDR109C		4	Verified
+YDR110W	FOB1	4	Verified
+YDR111C	ALT2	4	Uncharacterized
+YDR112W	IRC2	4	Dubious
+YDR113C	PDS1	4	Verified
+YDR114C		4	Uncharacterized
+YDR115W	MRX14	4	Verified
+YDR116C	MRPL1	4	Verified
+YDR117C	TMA64	4	Verified
+YDR118W	APC4	4	Verified
+YDR119W	VBA4	4	Uncharacterized
+YDR119W-A	COX26	4	Verified
+YDR120C	TRM1	4	Verified
+YDR121W	DPB4	4	Verified
+YDR122W	KIN1	4	Verified
+YDR123C	INO2	4	Verified
+YDR124W		4	Uncharacterized
+YDR125C	ECM18	4	Verified
+YDR126W	SWF1	4	Verified
+YDR127W	ARO1	4	Verified
+YDR128W	MTC5	4	Verified
+YDR129C	SAC6	4	Verified
+YDR130C	FIN1	4	Verified
+YDR131C		4	Verified
+YDR132C	MRX16	4	Verified
+YDR133C		4	Dubious
+YDR135C	YCF1	4	Verified
+YDR137W	RGP1	4	Verified
+YDR138W	HPR1	4	Verified
+YDR139C	RUB1	4	Verified
+YDR140W	MTQ2	4	Verified
+YDR141C	DOP1	4	Verified
+YDR142C	PEX7	4	Verified
+YDR143C	SAN1	4	Verified
+YDR144C	MKC7	4	Verified
+YDR145W	TAF12	4	Verified
+YDR146C	SWI5	4	Verified
+YDR147W	EKI1	4	Verified
+YDR148C	KGD2	4	Verified
+YDR149C		4	Dubious
+YDR150W	NUM1	4	Verified
+YDR151C	CTH1	4	Verified
+YDR152W	GIR2	4	Verified
+YDR153C	ENT5	4	Verified
+YDR154C		4	Dubious
+YDR155C	CPR1	4	Verified
+YDR156W	RPA14	4	Verified
+YDR158W	HOM2	4	Verified
+YDR159W	SAC3	4	Verified
+YDR160W	SSY1	4	Verified
+YDR161W	ACL4	4	Verified
+YDR162C	NBP2	4	Verified
+YDR163W	CWC15	4	Verified
+YDR164C	SEC1	4	Verified
+YDR165W	TRM82	4	Verified
+YDR166C	SEC5	4	Verified
+YDR167W	TAF10	4	Verified
+YDR168W	CDC37	4	Verified
+YDR169C	STB3	4	Verified
+YDR170C	SEC7	4	Verified
+YDR171W	HSP42	4	Verified
+YDR172W	SUP35	4	Verified
+YDR173C	ARG82	4	Verified
+YDR174W	HMO1	4	Verified
+YDR175C	RSM24	4	Verified
+YDR176W	NGG1	4	Verified
+YDR177W	UBC1	4	Verified
+YDR178W	SDH4	4	Verified
+YDR179C	CSN9	4	Verified
+YDR179W-A	NVJ3	4	Verified
+YDR180W	SCC2	4	Verified
+YDR181C	SAS4	4	Verified
+YDR182W	CDC1	4	Verified
+YDR182W-A		4	Uncharacterized
+YDR183W	PLP1	4	Verified
+YDR183C-A		4	Dubious
+YDR184C	ATC1	4	Verified
+YDR185C	UPS3	4	Verified
+YDR186C	SND1	4	Verified
+YDR187C		4	Dubious
+YDR188W	CCT6	4	Verified
+YDR189W	SLY1	4	Verified
+YDR190C	RVB1	4	Verified
+YDR191W	HST4	4	Verified
+YDR192C	NUP42	4	Verified
+YDR193W		4	Dubious
+YDR194C	MSS116	4	Verified
+YDR194W-A		4	Uncharacterized
+YDR195W	REF2	4	Verified
+YDR196C	CAB5	4	Verified
+YDR197W	CBS2	4	Verified
+YDR198C	RKM2	4	Verified
+YDR199W		4	Dubious
+YDR200C	VPS64	4	Verified
+YDR201W	SPC19	4	Verified
+YDR202C	RAV2	4	Verified
+YDR203W		4	Dubious
+YDR204W	COQ4	4	Verified
+YDR205W	MSC2	4	Verified
+YDR206W	EBS1	4	Verified
+YDR207C	UME6	4	Verified
+YDR208W	MSS4	4	Verified
+YDR209C		4	Uncharacterized
+YDR210W		4	Uncharacterized
+YDR211W	GCD6	4	Verified
+YDR212W	TCP1	4	Verified
+YDR213W	UPC2	4	Verified
+YDR214W	AHA1	4	Verified
+YDR215C		4	Uncharacterized
+YDR216W	ADR1	4	Verified
+YDR217C	RAD9	4	Verified
+YDR218C	SPR28	4	Verified
+YDR219C	MFB1	4	Verified
+YDR220C		4	Dubious
+YDR221W	GTB1	4	Verified
+YDR222W		4	Uncharacterized
+YDR223W	CRF1	4	Verified
+YDR224C	HTB1	4	Verified
+YDR225W	HTA1	4	Verified
+YDR226W	ADK1	4	Verified
+YDR227W	SIR4	4	Verified
+YDR228C	PCF11	4	Verified
+YDR229W	IVY1	4	Verified
+YDR230W		4	Dubious
+YDR231C	COX20	4	Verified
+YDR232W	HEM1	4	Verified
+YDR233C	RTN1	4	Verified
+YDR234W	LYS4	4	Verified
+YDR235W	PRP42	4	Verified
+YDR236C	FMN1	4	Verified
+YDR237W	MRPL7	4	Verified
+YDR238C	SEC26	4	Verified
+YDR239C		4	Verified
+YDR240C	SNU56	4	Verified
+YDR241W	BUD26	4	Dubious
+YDR242W	AMD2	4	Verified
+YDR243C	PRP28	4	Verified
+YDR244W	PEX5	4	Verified
+YDR245W	MNN10	4	Verified
+YDR246W	TRS23	4	Verified
+YDR246W-A		4	Uncharacterized
+YDR247W	VHS1	4	Verified
+YDR248C		4	Uncharacterized
+YDR249C		4	Uncharacterized
+YDR250C		4	Dubious
+YDR251W	PAM1	4	Verified
+YDR252W	BTT1	4	Verified
+YDR253C	MET32	4	Verified
+YDR254W	CHL4	4	Verified
+YDR255C	RMD5	4	Verified
+YDR256C	CTA1	4	Verified
+YDR257C	RKM4	4	Verified
+YDR258C	HSP78	4	Verified
+YDR259C	YAP6	4	Verified
+YDR260C	SWM1	4	Verified
+YDR261C	EXG2	4	Verified
+YDR262W		4	Uncharacterized
+YDR263C	DIN7	4	Verified
+YDR264C	AKR1	4	Verified
+YDR265W	PEX10	4	Verified
+YDR266C	HEL2	4	Verified
+YDR267C	CIA1	4	Verified
+YDR268W	MSW1	4	Verified
+YDR269C		4	Dubious
+YDR270W	CCC2	4	Verified
+YDR271C		4	Dubious
+YDR272W	GLO2	4	Verified
+YDR273W	DON1	4	Verified
+YDR274C		4	Uncharacterized
+YDR275W	BSC2	4	Verified
+YDR276C	PMP3	4	Verified
+YDR277C	MTH1	4	Verified
+YDR278C		4	Uncharacterized
+YDR279W	RNH202	4	Verified
+YDR280W	RRP45	4	Verified
+YDR281C	PHM6	4	Verified
+YDR282C	MRX10	4	Verified
+YDR283C	GCN2	4	Verified
+YDR284C	DPP1	4	Verified
+YDR285W	ZIP1	4	Verified
+YDR286C	MGP12	4	Uncharacterized
+YDR287W	INM2	4	Verified
+YDR288W	NSE3	4	Verified
+YDR289C	RTT103	4	Verified
+YDR290W		4	Dubious
+YDR291W	HRQ1	4	Verified
+YDR292C	SRP101	4	Verified
+YDR293C	SSD1	4	Verified
+YDR294C	DPL1	4	Verified
+YDR295C	HDA2	4	Verified
+YDR296W	MHR1	4	Verified
+YDR297W	SUR2	4	Verified
+YDR298C	ATP5	4	Verified
+YDR299W	BFR2	4	Verified
+YDR300C	PRO1	4	Verified
+YDR301W	CFT1	4	Verified
+YDR302W	GPI11	4	Verified
+YDR303C	RSC3	4	Verified
+YDR304C	CPR5	4	Verified
+YDR305C	HNT2	4	Verified
+YDR306C	PFU1	4	Verified
+YDR308C	SRB7	4	Verified
+YDR309C	GIC2	4	Verified
+YDR310C	SUM1	4	Verified
+YDR311W	TFB1	4	Verified
+YDR312W	SSF2	4	Verified
+YDR313C	PIB1	4	Verified
+YDR314C	RAD34	4	Verified
+YDR315C	IPK1	4	Verified
+YDR316W	OMS1	4	Verified
+YDR317W	HIM1	4	Verified
+YDR318W	MCM21	4	Verified
+YDR319C	YFT2	4	Uncharacterized
+YDR320C	SWA2	4	Verified
+YDR320C-A	DAD4	4	Verified
+YDR321W	ASP1	4	Verified
+YDR322W	MRPL35	4	Verified
+YDR322C-A	TIM11	4	Verified
+YDR323C	PEP7	4	Verified
+YDR324C	UTP4	4	Verified
+YDR325W	YCG1	4	Verified
+YDR326C	YSP2	4	Verified
+YDR327W		4	Dubious
+YDR328C	SKP1	4	Verified
+YDR329C	PEX3	4	Verified
+YDR330W	UBX5	4	Verified
+YDR331W	GPI8	4	Verified
+YDR332W	IRC3	4	Verified
+YDR333C	RQC1	4	Verified
+YDR334W	SWR1	4	Verified
+YDR335W	MSN5	4	Verified
+YDR336W	MRX8	4	Uncharacterized
+YDR337W	MRPS28	4	Verified
+YDR338C		4	Uncharacterized
+YDR339C	FCF1	4	Verified
+YDR341C		4	Verified
+YDR342C	HXT7	4	Verified
+YDR342C	HXT7	4	Verified
+YDR343C	HXT6	4	Verified
+YDR344C		4	Uncharacterized
+YDR345C	HXT3	4	Verified
+YDR346C	SVF1	4	Verified
+YDR347W	MRP1	4	Verified
+YDR348C	PAL1	4	Verified
+YDR349C	YPS7	4	Verified
+YDR350C	ATP22	4	Verified
+YDR351W	SBE2	4	Verified
+YDR352W	YPQ2	4	Verified
+YDR353W	TRR1	4	Verified
+YDR354W	TRP4	4	Verified
+YDR354C-A		4	Dubious
+YDR355C		4	Dubious
+YDR356W	SPC110	4	Verified
+YDR357C	CNL1	4	Verified
+YDR358W	GGA1	4	Verified
+YDR359C	EAF1	4	Verified
+YDR360W	OPI7	4	Dubious
+YDR361C	BCP1	4	Verified
+YDR362C	TFC6	4	Verified
+YDR363W	ESC2	4	Verified
+YDR363W-A	SEM1	4	Verified
+YDR364C	CDC40	4	Verified
+YDR365C	ESF1	4	Verified
+YDR367W	KEI1	4	Verified
+YDR368W	YPR1	4	Verified
+YDR369C	XRS2	4	Verified
+YDR370C	DXO1	4	Verified
+YDR371W	CTS2	4	Uncharacterized
+YDR371C-A		4	Dubious
+YDR372C	VPS74	4	Verified
+YDR373W	FRQ1	4	Verified
+YDR374C	PHO92	4	Verified
+YDR374W-A	WIP1	4	Verified
+YDR375C	BCS1	4	Verified
+YDR376W	ARH1	4	Verified
+YDR377W	ATP17	4	Verified
+YDR378C	LSM6	4	Verified
+YDR379W	RGA2	4	Verified
+YDR379C-A	SDH6	4	Verified
+YDR380W	ARO10	4	Verified
+YDR381W	YRA1	4	Verified
+YDR381C-A	COI1	4	Verified
+YDR382W	RPP2B	4	Verified
+YDR383C	NKP1	4	Verified
+YDR384C	ATO3	4	Verified
+YOR133W	EFT1	4	Verified
+YDR386W	MUS81	4	Verified
+YDR387C	CIN10	4	Uncharacterized
+YDR388W	RVS167	4	Verified
+YDR389W	SAC7	4	Verified
+YDR390C	UBA2	4	Verified
+YDR391C		4	Uncharacterized
+YDR392W	SPT3	4	Verified
+YDR393W	SHE9	4	Verified
+YDR394W	RPT3	4	Verified
+YDR395W	SXM1	4	Verified
+YDR396W		4	Dubious
+YDR397C	NCB2	4	Verified
+YDR398W	UTP5	4	Verified
+YDR399W	HPT1	4	Verified
+YDR400W	URH1	4	Verified
+YDR401W		4	Dubious
+YDR402C	DIT2	4	Verified
+YDR403W	DIT1	4	Verified
+YDR404C	RPB7	4	Verified
+YDR405W	MRP20	4	Verified
+YDR406W	PDR15	4	Verified
+YDR406W-A		4	Dubious
+YDR407C	TRS120	4	Verified
+YDR408C	ADE8	4	Verified
+YDR409W	SIZ1	4	Verified
+YDR410C	STE14	4	Verified
+YDR411C	DFM1	4	Verified
+YDR412W	RRP17	4	Verified
+YDR413C		4	Dubious
+YDR414C	ERD1	4	Verified
+YDR415C		4	Uncharacterized
+YDR416W	SYF1	4	Verified
+YDR417C		4	Dubious
+YDR418W	RPL12B	4	Verified
+YDR419W	RAD30	4	Verified
+YDR420W	HKR1	4	Verified
+YDR421W	ARO80	4	Verified
+YDR422C	SIP1	4	Verified
+YDR423C	CAD1	4	Verified
+YDR424C	DYN2	4	Verified
+YDR425W	SNX41	4	Verified
+YDR427W	RPN9	4	Verified
+YDR428C	BNA7	4	Verified
+YDR429C	TIF35	4	Verified
+YDR430C	CYM1	4	Verified
+YDR431W		4	Dubious
+YDR432W	NPL3	4	Verified
+YDR433W		4	Dubious
+YDR434W	GPI17	4	Verified
+YDR435C	PPM1	4	Verified
+YDR436W	PPZ2	4	Verified
+YDR437W	GPI19	4	Verified
+YDR438W	THI74	4	Verified
+YDR439W	LRS4	4	Verified
+YDR440W	DOT1	4	Verified
+YDR441C	APT2	4	Verified
+YDR442W		4	Dubious
+YDR443C	SSN2	4	Verified
+YDR444W		4	Uncharacterized
+YDR446W	ECM11	4	Verified
+YDR447C	RPS17B	4	Verified
+YDR448W	ADA2	4	Verified
+YDR449C	UTP6	4	Verified
+YDR450W	RPS18A	4	Verified
+YDR451C	YHP1	4	Verified
+YDR452W	PPN1	4	Verified
+YDR453C	TSA2	4	Verified
+YDR454C	GUK1	4	Verified
+YDR455C		4	Dubious
+YDR456W	NHX1	4	Verified
+YDR457W	TOM1	4	Verified
+YDR458C	HEH2	4	Verified
+YDR459C	PFA5	4	Verified
+YDR460W	TFB3	4	Verified
+YDR461W	MFA1	4	Verified
+YDR461C-A	CMI8	4	Uncharacterized
+YDR462W	MRPL28	4	Verified
+YDR463W	STP1	4	Verified
+YDR464W	SPP41	4	Verified
+YDR464C-A		4	Dubious
+YDR465C	RMT2	4	Verified
+YDR466W	PKH3	4	Verified
+YDR467C		4	Dubious
+YDR468C	TLG1	4	Verified
+YDR469W	SDC1	4	Verified
+YDR470C	UGO1	4	Verified
+YDR471W	RPL27B	4	Verified
+YDR472W	TRS31	4	Verified
+YDR473C	PRP3	4	Verified
+YDR475C	JIP4	4	Verified
+YDR476C		4	Uncharacterized
+YDR477W	SNF1	4	Verified
+YDR478W	SNM1	4	Verified
+YDR479C	PEX29	4	Verified
+YDR480W	DIG2	4	Verified
+YDR481C	PHO8	4	Verified
+YDR482C	CWC21	4	Verified
+YDR483W	KRE2	4	Verified
+YDR484W	VPS52	4	Verified
+YDR485C	VPS72	4	Verified
+YDR486C	VPS60	4	Verified
+YDR487C	RIB3	4	Verified
+YDR488C	PAC11	4	Verified
+YDR489W	SLD5	4	Verified
+YDR490C	PKH1	4	Verified
+YDR491C		4	Dubious
+YDR492W	IZH1	4	Verified
+YDR493W	MZM1	4	Verified
+YDR494W	RSM28	4	Verified
+YDR495C	VPS3	4	Verified
+YDR496C	PUF6	4	Verified
+YDR497C	ITR1	4	Verified
+YDR498C	SEC20	4	Verified
+YDR499W	LCD1	4	Verified
+YDR500C	RPL37B	4	Verified
+YDR501W	PLM2	4	Verified
+YDR502C	SAM2	4	Verified
+YDR503C	LPP1	4	Verified
+YDR504C	SPG3	4	Verified
+YDR505C	PSP1	4	Verified
+YDR506C	GMC1	4	Verified
+YDR507C	GIN4	4	Verified
+YDR508C	GNP1	4	Verified
+YDR509W		4	Dubious
+YDR510W	SMT3	4	Verified
+YDR510C-A		4	Dubious
+YDR511W	SDH7	4	Verified
+YDR512C	EMI1	4	Verified
+YDR513W	GRX2	4	Verified
+YDR514C		4	Verified
+YDR515W	SLF1	4	Verified
+YDR516C	EMI2	4	Verified
+YDR517W	GRH1	4	Verified
+YDR518W	EUG1	4	Verified
+YDR519W	FPR2	4	Verified
+YDR520C	URC2	4	Uncharacterized
+YDR521W		4	Dubious
+YDR522C	SPS2	4	Verified
+YDR523C	SPS1	4	Verified
+YDR524C	AGE1	4	Verified
+YDR524W-C		4	Uncharacterized
+YDR524C-B		4	Uncharacterized
+YDR524C-A		4	Dubious
+YDR525W	API2	4	Uncharacterized
+YDR525W-A	SNA2	4	Verified
+YDR526C		4	Dubious
+YDR527W	RBA50	4	Verified
+YDR528W	HLR1	4	Verified
+YDR529C	QCR7	4	Verified
+YDR530C	APA2	4	Verified
+YDR531W	CAB1	4	Verified
+YDR532C	KRE28	4	Verified
+YDR533C	HSP31	4	Verified
+YDR534C	FIT1	4	Verified
+YDR535C		4	Dubious
+YDR536W	STL1	4	Verified
+YDR537C		4	Dubious
+YDR538W	PAD1	4	Verified
+YDR539W	FDC1	4	Verified
+YDR541C		4	Verified
+YGL261C	PAU11	4	Uncharacterized
+YER188C-A		9	Uncharacterized
+YIL176C	PAU14	9	Uncharacterized
+YJL223C	PAU1	9	Verified
+YCR102C		9	Uncharacterized
+YIL171W-A		9	Dubious
+YJL220W		9	Dubious
+YIL166C	SOA1	9	Verified
+YIL165C		9	Uncharacterized
+YIL164C	NIT1	9	Verified
+YIL163C		9	Uncharacterized
+YIL162W	SUC2	9	Verified
+YIL161W		9	Uncharacterized
+YIL160C	POT1	9	Verified
+YIL159W	BNR1	9	Verified
+YIL158W	AIM20	9	Verified
+YIL157C	COA1	9	Verified
+YIL156W-A		9	Dubious
+YIL156W-B	MCO8	9	Verified
+YIL156W	UBP7	9	Verified
+YIL155C	GUT2	9	Verified
+YIL154C	IMP2'	9	Verified
+YIL153W	RRD1	9	Verified
+YIL151C	ESL1	9	Verified
+YIL150C	MCM10	9	Verified
+YIL149C	MLP2	9	Verified
+YIL148W	RPL40A	9	Verified
+YIL147C	SLN1	9	Verified
+YIL146C	ATG32	9	Verified
+YIL145C	PAN6	9	Verified
+YIL144W	NDC80	9	Verified
+YIL143C	SSL2	9	Verified
+YIL142C-A		9	Dubious
+YIL142W	CCT2	9	Verified
+YIL141W		9	Dubious
+YIL140W	AXL2	9	Verified
+YIL139C	REV7	9	Verified
+YIL138C	TPM2	9	Verified
+YIL137C	TMA108	9	Verified
+YIL136W	OM45	9	Verified
+YIL135C	VHS2	9	Verified
+YIL134C-A		9	Uncharacterized
+YIL134W	FLX1	9	Verified
+YIL133C	RPL16A	9	Verified
+YIL132C	CSM2	9	Verified
+YIL131C	FKH1	9	Verified
+YIL130W	ASG1	9	Verified
+YIL129C	TAO3	9	Verified
+YIL128W	MET18	9	Verified
+YIL127C	RRT14	9	Uncharacterized
+YIL126W	STH1	9	Verified
+YIL125W	KGD1	9	Verified
+YIL124W	AYR1	9	Verified
+YIL123W	SIM1	9	Verified
+YIL122W	POG1	9	Verified
+YIL121W	QDR2	9	Verified
+YIL120W	QDR1	9	Verified
+YIL119C	RPI1	9	Verified
+YIL118W	RHO3	9	Verified
+YIL117C	PRM5	9	Verified
+YIL116W	HIS5	9	Verified
+YIL115W-A		9	Dubious
+YIL115C	NUP159	9	Verified
+YIL114C	POR2	9	Verified
+YIL113W	SDP1	9	Verified
+YIL112W	HOS4	9	Verified
+YIL111W	COX5B	9	Verified
+YIL110W	HPM1	9	Verified
+YIL109C	SEC24	9	Verified
+YIL108W		9	Verified
+YIL107C	PFK26	9	Verified
+YIL106W	MOB1	9	Verified
+YIL105C	SLM1	9	Verified
+YIL105W-A		9	Uncharacterized
+YIL104C	SHQ1	9	Verified
+YIL103W	DPH1	9	Verified
+YIL102C-A		9	Uncharacterized
+YIL102C		9	Uncharacterized
+YIL101C	XBP1	9	Verified
+YIL100C-A		9	Dubious
+YIL099W	SGA1	9	Verified
+YIL098C	FMC1	9	Verified
+YIL097W	FYV10	9	Verified
+YIL096C	BMT5	9	Verified
+YIL095W	PRK1	9	Verified
+YIL094C	LYS12	9	Verified
+YIL093C	RSM25	9	Verified
+YIL092W		9	Uncharacterized
+YIL091C	UTP25	9	Verified
+YIL090W	ICE2	9	Verified
+YIL089W		9	Verified
+YIL088C	AVT7	9	Verified
+YIL087C	AIM19	9	Verified
+YIL086C		9	Uncharacterized
+YIL085C	KTR7	9	Verified
+YIL084C	SDS3	9	Verified
+YIL083C	CAB2	9	Verified
+YIL079C	AIR1	9	Verified
+YIL078W	THS1	9	Verified
+YIL077C	RCI37	9	Uncharacterized
+YIL076W	SEC28	9	Verified
+YIL075C	RPN2	9	Verified
+YIL074C	SER33	9	Verified
+YIL073C	SPO22	9	Verified
+YIL072W	HOP1	9	Verified
+YIL071W-A		9	Dubious
+YIL071C	PCI8	9	Verified
+YIL070C	MAM33	9	Verified
+YIL069C	RPS24B	9	Verified
+YIL068C	SEC6	9	Verified
+YIL067C		9	Uncharacterized
+YIL066W-A		9	Dubious
+YIL066C	RNR3	9	Verified
+YIL065C	FIS1	9	Verified
+YIL064W	EFM4	9	Verified
+YIL063C	YRB2	9	Verified
+YIL062C	ARC15	9	Verified
+YIL061C	SNP1	9	Verified
+YIL058W		9	Dubious
+YIL057C	RGI2	9	Verified
+YIL056W	VHR1	9	Verified
+YIL055C		9	Uncharacterized
+YIL054W		9	Uncharacterized
+YIL053W	GPP1	9	Verified
+YIL052C	RPL34B	9	Verified
+YIL051C	MMF1	9	Verified
+YIL050W	PCL7	9	Verified
+YIL049W	DFG10	9	Verified
+YIL048W	NEO1	9	Verified
+YIL047C-A		9	Dubious
+YIL047C	SYG1	9	Verified
+YIL046W	MET30	9	Verified
+YIL045W	PIG2	9	Verified
+YIL044C	AGE2	9	Verified
+YIL043C	CBR1	9	Verified
+YIL042C	PKP1	9	Verified
+YIL041W	GVP36	9	Verified
+YIL040W	APQ12	9	Verified
+YIL039W	TED1	9	Verified
+YIL038C	NOT3	9	Verified
+YIL037C	PRM2	9	Verified
+YIL036W	CST6	9	Verified
+YIL035C	CKA1	9	Verified
+YIL034C	CAP2	9	Verified
+YIL033C	BCY1	9	Verified
+YIL032C		9	Dubious
+YIL031W	ULP2	9	Verified
+YIL030W-A		9	Dubious
+YIL030C	SSM4	9	Verified
+YIL029W-A		9	Dubious
+YIL028W		9	Dubious
+YIL027C	EMC5	9	Verified
+YIL026C	IRR1	9	Verified
+YIL025C		9	Dubious
+YIL024C		9	Uncharacterized
+YIL023C	YKE4	9	Verified
+YIL022W	TIM44	9	Verified
+YIL021W	RPB3	9	Verified
+YIL021C-A		9	Dubious
+YIL020C	HIS6	9	Verified
+YIL019W	FAF1	9	Verified
+YIL018W	RPL2B	9	Verified
+YIL017C	VID28	9	Verified
+YIL016W	SNL1	9	Verified
+YIL015W	BAR1	9	Verified
+YIL014C-A		9	Uncharacterized
+YIL014W	MNT3	9	Verified
+YIL013C	PDR11	9	Verified
+YIL012W		9	Uncharacterized
+YIL011W	TIR3	9	Verified
+YIL010W	DOT5	9	Verified
+YIL009C-A	EST3	9	Verified
+YIL009W	FAA3	9	Verified
+YIL008W	URM1	9	Verified
+YIL007C	NAS2	9	Verified
+YIL006W	YIA6	9	Verified
+YIL005W	EPS1	9	Verified
+YIL004C	BET1	9	Verified
+YIL003W	CFD1	9	Verified
+YIL002W-A	CMI7	9	Uncharacterized
+YIL002C	INP51	9	Verified
+YIL001W		9	Uncharacterized
+YIR001C	SGN1	9	Verified
+YIR002C	MPH1	9	Verified
+YIR003W	AIM21	9	Verified
+YIR004W	DJP1	9	Verified
+YIR005W	IST3	9	Verified
+YIR006C	PAN1	9	Verified
+YIR007W	EGH1	9	Verified
+YIR008C	PRI1	9	Verified
+YIR009W	MSL1	9	Verified
+YIR010W	DSN1	9	Verified
+YIR011C	STS1	9	Verified
+YIR012W	SQT1	9	Verified
+YIR013C	GAT4	9	Verified
+YIR014W	VLD1	9	Verified
+YIR015W	RPR2	9	Verified
+YIR016W		9	Uncharacterized
+YIR017W-A		9	Dubious
+YIR018W	YAP5	9	Verified
+YIR019C	FLO11	9	Verified
+YIR020C		9	Uncharacterized
+YIR020W-A		9	Dubious
+YIR020C-B		9	Dubious
+YIR021W	MRS1	9	Verified
+YIR021W-A		9	Uncharacterized
+YIR022W	SEC11	9	Verified
+YIR023W	DAL81	9	Verified
+YIR023C-A		9	Dubious
+YIR024C	INA22	9	Verified
+YIR025W	MND2	9	Verified
+YIR026C	YVH1	9	Verified
+YIR027C	DAL1	9	Verified
+YIR028W	DAL4	9	Verified
+YIR029W	DAL2	9	Verified
+YIR030C	DCG1	9	Verified
+YIR030W-A		9	Dubious
+YIR031C	DAL7	9	Verified
+YIR032C	DAL3	9	Verified
+YIR033W	MGA2	9	Verified
+YIR034C	LYS1	9	Verified
+YIR035C	NRE1	9	Uncharacterized
+YIR036C	IRC24	9	Verified
+YIR036W-A		9	Dubious
+YIR037W	HYR1	9	Verified
+YIR038C	GTT1	9	Verified
+YIR039C	YPS6	9	Verified
+YIR040C		9	Dubious
+YKL223W		9	Dubious
+YIR041W	PAU15	9	Verified
+YKL224C	PAU16	9	Verified
+YIR042C		9	Uncharacterized
+YNR077C		9	Uncharacterized
+YDR545W	YRF1-1	5	Verified
+YER190W	YRF1-2	5	Verified
+YGR296W	YRF1-3	5	Verified
+YHL050C		5	Uncharacterized
+YIL177C		5	Uncharacterized
+YJL225C		5	Uncharacterized
+YLL066C		5	Uncharacterized
+YLR467W	YRF1-5	5	Verified
+YML133C		5	Uncharacterized
+YNL339C	YRF1-6	5	Verified
+YOR396W	YRF1-8	5	Uncharacterized
+YPL283C	YRF1-7	5	Verified
+YPR204W		5	Verified
+YBL113W-A		5	Dubious
+YEL077W-A		5	Dubious
+YER190C-B		5	Uncharacterized
+YFL068W		5	Uncharacterized
+YGR296C-B		5	Dubious
+YHL050W-A		5	Dubious
+YHR219C-A		5	Dubious
+YIL177W-A		5	Dubious
+YJL225W-A		5	Dubious
+YLL066W-A		5	Dubious
+YLL067W-A		5	Dubious
+YLR466C-A		5	Dubious
+YLR467C-A		5	Dubious
+YML133W-B		5	Dubious
+YNL339W-B		5	Dubious
+YOR396C-A		5	Dubious
+YPL283W-B		5	Dubious
+YPR204C-A		5	Dubious
+YDR545C-A		5	Dubious
+YER190C-A		5	Dubious
+YGR296C-A		5	Dubious
+YML133W-A		5	Dubious
+YNL339W-A		5	Dubious
+YPL283W-A		5	Dubious
+YEL073C		5	Uncharacterized
+YEL072W	RMD6	5	Verified
+YEL071W	DLD3	5	Verified
+YEL070W	DSF1	5	Verified
+YEL067C		5	Uncharacterized
+YEL066W	HPA3	5	Verified
+YEL065W	SIT1	5	Verified
+YEL064C	AVT2	5	Verified
+YEL063C	CAN1	5	Verified
+YEL062W	NPR2	5	Verified
+YEL061C	CIN8	5	Verified
+YEL060C	PRB1	5	Verified
+YEL059C-A	SOM1	5	Verified
+YEL058W	PCM1	5	Verified
+YEL057C	SDD1	5	Verified
+YEL056W	HAT2	5	Verified
+YEL055C	POL5	5	Verified
+YEL054C	RPL12A	5	Verified
+YEL053W-A		5	Dubious
+YEL053C	MAK10	5	Verified
+YEL052W	AFG1	5	Verified
+YEL051W	VMA8	5	Verified
+YEL050W-A		5	Dubious
+YEL050C	RML2	5	Verified
+YEL049W	PAU2	5	Verified
+YEL048C	TCA17	5	Verified
+YEL047C	FRD1	5	Verified
+YEL046C	GLY1	5	Verified
+YEL044W	IES6	5	Verified
+YEL043W	GTA1	5	Verified
+YEL042W	GDA1	5	Verified
+YEL041W	YEF1	5	Verified
+YEL040W	UTR2	5	Verified
+YEL039C	CYC7	5	Verified
+YEL038W	UTR4	5	Verified
+YEL037C	RAD23	5	Verified
+YEL036C	ANP1	5	Verified
+YEL035C	UTR5	5	Uncharacterized
+YEL034C-A		5	Dubious
+YEL034W	HYP2	5	Verified
+YEL033W	MTC7	5	Uncharacterized
+YEL032W	MCM3	5	Verified
+YEL032C-A		5	Dubious
+YEL031W	SPF1	5	Verified
+YEL030C-A		5	Dubious
+YEL030W	ECM10	5	Verified
+YEL029C	BUD16	5	Verified
+YEL028W		5	Uncharacterized
+YEL027W	VMA3	5	Verified
+YEL026W	SNU13	5	Verified
+YEL025C		5	Uncharacterized
+YEL024W	RIP1	5	Verified
+YEL023C		5	Uncharacterized
+YEL022W	GEA2	5	Verified
+YEL021W	URA3	5	Verified
+YEL020C-B		5	Dubious
+YEL020W-A	TIM9	5	Verified
+YEL020C	PXP1	5	Verified
+YEL019C	MMS21	5	Verified
+YEL018C-A		5	Dubious
+YEL018W	EAF5	5	Verified
+YEL017C-A	PMP2	5	Verified
+YEL017W	GTT3	5	Verified
+YEL016C	NPP2	5	Verified
+YEL015W	EDC3	5	Verified
+YEL014C		5	Uncharacterized
+YEL013W	VAC8	5	Verified
+YEL012W	UBC8	5	Verified
+YEL011W	GLC3	5	Verified
+YEL009C	GCN4	5	Verified
+YEL008W		5	Uncharacterized
+YEL008C-A		5	Dubious
+YEL007W	MIT1	5	Verified
+YEL006W	YEA6	5	Verified
+YEL005C	VAB2	5	Verified
+YEL004W	YEA4	5	Verified
+YEL003W	GIM4	5	Verified
+YEL002C	WBP1	5	Verified
+YEL001C	IRC22	5	Verified
+YER001W	MNN1	5	Verified
+YER002W	NOP16	5	Verified
+YER003C	PMI40	5	Verified
+YER004W	FMP52	5	Verified
+YER005W	YND1	5	Verified
+YER006W	NUG1	5	Verified
+YER006C-A		5	Dubious
+YER007W	PAC2	5	Verified
+YER007C-A	TMA20	5	Verified
+YER008C	SEC3	5	Verified
+YER009W	NTF2	5	Verified
+YER010C		5	Verified
+YER011W	TIR1	5	Verified
+YER012W	PRE1	5	Verified
+YER013W	PRP22	5	Verified
+YER014W	HEM14	5	Verified
+YER014C-A	BUD25	5	Verified
+YER015W	FAA2	5	Verified
+YER016W	BIM1	5	Verified
+YER017C	AFG3	5	Verified
+YER018C	SPC25	5	Verified
+YER019W	ISC1	5	Verified
+YER019C-A	SBH2	5	Verified
+YER020W	GPA2	5	Verified
+YER021W	RPN3	5	Verified
+YER022W	SRB4	5	Verified
+YER023W	PRO3	5	Verified
+YER023C-A		5	Dubious
+YER024W	YAT2	5	Verified
+YER025W	GCD11	5	Verified
+YER026C	CHO1	5	Verified
+YER027C	GAL83	5	Verified
+YER028C	MIG3	5	Verified
+YER029C	SMB1	5	Verified
+YER030W	CHZ1	5	Verified
+YER031C	YPT31	5	Verified
+YER032W	FIR1	5	Verified
+YER033C	ZRG8	5	Verified
+YER034W		5	Verified
+YER035W	EDC2	5	Verified
+YER036C	ARB1	5	Verified
+YER037W	PHM8	5	Verified
+YER038C	KRE29	5	Verified
+YER038W-A	FMP49	5	Uncharacterized
+YER039C	HVG1	5	Verified
+YER040W	GLN3	5	Verified
+YER041W	YEN1	5	Verified
+YER042W	MXR1	5	Verified
+YER043C	SAH1	5	Verified
+YER044C	ERG28	5	Verified
+YER044C-A	MEI4	5	Verified
+YER045C	ACA1	5	Verified
+YER046W	SPO73	5	Verified
+YER047C	SAP1	5	Verified
+YER048C	CAJ1	5	Verified
+YER048W-A	ISD11	5	Verified
+YER049W	TPA1	5	Verified
+YER050C	RSM18	5	Verified
+YER051W	JHD1	5	Verified
+YER052C	HOM3	5	Verified
+YER053C	PIC2	5	Verified
+YER053C-A		5	Verified
+YER054C	GIP2	5	Verified
+YER055C	HIS1	5	Verified
+YER056C	FCY2	5	Verified
+YER056C-A	RPL34A	5	Verified
+YER057C	HMF1	5	Verified
+YER058W	PET117	5	Verified
+YER059W	PCL6	5	Verified
+YER060W	FCY21	5	Verified
+YER060W-A	FCY22	5	Verified
+YER061C	CEM1	5	Verified
+YER062C	GPP2	5	Verified
+YER063W	THO1	5	Verified
+YER064C	VHR2	5	Verified
+YER065C	ICL1	5	Verified
+YER066W	RRT13	5	Uncharacterized
+YER067W	RGI1	5	Verified
+YER067C-A		5	Dubious
+YER068W	MOT2	5	Verified
+YER068C-A		5	Dubious
+YER069W	ARG5%2C6	5	Verified
+YER070W	RNR1	5	Verified
+YER071C	TDA2	5	Verified
+YER072W	VTC1	5	Verified
+YER073W	ALD5	5	Verified
+YER074W	RPS24A	5	Verified
+YER074W-A	YOS1	5	Verified
+YER075C	PTP3	5	Verified
+YER076C		5	Uncharacterized
+YER076W-A		5	Dubious
+YER077C	MRX1	5	Uncharacterized
+YER078C	ICP55	5	Verified
+YER078W-A		5	Uncharacterized
+YER079W		5	Uncharacterized
+YER079C-A		5	Dubious
+YER080W	AIM9	5	Verified
+YER081W	SER3	5	Verified
+YER082C	UTP7	5	Verified
+YER083C	GET2	5	Verified
+YER084W		5	Uncharacterized
+YER084W-A		5	Dubious
+YER085C		5	Uncharacterized
+YER086W	ILV1	5	Verified
+YER087W	AIM10	5	Verified
+YER087C-A		5	Dubious
+YER087C-B	SBH1	5	Verified
+YER088C	DOT6	5	Verified
+YER088C-A		5	Dubious
+YER088W-B		5	Dubious
+YER089C	PTC2	5	Verified
+YER090W	TRP2	5	Verified
+YER090C-A		5	Dubious
+YER091C	MET6	5	Verified
+YER091C-A		5	Dubious
+YER092W	IES5	5	Verified
+YER093C	TSC11	5	Verified
+YER093C-A	AIM11	5	Verified
+YER094C	PUP3	5	Verified
+YER095W	RAD51	5	Verified
+YER096W	SHC1	5	Verified
+YER098W	UBP9	5	Verified
+YER099C	PRS2	5	Verified
+YER100W	UBC6	5	Verified
+YER101C	AST2	5	Verified
+YER102W	RPS8B	5	Verified
+YER103W	SSA4	5	Verified
+YER104W	RTT105	5	Verified
+YER105C	NUP157	5	Verified
+YER106W	MAM1	5	Verified
+YER107C	GLE2	5	Verified
+YER107W-A		5	Dubious
+YER110C	KAP123	5	Verified
+YER111C	SWI4	5	Verified
+YER112W	LSM4	5	Verified
+YER113C	TMN3	5	Verified
+YER114C	BOI2	5	Verified
+YER115C	SPR6	5	Verified
+YER116C	SLX8	5	Verified
+YER117W	RPL23B	5	Verified
+YER118C	SHO1	5	Verified
+YER119C	AVT6	5	Verified
+YER120W	SCS2	5	Verified
+YER121W		5	Uncharacterized
+YER122C	GLO3	5	Verified
+YER123W	YCK3	5	Verified
+YER124C	DSE1	5	Verified
+YER125W	RSP5	5	Verified
+YER126C	NSA2	5	Verified
+YER127W	LCP5	5	Verified
+YER128W	VFA1	5	Verified
+YER129W	SAK1	5	Verified
+YER130C	COM2	5	Verified
+YER131W	RPS26B	5	Verified
+YER132C	PMD1	5	Verified
+YER133W	GLC7	5	Verified
+YER133W-A		5	Dubious
+YER134C		5	Verified
+YER135C		5	Uncharacterized
+YER136W	GDI1	5	Verified
+YER137C		5	Verified
+YER137W-A		5	Dubious
+YER139C	RTR1	5	Verified
+YER140W	EMP65	5	Verified
+YER141W	COX15	5	Verified
+YER142C	MAG1	5	Verified
+YER143W	DDI1	5	Verified
+YER144C	UBP5	5	Verified
+YER145C	FTR1	5	Verified
+YER145C-A		5	Uncharacterized
+YER146W	LSM5	5	Verified
+YER147C	SCC4	5	Verified
+YER147C-A		5	Dubious
+YER148W	SPT15	5	Verified
+YER148W-A		5	Dubious
+YER149C	PEA2	5	Verified
+YER150W	SPI1	5	Verified
+YER151C	UBP3	5	Verified
+YER152C		5	Verified
+YER152W-A		5	Dubious
+YER153C	PET122	5	Verified
+YER154W	OXA1	5	Verified
+YER155C	BEM2	5	Verified
+YER156C	MYG1	5	Verified
+YER157W	COG3	5	Verified
+YER158C		5	Uncharacterized
+YER158W-A		5	Dubious
+YER159C	BUR6	5	Verified
+YER161C	SPT2	5	Verified
+YER162C	RAD4	5	Verified
+YER163C	GCG1	5	Verified
+YER164W	CHD1	5	Verified
+YER165W	PAB1	5	Verified
+YER165C-A		5	Dubious
+YER166W	DNF1	5	Verified
+YER167W	BCK2	5	Verified
+YER168C	CCA1	5	Verified
+YER169W	RPH1	5	Verified
+YER170W	ADK2	5	Verified
+YER171W	RAD3	5	Verified
+YER172C	BRR2	5	Verified
+YER172C-A		5	Dubious
+YER173W	RAD24	5	Verified
+YER174C	GRX4	5	Verified
+YER175C	TMT1	5	Verified
+YER175W-A		5	Uncharacterized
+YER176W	ECM32	5	Verified
+YER177W	BMH1	5	Verified
+YER178W	PDA1	5	Verified
+YER179W	DMC1	5	Verified
+YER180C	ISC10	5	Verified
+YER180C-A	SLO1	5	Verified
+YER181C		5	Verified
+YER182W	FMP10	5	Uncharacterized
+YER183C	FAU1	5	Verified
+YER184C	TOG1	5	Verified
+YER185W	PUG1	5	Verified
+YER186C		5	Uncharacterized
+YER187W		5	Uncharacterized
+YDL244W	THI13	6	Verified
+YFL055W	AGP3	6	Verified
+YFL054C	AQY3	6	Uncharacterized
+YFL053W	DAK2	6	Verified
+YFL052W	ZNF1	6	Verified
+YFL050C	ALR2	6	Verified
+YFL049W	SWP82	6	Verified
+YFL048C	EMP47	6	Verified
+YFL047W	RGD2	6	Verified
+YFL046W	FMP32	6	Verified
+YFL045C	SEC53	6	Verified
+YFL044C	OTU1	6	Verified
+YFL042C	LAM5	6	Verified
+YFL041W-A		6	Uncharacterized
+YFL041W	FET5	6	Verified
+YFL040W		6	Uncharacterized
+YFL039C	ACT1	6	Verified
+YFL038C	YPT1	6	Verified
+YFL037W	TUB2	6	Verified
+YFL036W	RPO41	6	Verified
+YFL034C-B	MOB2	6	Verified
+YFL034C-A	RPL22B	6	Verified
+YFL034W	MIL1	6	Uncharacterized
+YFL033C	RIM15	6	Verified
+YFL031W	HAC1	6	Verified
+YFL031C-A		6	Dubious
+YFL030W	AGX1	6	Verified
+YFL029C	CAK1	6	Verified
+YFL028C	CAF16	6	Verified
+YFL027C	GYP8	6	Verified
+YFL026W	STE2	6	Verified
+YFL025C	BST1	6	Verified
+YFL024C	EPL1	6	Verified
+YFL023W	BUD27	6	Verified
+YFL022C	FRS2	6	Verified
+YFL021C-A		6	Dubious
+YFL021W	GAT1	6	Verified
+YFL020C	PAU5	6	Verified
+YFL019C		6	Uncharacterized
+YIL082W		6	Dubious
+YFL018C	LPD1	6	Verified
+YFL017W-A	SMX2	6	Verified
+YFL017C	GNA1	6	Verified
+YFL016C	MDJ1	6	Verified
+YFL014W	HSP12	6	Verified
+YFL013W-A		6	Dubious
+YFL013C	IES1	6	Verified
+YFL012W		6	Uncharacterized
+YFL011W	HXT10	6	Verified
+YFL010W-A	AUA1	6	Verified
+YFL010C	WWM1	6	Verified
+YFL009W	CDC4	6	Verified
+YFL008W	SMC1	6	Verified
+YFL007W	BLM10	6	Verified
+YFL005W	SEC4	6	Verified
+YFL004W	VTC2	6	Verified
+YFL003C	MSH4	6	Verified
+YFL002C	SPB4	6	Verified
+YFL001W	DEG1	6	Verified
+YFR001W	LOC1	6	Verified
+YFR002W	NIC96	6	Verified
+YFR003C	YPI1	6	Verified
+YFR004W	RPN11	6	Verified
+YFR005C	SAD1	6	Verified
+YFR006W		6	Uncharacterized
+YFR007W	YFH7	6	Verified
+YFR008W	FAR7	6	Verified
+YFR009W	GCN20	6	Verified
+YFR009W-A		6	Dubious
+YFR010W	UBP6	6	Verified
+YFR010W-A		6	Dubious
+YFR011C	MIC19	6	Verified
+YFR012W	DCV1	6	Verified
+YFR012W-A		6	Uncharacterized
+YFR013W	IOC3	6	Verified
+YFR014C	CMK1	6	Verified
+YFR015C	GSY1	6	Verified
+YFR016C	AIP5	6	Verified
+YFR017C	IGD1	6	Verified
+YFR018C		6	Uncharacterized
+YFR019W	FAB1	6	Verified
+YFR020W	CSS2	6	Verified
+YFR021W	ATG18	6	Verified
+YFR022W	ROG3	6	Verified
+YFR023W	PES4	6	Verified
+YFR024C-A	LSB3	6	Verified
+YFR025C	HIS2	6	Verified
+YFR027W	ECO1	6	Verified
+YFR028C	CDC14	6	Verified
+YFR029W	PTR3	6	Verified
+YFR030W	MET10	6	Verified
+YFR031C	SMC2	6	Verified
+YFR031C-A	RPL2A	6	Verified
+YFR032C	RRT5	6	Uncharacterized
+YFR032C-A	RPL29	6	Verified
+YFR032C-B	MIN10	6	Uncharacterized
+YFR033C	QCR6	6	Verified
+YFR034C	PHO4	6	Verified
+YFR036W	CDC26	6	Verified
+YFR036W-A		6	Dubious
+YFR037C	RSC8	6	Verified
+YFR038W	IRC5	6	Verified
+YFR039C	OSW7	6	Verified
+YFR040W	SAP155	6	Verified
+YFR041C	ERJ5	6	Verified
+YFR042W	KEG1	6	Verified
+YFR043C	IRC6	6	Verified
+YFR044C	DUG1	6	Verified
+YFR045W	MRX20	6	Uncharacterized
+YFR046C	CNN1	6	Verified
+YFR047C	BNA6	6	Verified
+YFR048W	RMD8	6	Verified
+YFR049W	YMR31	6	Verified
+YFR050C	PRE4	6	Verified
+YFR051C	RET2	6	Verified
+YFR052W	RPN12	6	Verified
+YFR053C	HXK1	6	Verified
+YFR054C		6	Uncharacterized
+YFR056C		6	Dubious
+YDR543C		7	Dubious
+YAL068C	PAU8	7	Verified
+YGL258W-A		7	Uncharacterized
+YGL258W	VEL1	7	Verified
+YGL257C	MNT2	7	Verified
+YGL256W	ADH4	7	Verified
+YGL255W	ZRT1	7	Verified
+YGL254W	FZF1	7	Verified
+YGL253W	HXK2	7	Verified
+YGL252C	RTG2	7	Verified
+YGL251C	HFM1	7	Verified
+YGL250W	RMR1	7	Verified
+YGL249W	ZIP2	7	Verified
+YGL248W	PDE1	7	Verified
+YGL247W	BRR6	7	Verified
+YGL246C	RAI1	7	Verified
+YGL245W	GUS1	7	Verified
+YGL244W	RTF1	7	Verified
+YGL243W	TAD1	7	Verified
+YGL242C		7	Verified
+YGL241W	KAP114	7	Verified
+YGL240W	DOC1	7	Verified
+YGL239C		7	Dubious
+YGL238W	CSE1	7	Verified
+YGL237C	HAP2	7	Verified
+YGL236C	MTO1	7	Verified
+YGL235W		7	Uncharacterized
+YGL234W	ADE5%2C7	7	Verified
+YGL233W	SEC15	7	Verified
+YGL232W	TAN1	7	Verified
+YGL231C	EMC4	7	Verified
+YGL230C		7	Uncharacterized
+YGL229C	SAP4	7	Verified
+YGL228W	SHE10	7	Verified
+YGL227W	VID30	7	Verified
+YGL226C-A	OST5	7	Verified
+YGL226W	MTC3	7	Verified
+YGL225W	VRG4	7	Verified
+YGL224C	SDT1	7	Verified
+YGL223C	COG1	7	Verified
+YGL222C	EDC1	7	Verified
+YGL221C	NIF3	7	Verified
+YGL220W	BOL2	7	Verified
+YGL219C	MDM34	7	Verified
+YGL218W		7	Dubious
+YGL217C		7	Dubious
+YGL216W	KIP3	7	Verified
+YGL215W	CLG1	7	Verified
+YGL214W		7	Dubious
+YGL213C	SKI8	7	Verified
+YGL212W	VAM7	7	Verified
+YGL211W	NCS6	7	Verified
+YGL210W	YPT32	7	Verified
+YGL209W	MIG2	7	Verified
+YGL208W	SIP2	7	Verified
+YGL207W	SPT16	7	Verified
+YGL206C	CHC1	7	Verified
+YGL205W	POX1	7	Verified
+YGL204C		7	Verified
+YGL203C	KEX1	7	Verified
+YGL202W	ARO8	7	Verified
+YGL201C	MCM6	7	Verified
+YGL200C	EMP24	7	Verified
+YGL199C		7	Dubious
+YGL198W	YIP4	7	Verified
+YGL197W	MDS3	7	Verified
+YGL196W	DSD1	7	Verified
+YGL195W	GCN1	7	Verified
+YGL194C-A		7	Uncharacterized
+YGL194C	HOS2	7	Verified
+YGL193C		7	Uncharacterized
+YGL192W	IME4	7	Verified
+YGL191W	COX13	7	Verified
+YGL190C	CDC55	7	Verified
+YGL189C	RPS26A	7	Verified
+YGL188C-A		7	Uncharacterized
+YGL188C		7	Dubious
+YGL187C	COX4	7	Verified
+YGL186C	TPN1	7	Verified
+YGL185C		7	Uncharacterized
+YGL184C	STR3	7	Verified
+YGL183C	MND1	7	Verified
+YGL181W	GTS1	7	Verified
+YGL180W	ATG1	7	Verified
+YGL179C	TOS3	7	Verified
+YGL178W	MPT5	7	Verified
+YGL177W		7	Dubious
+YGL176C		7	Uncharacterized
+YGL175C	SAE2	7	Verified
+YGL174W	BUD13	7	Verified
+YGL173C	XRN1	7	Verified
+YGL172W	NUP49	7	Verified
+YGL171W	ROK1	7	Verified
+YGL170C	SPO74	7	Verified
+YGL169W	SUA5	7	Verified
+YGL168W	HUR1	7	Verified
+YGL167C	PMR1	7	Verified
+YGL166W	CUP2	7	Verified
+YGL165C		7	Dubious
+YGL164C	YRB30	7	Verified
+YGL163C	RAD54	7	Verified
+YGL162W	SUT1	7	Verified
+YGL161C	YIP5	7	Verified
+YGL160W	AIM14	7	Verified
+YGL159W		7	Uncharacterized
+YGL158W	RCK1	7	Verified
+YGL157W	ARI1	7	Verified
+YGL156W	AMS1	7	Verified
+YGL155W	CDC43	7	Verified
+YGL154C	LYS5	7	Verified
+YGL153W	PEX14	7	Verified
+YGL152C		7	Dubious
+YGL151W	NUT1	7	Verified
+YGL150C	INO80	7	Verified
+YGL149W		7	Uncharacterized
+YGL148W	ARO2	7	Verified
+YGL147C	RPL9A	7	Verified
+YGL146C	RRT6	7	Verified
+YGL145W	TIP20	7	Verified
+YGL144C	ROG1	7	Verified
+YGL143C	MRF1	7	Verified
+YGL142C	GPI10	7	Verified
+YGL141W	HUL5	7	Verified
+YGL140C		7	Uncharacterized
+YGL139W	FLC3	7	Verified
+YGL130W	CEG1	7	Verified
+YGL129C	RSM23	7	Verified
+YGL128C	CWC23	7	Verified
+YGL127C	SOH1	7	Verified
+YGL126W	SCS3	7	Verified
+YGL125W	MET13	7	Verified
+YGL124C	MON1	7	Verified
+YGL123W	RPS2	7	Verified
+YGL123C-A		7	Dubious
+YGL122C	NAB2	7	Verified
+YGL121C	GPG1	7	Verified
+YGL120C	PRP43	7	Verified
+YGL119W	COQ8	7	Verified
+YGL118C		7	Uncharacterized
+YGL117W		7	Uncharacterized
+YGL116W	CDC20	7	Verified
+YGL115W	SNF4	7	Verified
+YGL114W		7	Uncharacterized
+YGL113W	SLD3	7	Verified
+YGL112C	TAF6	7	Verified
+YGL111W	NSA1	7	Verified
+YGL110C	CUE3	7	Verified
+YGL108C		7	Verified
+YGL107C	RMD9	7	Verified
+YGL106W	MLC1	7	Verified
+YGL105W	ARC1	7	Verified
+YGL104C	VPS73	7	Verified
+YGL103W	RPL28	7	Verified
+YGL102C		7	Dubious
+YGL101W	YGK1	7	Verified
+YGL100W	SEH1	7	Verified
+YGL099W	LSG1	7	Verified
+YGL098W	USE1	7	Verified
+YGL097W	SRM1	7	Verified
+YGL096W	TOS8	7	Verified
+YGL095C	VPS45	7	Verified
+YGL094C	PAN2	7	Verified
+YGL093W	SPC105	7	Verified
+YGL092W	NUP145	7	Verified
+YGL091C	NBP35	7	Verified
+YGL090W	LIF1	7	Verified
+YGL089C	MF%28ALPHA%292	7	Verified
+YGL087C	MMS2	7	Verified
+YGL086W	MAD1	7	Verified
+YGL085W	LCL3	7	Uncharacterized
+YGL084C	GUP1	7	Verified
+YGL083W	SCY1	7	Verified
+YGL082W		7	Uncharacterized
+YGL080W	MPC1	7	Verified
+YGL079W	KXD1	7	Verified
+YGL078C	DBP3	7	Verified
+YGL077C	HNM1	7	Verified
+YGL076C	RPL7A	7	Verified
+YGL075C	MPS2	7	Verified
+YGL074C		7	Dubious
+YGL073W	HSF1	7	Verified
+YGL072C		7	Dubious
+YGL071W	AFT1	7	Verified
+YGL070C	RPB9	7	Verified
+YGL069C		7	Dubious
+YGL068W	MNP1	7	Verified
+YGL067W	NPY1	7	Verified
+YGL066W	SGF73	7	Verified
+YGL065C	ALG2	7	Verified
+YGL064C	MRH4	7	Verified
+YGL063W	PUS2	7	Verified
+YGL063C-A		7	Dubious
+YGL062W	PYC1	7	Verified
+YGL061C	DUO1	7	Verified
+YGL060W	YBP2	7	Verified
+YGL059W	PKP2	7	Verified
+YGL058W	RAD6	7	Verified
+YGL057C	GEP7	7	Verified
+YGL056C	SDS23	7	Verified
+YGL055W	OLE1	7	Verified
+YGL054C	ERV14	7	Verified
+YGL050W	TYW3	7	Verified
+YGL049C	TIF4632	7	Verified
+YGL048C	RPT6	7	Verified
+YGL047W	ALG13	7	Verified
+YGL045W	RIM8	7	Verified
+YGL044C	RNA15	7	Verified
+YGL043W	DST1	7	Verified
+YGL042C		7	Dubious
+YGL041C-B		7	Uncharacterized
+YGL041W-A	DPC13	7	Uncharacterized
+YGL041C		7	Dubious
+YGL040C	HEM2	7	Verified
+YGL039W		7	Verified
+YGL038C	OCH1	7	Verified
+YGL037C	PNC1	7	Verified
+YGL036W		7	Uncharacterized
+YGL035C	MIG1	7	Verified
+YGL034C		7	Uncharacterized
+YGL033W	HOP2	7	Verified
+YGL032C	AGA2	7	Verified
+YGL031C	RPL24A	7	Verified
+YGL030W	RPL30	7	Verified
+YGL029W	CGR1	7	Verified
+YGL028C	SCW11	7	Verified
+YGL027C	CWH41	7	Verified
+YGL026C	TRP5	7	Verified
+YGL025C	PGD1	7	Verified
+YGL024W		7	Dubious
+YGL023C	PIB2	7	Verified
+YGL022W	STT3	7	Verified
+YGL021W	ALK1	7	Verified
+YGL020C	GET1	7	Verified
+YGL019W	CKB1	7	Verified
+YGL018C	JAC1	7	Verified
+YGL017W	ATE1	7	Verified
+YGL016W	KAP122	7	Verified
+YGL015C	BIL2	7	Verified
+YGL014W	PUF4	7	Verified
+YGL014C-A		7	Dubious
+YGL013C	PDR1	7	Verified
+YGL012W	ERG4	7	Verified
+YGL011C	SCL1	7	Verified
+YGL010W	MPO1	7	Verified
+YGL009C	LEU1	7	Verified
+YGL008C	PMA1	7	Verified
+YGL007C-A		7	Uncharacterized
+YGL007W	BRP1	7	Uncharacterized
+YGL006W	PMC1	7	Verified
+YGL005C	COG7	7	Verified
+YGL004C	RPN14	7	Verified
+YGL003C	CDH1	7	Verified
+YGL002W	ERP6	7	Verified
+YGL001C	ERG26	7	Verified
+YGR001C	EFM5	7	Verified
+YGR002C	SWC4	7	Verified
+YGR003W	CUL3	7	Verified
+YGR004W	PEX31	7	Verified
+YGR005C	TFG2	7	Verified
+YGR006W	PRP18	7	Verified
+YGR007W	ECT1	7	Verified
+YGR008C	STF2	7	Verified
+YGR009C	SEC9	7	Verified
+YGR010W	NMA2	7	Verified
+YGR011W		7	Dubious
+YGR012W	MCY1	7	Verified
+YGR013W	SNU71	7	Verified
+YGR014W	MSB2	7	Verified
+YGR015C	EAT1	7	Uncharacterized
+YGR016W		7	Uncharacterized
+YGR017W		7	Uncharacterized
+YGR018C		7	Uncharacterized
+YGR019W	UGA1	7	Verified
+YGR020C	VMA7	7	Verified
+YGR021W	DPC29	7	Uncharacterized
+YGR022C		7	Dubious
+YGR023W	MTL1	7	Verified
+YGR024C	THG1	7	Verified
+YGR026W		7	Uncharacterized
+YGR027C	RPS25A	7	Verified
+YGR028W	MSP1	7	Verified
+YGR029W	ERV1	7	Verified
+YGR030C	POP6	7	Verified
+YGR031W	IMO32	7	Verified
+YGR031C-A	NAG1	7	Verified
+YGR032W	GSC2	7	Verified
+YGR033C	TIM21	7	Verified
+YGR034W	RPL26B	7	Verified
+YGR035C		7	Uncharacterized
+YGR035W-A		7	Uncharacterized
+YGR036C	CAX4	7	Verified
+YGR037C	ACB1	7	Verified
+YGR038W	ORM1	7	Verified
+YGR039W		7	Uncharacterized
+YGR040W	KSS1	7	Verified
+YGR041W	BUD9	7	Verified
+YGR042W	MTE1	7	Verified
+YGR043C	NQM1	7	Verified
+YGR044C	RME1	7	Verified
+YGR046W	TAM41	7	Verified
+YGR047C	TFC4	7	Verified
+YGR048W	UFD1	7	Verified
+YGR049W	SCM4	7	Verified
+YGR050C		7	Uncharacterized
+YGR051C		7	Dubious
+YGR052W	FMP48	7	Uncharacterized
+YGR053C	MCO32	7	Uncharacterized
+YGR054W		7	Verified
+YGR055W	MUP1	7	Verified
+YGR056W	RSC1	7	Verified
+YGR057C	LST7	7	Verified
+YGR058W	PEF1	7	Verified
+YGR059W	SPR3	7	Verified
+YGR060W	ERG25	7	Verified
+YGR061C	ADE6	7	Verified
+YGR062C	COX18	7	Verified
+YGR063C	SPT4	7	Verified
+YGR065C	VHT1	7	Verified
+YGR066C	GID10	7	Verified
+YGR067C		7	Uncharacterized
+YGR068C	ART5	7	Verified
+YGR068W-A		7	Dubious
+YGR069W		7	Dubious
+YGR070W	ROM1	7	Verified
+YGR071C	ENV11	7	Verified
+YGR072W	UPF3	7	Verified
+YGR073C		7	Dubious
+YGR074W	SMD1	7	Verified
+YGR075C	PRP38	7	Verified
+YGR076C	MRPL25	7	Verified
+YGR077C	PEX8	7	Verified
+YGR078C	PAC10	7	Verified
+YGR079W		7	Verified
+YGR080W	TWF1	7	Verified
+YGR081C	SLX9	7	Verified
+YGR082W	TOM20	7	Verified
+YGR083C	GCD2	7	Verified
+YGR084C	MRP13	7	Verified
+YGR085C	RPL11B	7	Verified
+YGR086C	PIL1	7	Verified
+YGR087C	PDC6	7	Verified
+YGR088W	CTT1	7	Verified
+YGR089W	NNF2	7	Verified
+YGR090W	UTP22	7	Verified
+YGR091W	PRP31	7	Verified
+YGR092W	DBF2	7	Verified
+YGR093W	DRN1	7	Verified
+YGR094W	VAS1	7	Verified
+YGR095C	RRP46	7	Verified
+YGR096W	TPC1	7	Verified
+YGR097W	ASK10	7	Verified
+YGR098C	ESP1	7	Verified
+YGR099W	TEL2	7	Verified
+YGR100W	MDR1	7	Verified
+YGR101W	PCP1	7	Verified
+YGR102C	GTF1	7	Verified
+YGR103W	NOP7	7	Verified
+YGR104C	SRB5	7	Verified
+YGR105W	VMA21	7	Verified
+YGR106C	VOA1	7	Verified
+YGR108W	CLB1	7	Verified
+YGR109C	CLB6	7	Verified
+YGR110W	CLD1	7	Verified
+YGR111W		7	Uncharacterized
+YGR112W	SHY1	7	Verified
+YGR113W	DAM1	7	Verified
+YGR116W	SPT6	7	Verified
+YGR117C		7	Uncharacterized
+YGR118W	RPS23A	7	Verified
+YGR119C	NUP57	7	Verified
+YGR120C	COG2	7	Verified
+YGR121C	MEP1	7	Verified
+YGR122W		7	Verified
+YGR123C	PPT1	7	Verified
+YGR124W	ASN2	7	Verified
+YGR125W	VSB1	7	Verified
+YGR126W		7	Uncharacterized
+YGR127W		7	Uncharacterized
+YGR128C	UTP8	7	Verified
+YGR129W	SYF2	7	Verified
+YGR130C		7	Verified
+YGR131W	FHN1	7	Verified
+YGR132C	PHB1	7	Verified
+YGR133W	PEX4	7	Verified
+YGR134W	CAF130	7	Verified
+YGR135W	PRE9	7	Verified
+YGR136W	LSB1	7	Verified
+YGR137W		7	Dubious
+YGR138C	TPO2	7	Verified
+YGR140W	CBF2	7	Verified
+YGR141W	VPS62	7	Verified
+YGR142W	BTN2	7	Verified
+YGR143W	SKN1	7	Verified
+YGR144W	THI4	7	Verified
+YGR145W	ENP2	7	Verified
+YGR146C	ECL1	7	Verified
+YGR147C	NAT2	7	Verified
+YGR148C	RPL24B	7	Verified
+YGR149W	GPC1	7	Verified
+YGR150C	CCM1	7	Verified
+YGR151C		7	Dubious
+YGR152C	RSR1	7	Verified
+YGR153W		7	Uncharacterized
+YGR154C	GTO1	7	Verified
+YGR155W	CYS4	7	Verified
+YGR156W	PTI1	7	Verified
+YGR157W	CHO2	7	Verified
+YGR158C	MTR3	7	Verified
+YGR159C	NSR1	7	Verified
+YGR160W		7	Dubious
+YGR161C	RTS3	7	Uncharacterized
+YGR161W-C		7	Uncharacterized
+YGR162W	TIF4631	7	Verified
+YGR163W	GTR2	7	Verified
+YGR164W		7	Uncharacterized
+YGR165W	MRPS35	7	Verified
+YGR166W	TRS65	7	Verified
+YGR167W	CLC1	7	Verified
+YGR168C	PEX35	7	Verified
+YGR169C	PUS6	7	Verified
+YGR169C-A	LSO2	7	Verified
+YGR170W	PSD2	7	Verified
+YGR171C	MSM1	7	Verified
+YGR172C	YIP1	7	Verified
+YGR173W	RBG2	7	Verified
+YGR174C	CBP4	7	Verified
+YGR175C	ERG1	7	Verified
+YGR176W		7	Dubious
+YGR177C	ATF2	7	Verified
+YGR178C	PBP1	7	Verified
+YGR179C	OKP1	7	Verified
+YGR180C	RNR4	7	Verified
+YGR181W	TIM13	7	Verified
+YGR183C	QCR9	7	Verified
+YGR184C	UBR1	7	Verified
+YGR185C	TYS1	7	Verified
+YGR186W	TFG1	7	Verified
+YGR187C	HGH1	7	Verified
+YGR188C	BUB1	7	Verified
+YGR189C	CRH1	7	Verified
+YGR190C		7	Dubious
+YGR191W	HIP1	7	Verified
+YGR192C	TDH3	7	Verified
+YGR193C	PDX1	7	Verified
+YGR194C	XKS1	7	Verified
+YGR195W	SKI6	7	Verified
+YGR196C	FYV8	7	Verified
+YGR197C	SNG1	7	Verified
+YGR198W	YPP1	7	Verified
+YGR199W	PMT6	7	Verified
+YGR200C	ELP2	7	
+YGR201C		7	Uncharacterized
+YGR202C	PCT1	7	Verified
+YGR203W	YCH1	7	Verified
+YGR204W	ADE3	7	Verified
+YGR204C-A		7	Uncharacterized
+YGR205W	TDA10	7	Verified
+YGR206W	MVB12	7	Verified
+YGR207C	CIR1	7	Verified
+YGR208W	SER2	7	Verified
+YGR209C	TRX2	7	Verified
+YGR210C		7	Uncharacterized
+YGR211W	ZPR1	7	Verified
+YGR212W	SLI1	7	Verified
+YGR213C	RTA1	7	Verified
+YGR214W	RPS0A	7	Verified
+YGR215W	RSM27	7	Verified
+YGR216C	GPI1	7	Verified
+YGR217W	CCH1	7	Verified
+YGR218W	CRM1	7	Verified
+YGR219W		7	Dubious
+YGR220C	MRPL9	7	Verified
+YGR221C	TOS2	7	Verified
+YGR222W	PET54	7	Verified
+YGR223C	HSV2	7	Verified
+YGR224W	AZR1	7	Verified
+YGR225W	AMA1	7	Verified
+YGR226C		7	Dubious
+YGR227W	DIE2	7	Verified
+YGR227C-A	OTO1	7	Verified
+YGR228W		7	Dubious
+YGR229C	SMI1	7	Verified
+YGR230W	BNS1	7	Verified
+YGR231C	PHB2	7	Verified
+YGR232W	NAS6	7	Verified
+YGR233C	PHO81	7	Verified
+YGR234W	YHB1	7	Verified
+YGR235C	MIC26	7	Verified
+YGR236C	SPG1	7	Verified
+YGR237C		7	Uncharacterized
+YGR238C	KEL2	7	Verified
+YGR239C	PEX21	7	Verified
+YGR240C	PFK1	7	Verified
+YGR240C-A		7	Uncharacterized
+YGR241C	YAP1802	7	Verified
+YGR242W		7	Dubious
+YGR243W	MPC3	7	Verified
+YGR244C	LSC2	7	Verified
+YGR245C	SDA1	7	Verified
+YGR246C	BRF1	7	Verified
+YGR247W	CPD1	7	Verified
+YGR248W	SOL4	7	Verified
+YGR249W	MGA1	7	Verified
+YGR250C	RIE1	7	Verified
+YGR251W	NOP19	7	Verified
+YGR252W	GCN5	7	Verified
+YGR253C	PUP2	7	Verified
+YGR254W	ENO1	7	Verified
+YGR255C	COQ6	7	Verified
+YGR256W	GND2	7	Verified
+YGR257C	MTM1	7	Verified
+YGR258C	RAD2	7	Verified
+YGR259C		7	Dubious
+YGR260W	TNA1	7	Verified
+YGR261C	APL6	7	Verified
+YGR262C	BUD32	7	Verified
+YGR263C	SAY1	7	Verified
+YGR264C	MES1	7	Verified
+YGR266W		7	Verified
+YGR267C	FOL2	7	Verified
+YGR268C	HUA1	7	Verified
+YGR269W		7	Dubious
+YGR270W	YTA7	7	Verified
+YGR270C-A		7	Dubious
+YGR271W	SLH1	7	Verified
+YGR271C-A	EFG1	7	Verified
+YGR273C		7	Uncharacterized
+YGR274C	TAF1	7	Verified
+YGR275W	RTT102	7	Verified
+YGR276C	RNH70	7	Verified
+YGR277C	CAB4	7	Verified
+YGR278W	CWC22	7	Verified
+YGR279C	SCW4	7	Verified
+YGR280C	PXR1	7	Verified
+YGR281W	YOR1	7	Verified
+YGR282C	BGL2	7	Verified
+YGR283C		7	Verified
+YGR284C	ERV29	7	Verified
+YGR285C	ZUO1	7	Verified
+YGR286C	BIO2	7	Verified
+YGR287C	IMA1	7	Verified
+YGR288W	MAL13	7	Verified
+YGR289C	MAL11	7	Verified
+YGR290W		7	Dubious
+YBR298C-A		7	Uncharacterized
+YGR291C		7	Dubious
+YBR299W	MAL32	7	Verified
+YGR292W	MAL12	7	Verified
+YBR301W	PAU24	7	Verified
+YGR295C	COS6	7	Verified
+YER188C-A		7	Uncharacterized
+YHL047C	ARN2	8	Verified
+YHL046W-A		8	Dubious
+YHL046C	PAU13	8	Verified
+YHL045W		8	Dubious
+YHL044W		8	Uncharacterized
+YHL042W		8	Uncharacterized
+YHL040C	ARN1	8	Verified
+YHL039W	EFM1	8	Verified
+YHL038C	CBP2	8	Verified
+YHL036W	MUP3	8	Verified
+YHL035C	VMR1	8	Verified
+YHL034W-A		8	Dubious
+YHL034C	SBP1	8	Verified
+YHL033C	RPL8A	8	Verified
+YHL032C	GUT1	8	Verified
+YHL031C	GOS1	8	Verified
+YHL030W	ECM29	8	Verified
+YHL029C	OCA5	8	Uncharacterized
+YHL028W	WSC4	8	Verified
+YHL027W	RIM101	8	Verified
+YHL026C		8	Uncharacterized
+YHL025W	SNF6	8	Verified
+YHL024W	RIM4	8	Verified
+YHL023C	NPR3	8	Verified
+YHL022C	SPO11	8	Verified
+YHL021C	AIM17	8	Verified
+YHL020C	OPI1	8	Verified
+YHL019W-A		8	Dubious
+YHL019C	APM2	8	Verified
+YHL018W	MCO14	8	Uncharacterized
+YHL017W		8	Uncharacterized
+YHL016C	DUR3	8	Verified
+YHL015W-A		8	Uncharacterized
+YHL015W	RPS20	8	Verified
+YHL014C	YLF2	8	Verified
+YHL013C	OTU2	8	Verified
+YHL012W		8	Uncharacterized
+YHL011C	PRS3	8	Verified
+YHL010C	ETP1	8	Verified
+YHL009C	YAP3	8	Verified
+YHL008C		8	Uncharacterized
+YHL007C	STE20	8	Verified
+YHL006W-A		8	Dubious
+YHL006C	SHU1	8	Verified
+YHL005C		8	Uncharacterized
+YHL004W	MRP4	8	Verified
+YHL003C	LAG1	8	Verified
+YHL002C-A		8	Dubious
+YHL002W	HSE1	8	Verified
+YHL001W	RPL14B	8	Verified
+YHR001W	OSH7	8	Verified
+YHR001W-A	QCR10	8	Verified
+YHR002W	LEU5	8	Verified
+YHR003C	TCD1	8	Verified
+YHR004C	NEM1	8	Verified
+YHR005C	GPA1	8	Verified
+YHR005C-A	TIM10	8	Verified
+YHR006W	STP2	8	Verified
+YHR007C	ERG11	8	Verified
+YHR008C	SOD2	8	Verified
+YHR009C	TDA3	8	Verified
+YHR010W	RPL27A	8	Verified
+YHR011W	DIA4	8	Verified
+YHR012W	VPS29	8	Verified
+YHR013C	ARD1	8	Verified
+YHR014W	SPO13	8	Verified
+YHR015W	MIP6	8	Verified
+YHR016C	YSC84	8	Verified
+YHR017W	YSC83	8	Verified
+YHR018C	ARG4	8	Verified
+YHR019C	DED81	8	Verified
+YHR020W		8	Verified
+YHR021C	RPS27B	8	Verified
+YHR022C-A		8	Uncharacterized
+YHR023W	MYO1	8	Verified
+YHR024C	MAS2	8	Verified
+YHR025W	THR1	8	Verified
+YHR026W	VMA16	8	Verified
+YHR027C	RPN1	8	Verified
+YHR028C	DAP2	8	Verified
+YHR029C	YHI9	8	Verified
+YHR030C	SLT2	8	Verified
+YHR031C	RRM3	8	Verified
+YHR032W	ERC1	8	Verified
+YHR032W-A		8	Dubious
+YHR032C-A		8	Dubious
+YHR033W		8	Uncharacterized
+YHR034C	PIH1	8	Verified
+YHR035W	NEL1	8	Verified
+YHR036W	BRL1	8	Verified
+YHR037W	PUT2	8	Verified
+YHR038W	RRF1	8	Verified
+YHR039C	MSC7	8	Verified
+YHR039C-A	VMA10	8	Verified
+YHR040W	BCD1	8	Verified
+YHR041C	SRB2	8	Verified
+YHR042W	NCP1	8	Verified
+YHR043C	DOG2	8	Verified
+YHR044C	DOG1	8	Verified
+YHR045W		8	Uncharacterized
+YHR046C	INM1	8	Verified
+YHR047C	AAP1	8	Verified
+YHR048W	YHK8	8	Uncharacterized
+YHR049W	FSH1	8	Verified
+YHR050W	SMF2	8	Verified
+YHR050W-A		8	Uncharacterized
+YHR051W	COX6	8	Verified
+YHR052W	CIC1	8	Verified
+YHR052W-A		8	Dubious
+YHR054W-A		8	Dubious
+YHR052C-B		8	Verified
+YHR054C-B		8	Verified
+YHR053C	CUP1-1	8	Verified
+YHR055C	CUP1-2	8	Verified
+YHR054C		8	Uncharacterized
+YHR056C	RSC30	8	Verified
+YHR056W-A		8	Dubious
+YHR057C	CPR2	8	Verified
+YHR058C	MED6	8	Verified
+YHR059W	FYV4	8	Verified
+YHR060W	VMA22	8	Verified
+YHR061C	GIC1	8	Verified
+YHR062C	RPP1	8	Verified
+YHR063C	PAN5	8	Verified
+YHR063W-A		8	Dubious
+YHR064C	SSZ1	8	Verified
+YHR065C	RRP3	8	Verified
+YHR066W	SSF1	8	Verified
+YHR067W	HTD2	8	Verified
+YHR068W	DYS1	8	Verified
+YHR069C	RRP4	8	Verified
+YHR069C-A		8	Dubious
+YHR070W	TRM5	8	Verified
+YHR070C-A		8	Dubious
+YHR071W	PCL5	8	Verified
+YHR072W	ERG7	8	Verified
+YHR072W-A	NOP10	8	Verified
+YHR073W	OSH3	8	Verified
+YHR073W-A		8	Dubious
+YHR073C-B		8	Dubious
+YHR074W	QNS1	8	Verified
+YHR075C	PPE1	8	Verified
+YHR076W	PTC7	8	Verified
+YHR077C	NMD2	8	Verified
+YHR078W		8	Uncharacterized
+YHR079C	IRE1	8	Verified
+YHR079C-A	SAE3	8	Verified
+YHR080C	LAM4	8	Verified
+YHR081W	LRP1	8	Verified
+YHR082C	KSP1	8	Verified
+YHR083W	SAM35	8	Verified
+YHR084W	STE12	8	Verified
+YHR085W	IPI1	8	Verified
+YHR086W	NAM8	8	Verified
+YHR086W-A		8	Uncharacterized
+YHR087W	RTC3	8	Verified
+YHR088W	RPF1	8	Verified
+YHR089C	GAR1	8	Verified
+YHR090C	YNG2	8	Verified
+YHR091C	MSR1	8	Verified
+YHR092C	HXT4	8	Verified
+YHR093W	AHT1	8	Uncharacterized
+YHR094C	HXT1	8	Verified
+YHR096C	HXT5	8	Verified
+YHR097C	PAL2	8	Verified
+YHR098C	SFB3	8	Verified
+YHR099W	TRA1	8	Verified
+YHR100C	GEP4	8	Verified
+YHR101C	BIG1	8	Verified
+YHR102W	KIC1	8	Verified
+YHR103W	SBE22	8	Verified
+YHR104W	GRE3	8	Verified
+YHR105W	YPT35	8	Verified
+YHR106W	TRR2	8	Verified
+YHR107C	CDC12	8	Verified
+YHR108W	GGA2	8	Verified
+YHR109W	CTM1	8	Verified
+YHR110W	ERP5	8	Verified
+YHR111W	UBA4	8	Verified
+YHR112C		8	Verified
+YHR113W	APE4	8	Verified
+YHR114W	BZZ1	8	Verified
+YHR115C	DMA1	8	Verified
+YHR116W	COX23	8	Verified
+YHR117W	TOM71	8	Verified
+YHR118C	ORC6	8	Verified
+YHR119W	SET1	8	Verified
+YHR120W	MSH1	8	Verified
+YHR121W	LSM12	8	Verified
+YHR122W	CIA2	8	Verified
+YHR123W	EPT1	8	Verified
+YHR124W	NDT80	8	Verified
+YHR125W		8	Uncharacterized
+YHR126C	ANS1	8	Uncharacterized
+YHR127W		8	Verified
+YHR128W	FUR1	8	Verified
+YHR129C	ARP1	8	Verified
+YHR130C		8	Uncharacterized
+YHR131C		8	Uncharacterized
+YHR131W-A		8	Dubious
+YHR132C	ECM14	8	Verified
+YHR132W-A	IGO2	8	Verified
+YHR133C	NSG1	8	Verified
+YHR134W	WSS1	8	Verified
+YHR135C	YCK1	8	Verified
+YHR136C	SPL2	8	Verified
+YHR137W	ARO9	8	Verified
+YHR137C-A		8	Dubious
+YHR138C		8	Verified
+YHR139C	SPS100	8	Verified
+YHR139C-A		8	Uncharacterized
+YHR140W		8	Uncharacterized
+YHR141C	RPL42B	8	Verified
+YHR142W	CHS7	8	Verified
+YHR143W	DSE2	8	Verified
+YHR143W-A	RPC10	8	Verified
+YHR144C	DCD1	8	Verified
+YHR146W	CRP1	8	Verified
+YHR147C	MRPL6	8	Verified
+YHR148W	IMP3	8	Verified
+YHR149C	SKG6	8	Verified
+YHR150W	PEX28	8	Verified
+YHR151C	MTC6	8	Verified
+YHR152W	SPO12	8	Verified
+YHR153C	SPO16	8	Verified
+YHR154W	RTT107	8	Verified
+YHR155W	LAM1	8	Verified
+YHR156C	LIN1	8	Verified
+YHR157W	REC104	8	Verified
+YHR158C	KEL1	8	Verified
+YHR159W	TDA11	8	Uncharacterized
+YHR160C	PEX18	8	Verified
+YHR161C	YAP1801	8	Verified
+YHR162W	MPC2	8	Verified
+YHR163W	SOL3	8	Verified
+YHR164C	DNA2	8	Verified
+YHR165C	PRP8	8	Verified
+YHR165W-A		8	Dubious
+YHR166C	CDC23	8	Verified
+YHR167W	THP2	8	Verified
+YHR168W	MTG2	8	Verified
+YHR169W	DBP8	8	Verified
+YHR170W	NMD3	8	Verified
+YHR171W	ATG7	8	Verified
+YHR172W	SPC97	8	Verified
+YHR173C		8	Uncharacterized
+YHR174W	ENO2	8	Verified
+YHR176W	FMO1	8	Verified
+YHR177W	ROF1	8	Verified
+YHR178W	STB5	8	Verified
+YHR179W	OYE2	8	Verified
+YHR180W		8	Uncharacterized
+YHR181W	SVP26	8	Verified
+YHR182W	RGD3	8	Verified
+YHR182C-A		8	Dubious
+YHR183W	GND1	8	Verified
+YHR184W	SSP1	8	Verified
+YHR185C	PFS1	8	Verified
+YHR186C	KOG1	8	Verified
+YHR187W	IKI1	8	Verified
+YHR188C	GPI16	8	Verified
+YHR189W	PTH1	8	Verified
+YHR190W	ERG9	8	Verified
+YHR191C	CTF8	8	Verified
+YHR192W	LNP1	8	Verified
+YHR193C	EGD2	8	Verified
+YHR193C-A		8	Dubious
+YHR194W	MDM31	8	Verified
+YHR195W	NVJ1	8	Verified
+YHR196W	UTP9	8	Verified
+YHR197W	RIX1	8	Verified
+YHR198C	AIM18	8	Verified
+YHR199C	AIM46	8	Verified
+YHR199C-A	NBL1	8	Verified
+YHR200W	RPN10	8	Verified
+YHR201C	PPX1	8	Verified
+YHR202W		8	Uncharacterized
+YHR203C	RPS4B	8	Verified
+YHR204W	MNL1	8	Verified
+YHR205W	SCH9	8	Verified
+YHR206W	SKN7	8	Verified
+YHR207C	SET5	8	Verified
+YHR208W	BAT1	8	Verified
+YHR209W	CRG1	8	Verified
+YHR210C		8	Uncharacterized
+YAL064W-B		8	Uncharacterized
+YHR213W-A		8	Uncharacterized
+YAR064W		8	Uncharacterized
+YHR213W-B		8	Uncharacterized
+YAR068W		8	Uncharacterized
+YAR070C		8	Dubious
+YHR214C-E		8	Uncharacterized
+YAR073W	IMD1	8	Dubious
+YJR162C		10	Dubious
+YAL068C	PAU8	10	Verified
+YJL222W-B		10	Dubious
+YJL222W	VTH2	10	Verified
+YIL172C	IMA3	10	Verified
+YJL221C	IMA4	10	Verified
+YJL219W	HXT9	10	Verified
+YJL216C	IMA5	10	Verified
+YJL214W	HXT8	10	Verified
+YJL213W		10	Verified
+YJL212C	OPT1	10	Verified
+YJL211C		10	Dubious
+YJL210W	PEX2	10	Verified
+YJL209W	CBP1	10	Verified
+YJL208C	NUC1	10	Verified
+YJL207C	LAA1	10	Verified
+YJL206C		10	Uncharacterized
+YJL205C	NCE101	10	Verified
+YJL204C	RCY1	10	Verified
+YJL203W	PRP21	10	Verified
+YJL201W	ECM25	10	Verified
+YJL200C	ACO2	10	Verified
+YJL199C	MBB1	10	Verified
+YJL198W	PHO90	10	Verified
+YJL197W	UBP12	10	Verified
+YJL197C-A		10	Dubious
+YJL196C	ELO1	10	Verified
+YJL195C		10	Dubious
+YJL194W	CDC6	10	Verified
+YJL193W		10	Uncharacterized
+YJL192C	SOP4	10	Verified
+YJL191W	RPS14B	10	Verified
+YJL190C	RPS22A	10	Verified
+YJL189W	RPL39	10	Verified
+YJL188C	BUD19	10	Dubious
+YJL187C	SWE1	10	Verified
+YJL186W	MNN5	10	Verified
+YJL185C	ATG36	10	Verified
+YJL184W	GON7	10	Verified
+YJL183W	MNN11	10	Verified
+YJL182C		10	Dubious
+YJL181W	RBH1	10	Uncharacterized
+YJL180C	ATP12	10	Verified
+YJL179W	PFD1	10	Verified
+YJL178C	ATG27	10	Verified
+YJL177W	RPL17B	10	Verified
+YJL176C	SWI3	10	Verified
+YJL175W		10	Dubious
+YJL174W	KRE9	10	Verified
+YJL173C	RFA3	10	Verified
+YJL172W	CPS1	10	Verified
+YJL171C	TOH1	10	Verified
+YJL170C	ASG7	10	Verified
+YJL169W		10	Dubious
+YJL168C	SET2	10	Verified
+YJL167W	ERG20	10	Verified
+YJL166W	QCR8	10	Verified
+YJL165C	HAL5	10	Verified
+YJL164C	TPK1	10	Verified
+YJL163C		10	Uncharacterized
+YJL162C	JJJ2	10	Verified
+YJL161W	FMP33	10	Uncharacterized
+YJL160C	PIR5	10	Uncharacterized
+YJL159W	HSP150	10	Verified
+YJL158C	CIS3	10	Verified
+YJL157C	FAR1	10	Verified
+YJL156C	SSY5	10	Verified
+YJL155C	FBP26	10	Verified
+YJL154C	VPS35	10	Verified
+YJL153C	INO1	10	Verified
+YJL152W		10	Dubious
+YJL151C	SNA3	10	Verified
+YJL150W		10	Dubious
+YJL149W	DAS1	10	Verified
+YJL148W	RPA34	10	Verified
+YJL147C	SMT1	10	Uncharacterized
+YJL146W	IDS2	10	Verified
+YJL145W	SFH5	10	Verified
+YJL144W	ROQ1	10	Verified
+YJL143W	TIM17	10	Verified
+YJL141C	YAK1	10	Verified
+YJL140W	RPB4	10	Verified
+YJL139C	YUR1	10	Verified
+YJL138C	TIF2	10	Verified
+YJL137C	GLG2	10	Verified
+YJL136W-A		10	Uncharacterized
+YJL136C	RPS21B	10	Verified
+YJL135W		10	Dubious
+YJL134W	LCB3	10	Verified
+YJL133C-A	DPI8	10	Uncharacterized
+YJL133W	MRS3	10	Verified
+YJL132W		10	Uncharacterized
+YJL131C	AIM23	10	Verified
+YJL130C	URA2	10	Verified
+YJL129C	TRK1	10	Verified
+YJL128C	PBS2	10	Verified
+YJL127W-A		10	Dubious
+YJL127C-B	MCO6	10	Uncharacterized
+YJL127C	SPT10	10	Verified
+YJL126W	NIT2	10	Verified
+YJL125C	GCD14	10	Verified
+YJL124C	LSM1	10	Verified
+YJL123C	MTC1	10	Verified
+YJL122W	ALB1	10	Verified
+YJL121C	RPE1	10	Verified
+YJL120W		10	Dubious
+YJL118W		10	Verified
+YJL117W	PHO86	10	Verified
+YJL116C	NCA3	10	Verified
+YJL115W	ASF1	10	Verified
+YJL112W	MDV1	10	Verified
+YJL111W	CCT7	10	Verified
+YJL110C	GZF3	10	Verified
+YJL109C	UTP10	10	Verified
+YJL108C	PRM10	10	Verified
+YJL106W	IME2	10	Verified
+YJL105W	SET4	10	Verified
+YJL104W	PAM16	10	Verified
+YJL103C	GSM1	10	Verified
+YJL102W	MEF2	10	Verified
+YJL101C	GSH1	10	Verified
+YJL100W	LSB6	10	Verified
+YJL099W	CHS6	10	Verified
+YJL098W	SAP185	10	Verified
+YJL097W	PHS1	10	Verified
+YJL096W	MRPL49	10	Verified
+YJL095W	BCK1	10	Verified
+YJL094C	KHA1	10	Verified
+YJL093C	TOK1	10	Verified
+YJL092W	SRS2	10	Verified
+YJL091C	GWT1	10	Verified
+YJL090C	DPB11	10	Verified
+YJL089W	SIP4	10	Verified
+YJL088W	ARG3	10	Verified
+YJL087C	TRL1	10	Verified
+YJL086C		10	Dubious
+YJL085W	EXO70	10	Verified
+YJL084C	ALY2	10	Verified
+YJL083W	TAX4	10	Verified
+YJL082W	IML2	10	Verified
+YJL081C	ARP4	10	Verified
+YJL080C	SCP160	10	Verified
+YJL079C	PRY1	10	Verified
+YJL078C	PRY3	10	Verified
+YJL077W-B		10	Uncharacterized
+YJL077W-A		10	Uncharacterized
+YJL076W	NET1	10	Verified
+YJL075C	APQ13	10	Uncharacterized
+YJL074C	SMC3	10	Verified
+YJL073W	JEM1	10	Verified
+YJL072C	PSF2	10	Verified
+YJL071W	ARG2	10	Verified
+YJL070C		10	Uncharacterized
+YJL069C	UTP18	10	Verified
+YJL068C		10	Verified
+YJL067W		10	Dubious
+YJL066C	MPM1	10	Verified
+YJL065C	DLS1	10	Verified
+YJL064W		10	Dubious
+YJL063C	MRPL8	10	Verified
+YJL062W-A	COA3	10	Verified
+YJL062W	LAS21	10	Verified
+YJL061W	NUP82	10	Verified
+YJL060W	BNA3	10	Verified
+YJL059W	YHC3	10	Verified
+YJL058C	BIT61	10	Verified
+YJL057C	IKS1	10	Verified
+YJL056C	ZAP1	10	Verified
+YJL055W	LOG1	10	Verified
+YJL054W	TIM54	10	Verified
+YJL053W	PEP8	10	Verified
+YJL052C-A		10	Uncharacterized
+YJL052W	TDH1	10	Verified
+YJL051W	IRC8	10	Verified
+YJL050W	MTR4	10	Verified
+YJL049W	CHM7	10	Uncharacterized
+YJL048C	UBX6	10	Verified
+YJL047C-A		10	Uncharacterized
+YJL047C	RTT101	10	Verified
+YJL046W	AIM22	10	Verified
+YJL045W	SDH9	10	Verified
+YJL044C	GYP6	10	Verified
+YJL043W		10	Uncharacterized
+YJL042W	MHP1	10	Verified
+YJL041W	NSP1	10	Verified
+YJL039C	NUP192	10	Verified
+YJL038C	LOH1	10	Verified
+YJL037W	IRC18	10	Verified
+YJL036W	SNX4	10	Verified
+YJL035C	TAD2	10	Verified
+YJL034W	KAR2	10	Verified
+YJL033W	HCA4	10	Verified
+YJL032W		10	Dubious
+YJL031C	BET4	10	Verified
+YJL030W	MAD2	10	Verified
+YJL029C	VPS53	10	Verified
+YJL027C		10	Uncharacterized
+YJL026W	RNR2	10	Verified
+YJL026C-A		10	Dubious
+YJL025W	RRN7	10	Verified
+YJL024C	APS3	10	Verified
+YJL023C	PET130	10	Verified
+YJL022W		10	Dubious
+YJL020C	BBC1	10	Verified
+YJL020W-A		10	Dubious
+YJL019W	MPS3	10	Verified
+YJL016W	TPH3	10	Uncharacterized
+YJL015C		10	Dubious
+YJL014W	CCT3	10	Verified
+YJL013C	MAD3	10	Verified
+YJL012C	VTC4	10	Verified
+YJL011C	RPC17	10	Verified
+YJL010C	NOP9	10	Verified
+YJL009W		10	Dubious
+YJL008C	CCT8	10	Verified
+YJL007C		10	Uncharacterized
+YJL006C	CTK2	10	Verified
+YJL005W	CYR1	10	Verified
+YJL004C	SYS1	10	Verified
+YJL003W	COX16	10	Verified
+YJL002C	OST1	10	Verified
+YJL001W	PRE3	10	Verified
+YJR001W	AVT1	10	Verified
+YJR002W	MPP10	10	Verified
+YJR003C	MRX12	10	Uncharacterized
+YJR004C	SAG1	10	Verified
+YJR005W	APL1	10	Verified
+YJR005C-A	LSO1	10	Verified
+YJR006W	POL31	10	Verified
+YJR007W	SUI2	10	Verified
+YJR008W	MHO1	10	Verified
+YJR009C	TDH2	10	Verified
+YJR010W	MET3	10	Verified
+YJR010C-A	SPC1	10	Verified
+YJR011C		10	Uncharacterized
+YJR012C		10	Verified
+YJR013W	GPI14	10	Verified
+YJR014W	TMA22	10	Verified
+YJR015W		10	Uncharacterized
+YJR016C	ILV3	10	Verified
+YJR017C	ESS1	10	Verified
+YJR018W		10	Dubious
+YJR019C	TES1	10	Verified
+YJR021C	REC107	10	Verified
+YJR022W	LSM8	10	Verified
+YJR023C		10	Dubious
+YJR024C	MDE1	10	Verified
+YJR025C	BNA1	10	Verified
+YJR031C	GEA1	10	Verified
+YJR032W	CPR7	10	Verified
+YJR033C	RAV1	10	Verified
+YJR034W	PET191	10	Verified
+YJR035W	RAD26	10	Verified
+YJR036C	HUL4	10	Verified
+YJR037W		10	Dubious
+YJR038C		10	Dubious
+YJR039W	MLO127	10	Uncharacterized
+YJR040W	GEF1	10	Verified
+YJR041C	URB2	10	Verified
+YJR042W	NUP85	10	Verified
+YJR043C	POL32	10	Verified
+YJR044C	VPS55	10	Verified
+YJR045C	SSC1	10	Verified
+YJR046W	TAH11	10	Verified
+YJR047C	ANB1	10	Verified
+YJR048W	CYC1	10	Verified
+YJR049C	UTR1	10	Verified
+YJR050W	ISY1	10	Verified
+YJR051W	OSM1	10	Verified
+YJR052W	RAD7	10	Verified
+YJR053W	BFA1	10	Verified
+YJR054W	KCH1	10	Verified
+YJR055W	HIT1	10	Verified
+YJR056C		10	Verified
+YJR057W	CDC8	10	Verified
+YJR058C	APS2	10	Verified
+YJR059W	PTK2	10	Verified
+YJR060W	CBF1	10	Verified
+YJR061W	MNN14	10	Uncharacterized
+YJR062C	NTA1	10	Verified
+YJR063W	RPA12	10	Verified
+YJR064W	CCT5	10	Verified
+YJR065C	ARP3	10	Verified
+YJR066W	TOR1	10	Verified
+YJR067C	YAE1	10	Verified
+YJR068W	RFC2	10	Verified
+YJR069C	HAM1	10	Verified
+YJR070C	LIA1	10	Verified
+YJR071W		10	Dubious
+YJR072C	NPA3	10	Verified
+YJR073C	OPI3	10	Verified
+YJR074W	MOG1	10	Verified
+YJR075W	HOC1	10	Verified
+YJR076C	CDC11	10	Verified
+YJR077C	MIR1	10	Verified
+YJR078W	BNA2	10	Verified
+YJR079W		10	Uncharacterized
+YJR080C	AIM24	10	Verified
+YJR082C	EAF6	10	Verified
+YJR083C	ACF4	10	Verified
+YJR084W		10	Verified
+YJR085C	TMH11	10	Verified
+YJR086W	STE18	10	Verified
+YJR088C	EMC2	10	Verified
+YJR089W	BIR1	10	Verified
+YJR090C	GRR1	10	Verified
+YJR091C	JSN1	10	Verified
+YJR092W	BUD4	10	Verified
+YJR093C	FIP1	10	Verified
+YJR094C	IME1	10	Verified
+YJR094W-A	RPL43B	10	Verified
+YJR095W	SFC1	10	Verified
+YJR096W		10	Verified
+YJR097W	JJJ3	10	Verified
+YJR098C		10	Uncharacterized
+YJR099W	YUH1	10	Verified
+YJR100C	AIM25	10	Verified
+YJR101W	RSM26	10	Verified
+YJR102C	VPS25	10	Verified
+YJR103W	URA8	10	Verified
+YJR104C	SOD1	10	Verified
+YJR105W	ADO1	10	Verified
+YJR106W	ECM27	10	Verified
+YJR107C-A		10	Verified
+YJR108W	ABM1	10	Verified
+YJR109C	CPA2	10	Verified
+YJR110W	YMR1	10	Verified
+YJR111C	PXP2	10	Verified
+YJR112W	NNF1	10	Verified
+YJR112W-A		10	Uncharacterized
+YJR113C	RSM7	10	Verified
+YJR114W		10	Dubious
+YJR116W	TDA4	10	Uncharacterized
+YJR117W	STE24	10	Verified
+YJR118C	ILM1	10	Verified
+YJR119C	JHD2	10	Verified
+YJR120W		10	Verified
+YJR121W	ATP2	10	Verified
+YJR122W	IBA57	10	Verified
+YJR123W	RPS5	10	Verified
+YJR124C		10	Uncharacterized
+YJR125C	ENT3	10	Verified
+YJR126C	VPS70	10	Verified
+YJR128W		10	Uncharacterized
+YJR129C	EFM3	10	Verified
+YJR130C	STR2	10	Verified
+YJR131W	MNS1	10	Verified
+YJR132W	NMD5	10	Verified
+YJR133W	XPT1	10	Verified
+YJR134C	SGM1	10	Verified
+YJR135C	MCM22	10	Verified
+YJR135W-A	TIM8	10	Verified
+YJR136C	TTI2	10	Verified
+YJR137C	MET5	10	Verified
+YJR138W	IML1	10	Verified
+YJR139C	HOM6	10	Verified
+YJR140C	HIR3	10	Verified
+YJR141W	IPA1	10	Verified
+YJR142W		10	Verified
+YJR143C	PMT4	10	Verified
+YJR144W	MGM101	10	Verified
+YJR145C	RPS4A	10	Verified
+YJR146W		10	Uncharacterized
+YJR147W	HMS2	10	Verified
+YJR148W	BAT2	10	Verified
+YJR149W		10	Uncharacterized
+YJR150C	DAN1	10	Verified
+YJR151C	DAN4	10	Verified
+YJR151W-A		10	Uncharacterized
+YJR152W	DAL5	10	Verified
+YJR153W	PGU1	10	Verified
+YJR154W		10	Uncharacterized
+YJR155W	AAD10	10	Verified
+YFL058W	THI5	10	Verified
+YJR156C	THI11	10	Verified
+YNL332W	THI12	10	Verified
+YFL059W	SNZ3	10	Verified
+YNL333W	SNZ2	10	Verified
+YFL060C	SNO3	10	Verified
+YNL334C	SNO2	10	Verified
+YFL061W	DDI2	10	Verified
+YNL335W	DDI3	10	Verified
+YHL048C-A		10	Uncharacterized
+YNL337W		11	Dubious
+YNR075C-A		11	Uncharacterized
+YKL222C		11	Verified
+YKL221W	MCH2	11	Verified
+YKL220C	FRE2	11	Verified
+YKL219W	COS9	11	Verified
+YKL218C	SRY1	11	Verified
+YKL217W	JEN1	11	Verified
+YKL216W	URA1	11	Verified
+YKL215C	OXP1	11	Verified
+YKL214C	YRA2	11	Verified
+YKL213C	DOA1	11	Verified
+YKL212W	SAC1	11	Verified
+YKL211C	TRP3	11	Verified
+YKL210W	UBA1	11	Verified
+YKL209C	STE6	11	Verified
+YKL208W	CBT1	11	Verified
+YKL207W	EMC3	11	Verified
+YKL206C	ADD66	11	Verified
+YKL205W	LOS1	11	Verified
+YKL204W	EAP1	11	Verified
+YKL203C	TOR2	11	Verified
+YKL201C	MNN4	11	Verified
+YKL198C	PTK1	11	Verified
+YKL197C	PEX1	11	Verified
+YKL196C	YKT6	11	Verified
+YKL195W	MIA40	11	Verified
+YKL194C	MST1	11	Verified
+YKL193C	SDS22	11	Verified
+YKL192C	ACP1	11	Verified
+YKL191W	DPH2	11	Verified
+YKL190W	CNB1	11	Verified
+YKL189W	HYM1	11	Verified
+YKL188C	PXA2	11	Verified
+YKL187C	FAT3	11	Verified
+YKL186C	MTR2	11	Verified
+YKL185W	ASH1	11	Verified
+YKL184W	SPE1	11	Verified
+YKL183C-A		11	Uncharacterized
+YKL183W	LOT5	11	Verified
+YKL182W	FAS1	11	Verified
+YKL181W	PRS1	11	Verified
+YKL180W	RPL17A	11	Verified
+YKL179C	COY1	11	Verified
+YKL178C	STE3	11	Verified
+YKL177W		11	Dubious
+YKL176C	LST4	11	Verified
+YKL175W	ZRT3	11	Verified
+YKL174C	TPO5	11	Verified
+YKL173W	SNU114	11	Verified
+YKL172W	EBP2	11	Verified
+YKL171W	NNK1	11	Verified
+YKL170W	MRPL38	11	Verified
+YKL169C		11	Dubious
+YKL168C	KKQ8	11	Verified
+YKL167C	MRP49	11	Verified
+YKL166C	TPK3	11	Verified
+YKL165C-A		11	Dubious
+YKL165C	MCD4	11	Verified
+YKL164C	PIR1	11	Verified
+YKL163W	PIR3	11	Verified
+YKL162C-A		11	Dubious
+YKL162C		11	Uncharacterized
+YKL161C	KDX1	11	Verified
+YKL160W	ELF1	11	Verified
+YKL159C	RCN1	11	Verified
+YKL157W	APE2	11	Verified
+YKL156W	RPS27A	11	Verified
+YKL156C-A		11	Dubious
+YKL155C	RSM22	11	Verified
+YKL154W	SRP102	11	Verified
+YKL153W		11	Dubious
+YKL152C	GPM1	11	Verified
+YKL151C	NNR2	11	Verified
+YKL150W	MCR1	11	Verified
+YKL149C	DBR1	11	Verified
+YKL148C	SDH1	11	Verified
+YKL147C		11	Dubious
+YKL146W	AVT3	11	Verified
+YKL145W	RPT1	11	Verified
+YKL145W-A		11	Dubious
+YKL144C	RPC25	11	Verified
+YKL143W	LTV1	11	Verified
+YKL142W	MRP8	11	Verified
+YKL141W	SDH3	11	Verified
+YKL140W	TGL1	11	Verified
+YKL139W	CTK1	11	Verified
+YKL138C-A	HSK3	11	Verified
+YKL138C	MRPL31	11	Verified
+YKL137W	CMC1	11	Verified
+YKL136W		11	Dubious
+YKL135C	APL2	11	Verified
+YKL134C	OCT1	11	Verified
+YKL133C	RCI50	11	Uncharacterized
+YKL132C	RMA1	11	Verified
+YKL131W		11	Dubious
+YKL130C	SHE2	11	Verified
+YKL129C	MYO3	11	Verified
+YKL128C	PMU1	11	Verified
+YKL127W	PGM1	11	Verified
+YMR105C	PGM2	11	Verified
+YKL126W	YPK1	11	Verified
+YKL125W	RRN3	11	Verified
+YKL124W	SSH4	11	Verified
+YKL122C	SRP21	11	Verified
+YKL121W	DGR2	11	Uncharacterized
+YKL120W	OAC1	11	Verified
+YKL119C	VPH2	11	Verified
+YKL118W		11	Dubious
+YKL117W	SBA1	11	Verified
+YKL116C	PRR1	11	Verified
+YKL115C		11	Dubious
+YKL114C	APN1	11	Verified
+YKL113C	RAD27	11	Verified
+YKL112W	ABF1	11	Verified
+YKL111C		11	Dubious
+YKL110C	KTI12	11	Verified
+YKL109W	HAP4	11	Verified
+YKL108W	SLD2	11	Verified
+YKL107W		11	Verified
+YKL106C-A		11	Uncharacterized
+YKL106W	AAT1	11	Verified
+YKL105C	SEG2	11	Verified
+YKL104C	GFA1	11	Verified
+YKL104W-A		11	Verified
+YKL103C	APE1	11	Verified
+YKL101W	HSL1	11	Verified
+YKL100C	YPF1	11	Verified
+YKL100W-A		11	Dubious
+YKL099C	UTP11	11	Verified
+YKL098W	MTC2	11	Verified
+YKL097C		11	Uncharacterized
+YKL096C-B		11	Uncharacterized
+YKL096W-A	CWP2	11	Verified
+YKL096W	CWP1	11	Verified
+YKL095W	YJU2	11	Verified
+YKL094W	YJU3	11	Verified
+YKL093W	MBR1	11	Verified
+YKL092C	BUD2	11	Verified
+YKL091C		11	Verified
+YKL090W	CUE2	11	Verified
+YKL089W	MIF2	11	Verified
+YKL088W	CAB3	11	Verified
+YKL087C	CYT2	11	Verified
+YKL086W	SRX1	11	Verified
+YKL085W	MDH1	11	Verified
+YKL084W	HOT13	11	Verified
+YKL082C	RRP14	11	Verified
+YKL081W	TEF4	11	Verified
+YKL080W	VMA5	11	Verified
+YKL079W	SMY1	11	Verified
+YKL078W	DHR2	11	Verified
+YKL077W	PSG1	11	Verified
+YKL076C	PSY1	11	Dubious
+YKL075C		11	Uncharacterized
+YKL074C	MUD2	11	Verified
+YKL073W	LHS1	11	Verified
+YKL072W	STB6	11	Verified
+YKL071W		11	Verified
+YKL069W		11	Verified
+YKL068W-A		11	Uncharacterized
+YKL068W	NUP100	11	Verified
+YKL067W	YNK1	11	Verified
+YKL065W-A	DPC7	11	Verified
+YKL065C	YET1	11	Verified
+YKL064W	MNR2	11	Verified
+YKL063C		11	Uncharacterized
+YKL062W	MSN4	11	Verified
+YKL061W	BLI1	11	Verified
+YKL060C	FBA1	11	Verified
+YKL059C	MPE1	11	Verified
+YKL058W	TOA2	11	Verified
+YKL057C	NUP120	11	Verified
+YKL056C	TMA19	11	Verified
+YKL055C	OAR1	11	Verified
+YKL054C	DEF1	11	Verified
+YKL053C-A	MDM35	11	Verified
+YKL053W		11	Dubious
+YKL052C	ASK1	11	Verified
+YKL051W	SFK1	11	Verified
+YKL050C		11	Verified
+YKL049C	CSE4	11	Verified
+YKL048C	ELM1	11	Verified
+YKL047W	ANR2	11	Verified
+YKL046C	DCW1	11	Verified
+YKL045W	PRI2	11	Verified
+YKL044W	MMO1	11	Verified
+YKL043W	PHD1	11	Verified
+YKL042W	SPC42	11	Verified
+YKL041W	VPS24	11	Verified
+YKL040C	NFU1	11	Verified
+YKL039W	PTM1	11	Verified
+YKL038W	RGT1	11	Verified
+YKL037W	AIM26	11	Verified
+YKL036C		11	Dubious
+YKL035W	UGP1	11	Verified
+YKL034W	TUL1	11	Verified
+YKL033W-A		11	Verified
+YKL033W	TTI1	11	Verified
+YKL032C	IXR1	11	Verified
+YKL031W		11	Dubious
+YKL029C	MAE1	11	Verified
+YKL028W	TFA1	11	Verified
+YKL027W	TCD2	11	Verified
+YKL026C	GPX1	11	Verified
+YKL025C	PAN3	11	Verified
+YKL024C	URA6	11	Verified
+YKL023C-A	MIN9	11	Verified
+YKL023W	SKA1	11	Verified
+YKL022C	CDC16	11	Verified
+YKL021C	MAK11	11	Verified
+YKL020C	SPT23	11	Verified
+YKL019W	RAM2	11	Verified
+YKL018C-A	MCO12	11	Uncharacterized
+YKL018W	SWD2	11	Verified
+YKL017C	HCS1	11	Verified
+YKL016C	ATP7	11	Verified
+YKL015W	PUT3	11	Verified
+YKL014C	URB1	11	Verified
+YKL013C	ARC19	11	Verified
+YKL012W	PRP40	11	Verified
+YKL011C	CCE1	11	Verified
+YKL010C	UFD4	11	Verified
+YKL009W	MRT4	11	Verified
+YKL008C	LAC1	11	Verified
+YKL007W	CAP1	11	Verified
+YKL006C-A	SFT1	11	Verified
+YKL006W	RPL14A	11	Verified
+YKL005C	BYE1	11	Verified
+YKL004W	AUR1	11	Verified
+YKL003C	MRP17	11	Verified
+YKL002W	DID4	11	Verified
+YKL001C	MET14	11	Verified
+YKR001C	VPS1	11	Verified
+YKR002W	PAP1	11	Verified
+YKR003W	OSH6	11	Verified
+YKR004C	ECM9	11	Verified
+YKR005C		11	Uncharacterized
+YKR006C	MRPL13	11	Verified
+YKR007W	MEH1	11	Verified
+YKR008W	RSC4	11	Verified
+YKR009C	FOX2	11	Verified
+YKR010C	TOF2	11	Verified
+YKR011C		11	Verified
+YKR013W	PRY2	11	Verified
+YKR014C	YPT52	11	Verified
+YKR015C		11	Uncharacterized
+YKR016W	MIC60	11	Verified
+YKR017C	HEL1	11	Verified
+YKR018C		11	Verified
+YKR019C	IRS4	11	Verified
+YKR020W	VPS51	11	Verified
+YKR021W	ALY1	11	Verified
+YKR022C	NTR2	11	Verified
+YKR023W	RQT4	11	Verified
+YKR024C	DBP7	11	Verified
+YKR025W	RPC37	11	Verified
+YKR026C	GCN3	11	Verified
+YKR027W	BCH2	11	Verified
+YKR028W	SAP190	11	Verified
+YKR029C	SET3	11	Verified
+YKR030W	GMH1	11	Verified
+YKR031C	SPO14	11	Verified
+YKR032W		11	Uncharacterized
+YKR033C		11	Dubious
+YKR034W	DAL80	11	Verified
+YKR035C	OPI8	11	Dubious
+YKR035W-A	DID2	11	Verified
+YKR036C	CAF4	11	Verified
+YKR037C	SPC34	11	Verified
+YKR038C	KAE1	11	Verified
+YKR039W	GAP1	11	Verified
+YKR041W		11	Verified
+YKR042W	UTH1	11	Verified
+YKR043C	SHB17	11	Verified
+YKR044W	UIP5	11	Verified
+YKR045C		11	Uncharacterized
+YKR046C	PLN1	11	Verified
+YKR048C	NAP1	11	Verified
+YKR049C	FMP46	11	Verified
+YKR050W	TRK2	11	Verified
+YKR051W	HFL1	11	Verified
+YKR052C	MRS4	11	Verified
+YKR053C	YSR3	11	Verified
+YKR054C	DYN1	11	Verified
+YKR055W	RHO4	11	Verified
+YKR057W	RPS21A	11	Verified
+YKR058W	GLG1	11	Verified
+YKR059W	TIF1	11	Verified
+YKR060W	UTP30	11	Verified
+YKR061W	KTR2	11	Verified
+YKR062W	TFA2	11	Verified
+YKR063C	LAS1	11	Verified
+YKR064W	OAF3	11	Verified
+YKR065C	PAM17	11	Verified
+YKR066C	CCP1	11	Verified
+YKR067W	GPT2	11	Verified
+YKR068C	BET3	11	Verified
+YKR069W	MET1	11	Verified
+YKR070W		11	Uncharacterized
+YKR071C	DRE2	11	Verified
+YKR072C	SIS2	11	Verified
+YKR074W	AIM29	11	Verified
+YKR075C		11	Uncharacterized
+YKR075W-A		11	Dubious
+YKR076W	ECM4	11	Verified
+YKR077W	MSA2	11	Verified
+YKR078W		11	Verified
+YKR079C	TRZ1	11	Verified
+YKR080W	MTD1	11	Verified
+YKR081C	RPF2	11	Verified
+YKR082W	NUP133	11	Verified
+YKR083C	DAD2	11	Verified
+YKR084C	HBS1	11	Verified
+YKR085C	MRPL20	11	Verified
+YKR086W	PRP16	11	Verified
+YKR087C	OMA1	11	Verified
+YKR088C	TVP38	11	Verified
+YKR089C	TGL4	11	Verified
+YKR090W	PXL1	11	Verified
+YKR091W	SRL3	11	Verified
+YKR092C	SRP40	11	Verified
+YKR093W	PTR2	11	Verified
+YKR094C	RPL40B	11	Verified
+YKR095W	MLP1	11	Verified
+YKR095W-A	PCC1	11	Verified
+YKR096W	ESL2	11	Verified
+YKR097W	PCK1	11	Verified
+YKR098C	UBP11	11	Verified
+YKR099W	BAS1	11	Verified
+YKR100C	SKG1	11	Verified
+YKR101W	SIR1	11	Verified
+YCL073C	GEX1	11	Verified
+YLL065W		12	Dubious
+YGL262W		12	Uncharacterized
+YLR461W	PAU4	12	Verified
+YGL260W		12	Uncharacterized
+YLL062C	MHT1	12	Verified
+YLL061W	MMP1	12	Verified
+YLL060C	GTT2	12	Verified
+YLL056C		12	Verified
+YLL055W	YCT1	12	Verified
+YLL054C		12	Uncharacterized
+YLL053C		12	Uncharacterized
+YLL052C	AQY2	12	Verified
+YLL051C	FRE6	12	Verified
+YLL050C	COF1	12	Verified
+YLL049W	LDB18	12	Verified
+YLL048C	YBT1	12	Verified
+YLL046C	RNP1	12	Verified
+YLL045C	RPL8B	12	Verified
+YLL044W		12	Dubious
+YLL043W	FPS1	12	Verified
+YLL042C	ATG10	12	Verified
+YLL041C	SDH2	12	Verified
+YLL040C	VPS13	12	Verified
+YLL039C	UBI4	12	Verified
+YLL038C	ENT4	12	Verified
+YLL037W		12	Dubious
+YLL036C	PRP19	12	Verified
+YLL035W	GRC3	12	Verified
+YLL034C	RIX7	12	Verified
+YLL033W	IRC19	12	Verified
+YLL032C		12	Verified
+YLL031C	GPI13	12	Verified
+YLL029W	FRA1	12	Verified
+YLL028W	TPO1	12	Verified
+YLL027W	ISA1	12	Verified
+YLL026W	HSP104	12	Verified
+YLL025W	PAU17	12	Verified
+YLL024C	SSA2	12	Verified
+YLL023C	POM33	12	Verified
+YLL022C	HIF1	12	Verified
+YLL021W	SPA2	12	Verified
+YLL019C	KNS1	12	Verified
+YLL019W-A		12	Dubious
+YLL018C-A	COX19	12	Verified
+YLL018C	DPS1	12	Verified
+YLL015W	BPT1	12	Verified
+YLL014W	EMC6	12	Verified
+YLL013C	PUF3	12	Verified
+YLL012W	YEH1	12	Verified
+YLL011W	SOF1	12	Verified
+YLL010C	PSR1	12	Verified
+YLL009C	COX17	12	Verified
+YLL008W	DRS1	12	Verified
+YLL007C	LMO1	12	Verified
+YLL006W	MMM1	12	Verified
+YLL005C	SPO75	12	Verified
+YLL004W	ORC3	12	Verified
+YLL003W	SFI1	12	Verified
+YLL002W	RTT109	12	Verified
+YLL001W	DNM1	12	Verified
+YLR001C		12	Uncharacterized
+YLR002C	NOC3	12	Verified
+YLR003C	CMS1	12	Verified
+YLR004C	THI73	12	Verified
+YLR005W	SSL1	12	Verified
+YLR006C	SSK1	12	Verified
+YLR007W	NSE1	12	Verified
+YLR008C	PAM18	12	Verified
+YLR009W	RLP24	12	Verified
+YLR010C	TEN1	12	Verified
+YLR011W	LOT6	12	Verified
+YLR012C		12	Uncharacterized
+YLR013W	GAT3	12	Verified
+YLR014C	PPR1	12	Verified
+YLR015W	BRE2	12	Verified
+YLR016C	PML1	12	Verified
+YLR017W	MEU1	12	Verified
+YLR018C	POM34	12	Verified
+YLR019W	PSR2	12	Verified
+YLR020C	YEH2	12	Verified
+YLR021W	IRC25	12	Verified
+YLR022C	SDO1	12	Verified
+YLR023C	IZH3	12	Verified
+YLR024C	UBR2	12	Verified
+YLR025W	SNF7	12	Verified
+YLR026C	SED5	12	Verified
+YLR027C	AAT2	12	Verified
+YLR028C	ADE16	12	Verified
+YLR029C	RPL15A	12	Verified
+YLR031W		12	Uncharacterized
+YLR032W	RAD5	12	Verified
+YLR033W	RSC58	12	Verified
+YLR034C	SMF3	12	Verified
+YLR035C	MLH2	12	Verified
+YLR037C	PAU23	12	Verified
+YLR038C	COX12	12	Verified
+YLR039C	RIC1	12	Verified
+YLR040C	AFB1	12	Verified
+YLR041W		12	Dubious
+YLR042C	NFG1	12	Verified
+YLR043C	TRX1	12	Verified
+YLR044C	PDC1	12	Verified
+YLR045C	STU2	12	Verified
+YLR046C		12	Uncharacterized
+YLR047C	FRE8	12	Verified
+YLR048W	RPS0B	12	Verified
+YLR049C	MLO50	12	Uncharacterized
+YLR050C	EMA19	12	Verified
+YLR051C	FCF2	12	Verified
+YLR052W	IES3	12	Verified
+YLR053C		12	Uncharacterized
+YLR054C	OSW2	12	Verified
+YLR055C	SPT8	12	Verified
+YLR056W	ERG3	12	Verified
+YLR057W	MNL2	12	Verified
+YLR058C	SHM2	12	Verified
+YLR059C	REX2	12	Verified
+YLR060W	FRS1	12	Verified
+YLR061W	RPL22A	12	Verified
+YLR062C	BUD28	12	Dubious
+YLR063W	BMT6	12	Verified
+YLR064W	PER33	12	Verified
+YLR065C	SND2	12	Verified
+YLR066W	SPC3	12	Verified
+YLR067C	PET309	12	Verified
+YLR068W	FYV7	12	Verified
+YLR069C	MEF1	12	Verified
+YLR070C	XYL2	12	Verified
+YLR071C	RGR1	12	Verified
+YLR072W	LAM6	12	Verified
+YLR073C	RFU1	12	Verified
+YLR074C	BUD20	12	Verified
+YLR075W	RPL10	12	Verified
+YLR076C		12	Dubious
+YLR077W	FMP25	12	Verified
+YLR078C	BOS1	12	Verified
+YLR079W	SIC1	12	Verified
+YLR080W	EMP46	12	Verified
+YLR081W	GAL2	12	Verified
+YLR082C	SRL2	12	Verified
+YLR083C	EMP70	12	Verified
+YLR084C	RAX2	12	Verified
+YLR085C	ARP6	12	Verified
+YLR086W	SMC4	12	Verified
+YLR087C	CSF1	12	Verified
+YLR088W	GAA1	12	Verified
+YLR089C	ALT1	12	Verified
+YLR090W	XDJ1	12	Verified
+YLR091W	GEP5	12	Verified
+YLR092W	SUL2	12	Verified
+YLR093C	NYV1	12	Verified
+YLR094C	GIS3	12	Verified
+YLR095C	IOC2	12	Verified
+YLR096W	KIN2	12	Verified
+YLR097C	HRT3	12	Verified
+YLR098C	CHA4	12	Verified
+YLR099C	ICT1	12	Verified
+YLR099W-A	MIM2	12	Verified
+YLR100W	ERG27	12	Verified
+YLR101C		12	Dubious
+YLR102C	APC9	12	Verified
+YLR103C	CDC45	12	Verified
+YLR104W	LCL2	12	Uncharacterized
+YLR105C	SEN2	12	Verified
+YLR106C	REA1	12	Verified
+YLR107W	REX3	12	Verified
+YLR108C		12	Verified
+YLR109W	AHP1	12	Verified
+YLR110C	CCW12	12	Verified
+YLR112W		12	Uncharacterized
+YLR113W	HOG1	12	Verified
+YLR114C	AVL9	12	Verified
+YLR115W	CFT2	12	Verified
+YLR116W	MSL5	12	Verified
+YLR117C	CLF1	12	Verified
+YLR118C	TML25	12	Verified
+YLR120C	YPS1	12	Verified
+YLR120W-A		12	Dubious
+YLR121C	YPS3	12	Verified
+YLR122C		12	Uncharacterized
+YLR123C		12	Dubious
+YLR125W		12	Uncharacterized
+YLR126C		12	Verified
+YLR127C	APC2	12	Verified
+YLR128W	DCN1	12	Verified
+YLR129W	DIP2	12	Verified
+YLR130C	ZRT2	12	Verified
+YLR131C	ACE2	12	Verified
+YLR132C	USB1	12	
+YLR133W	CKI1	12	Verified
+YLR134W	PDC5	12	Verified
+YLR135W	SLX4	12	Verified
+YLR136C	TIS11	12	Verified
+YLR137W	RKM5	12	Verified
+YLR138W	NHA1	12	Verified
+YLR139C	SLS1	12	Verified
+YLR140W		12	Dubious
+YLR141W	RRN5	12	Verified
+YLR142W	PUT1	12	Verified
+YLR143W	DPH6	12	Verified
+YLR144C	ACF2	12	Verified
+YLR145W	RMP1	12	Verified
+YLR146C	SPE4	12	Verified
+YLR146W-A		12	Verified
+YLR147C	SMD3	12	Verified
+YLR148W	PEP3	12	Verified
+YLR149C		12	Verified
+YLR149C-A		12	Dubious
+YLR150W	STM1	12	Verified
+YLR151C	PCD1	12	Verified
+YLR152C		12	Uncharacterized
+YLR153C	ACS2	12	Verified
+YLR154C	RNH203	12	Verified
+YLR154W-A		12	Dubious
+YLR154C-G		12	Uncharacterized
+YLR154W-F		12	Dubious
+YLR162W-A	RRT15	12	Uncharacterized
+YLR163C	MAS1	12	Verified
+YLR163W-A		12	Dubious
+YLR164W	SHH4	12	Verified
+YLR165C	PUS5	12	Verified
+YLR166C	SEC10	12	Verified
+YLR167W	RPS31	12	Verified
+YLR168C	UPS2	12	Verified
+YLR169W		12	Dubious
+YLR170C	APS1	12	Verified
+YLR171W		12	Dubious
+YLR172C	DPH5	12	Verified
+YLR173W	TAG1	12	Verified
+YLR174W	IDP2	12	Verified
+YLR175W	CBF5	12	Verified
+YLR177W		12	Uncharacterized
+YLR178C	TFS1	12	Verified
+YLR179C		12	Verified
+YLR180W	SAM1	12	Verified
+YLR181C	VTA1	12	Verified
+YLR182W	SWI6	12	Verified
+YLR183C	TOS4	12	Verified
+YLR184W		12	Dubious
+YLR185W	RPL37A	12	Verified
+YLR186W	EMG1	12	Verified
+YLR187W	SKG3	12	Verified
+YLR188W	MDL1	12	Verified
+YLR189C	ATG26	12	Verified
+YLR190W	MMR1	12	Verified
+YLR191W	PEX13	12	Verified
+YLR192C	HCR1	12	Verified
+YLR193C	UPS1	12	Verified
+YLR194C	NCW2	12	Verified
+YLR195C	NMT1	12	Verified
+YLR196W	PWP1	12	Verified
+YLR197W	NOP56	12	Verified
+YLR198C		12	Dubious
+YLR199C	PBA1	12	Verified
+YLR200W	YKE2	12	Verified
+YLR201C	COQ9	12	Verified
+YLR203C	MSS51	12	Verified
+YLR204W	QRI5	12	Verified
+YLR205C	HMX1	12	Verified
+YLR206W	ENT2	12	Verified
+YLR207W	HRD3	12	Verified
+YLR208W	SEC13	12	Verified
+YLR209C	PNP1	12	Verified
+YLR210W	CLB4	12	Verified
+YLR211C	ATG38	12	Verified
+YLR212C	TUB4	12	Verified
+YLR213C	CRR1	12	Verified
+YLR214W	FRE1	12	Verified
+YLR215C	CDC123	12	Verified
+YLR216C	CPR6	12	Verified
+YLR217W		12	Dubious
+YLR218C	COA4	12	Verified
+YLR219W	MSC3	12	Verified
+YLR220W	CCC1	12	Verified
+YLR221C	RSA3	12	Verified
+YLR222C	UTP13	12	Verified
+YLR222C-A		12	Dubious
+YLR223C	IFH1	12	Verified
+YLR224W	UCC1	12	Verified
+YLR225C		12	Uncharacterized
+YLR226W	BUR2	12	Verified
+YLR227C	ADY4	12	Verified
+YLR228C	ECM22	12	Verified
+YLR229C	CDC42	12	Verified
+YLR230W		12	Dubious
+YLR231C	BNA5	12	Verified
+YLR233C	EST1	12	Verified
+YLR234W	TOP3	12	Verified
+YLR235C		12	Dubious
+YLR236C		12	Uncharacterized
+YLR237W	THI7	12	Verified
+YLR238W	FAR10	12	Verified
+YLR239C	LIP2	12	Verified
+YLR240W	VPS34	12	Verified
+YLR241W	CSC1	12	Verified
+YLR242C	ARV1	12	Verified
+YLR243W	GPN3	12	Verified
+YLR244C	MAP1	12	Verified
+YLR245C	CDD1	12	Verified
+YLR246W	ERF2	12	Verified
+YLR247C	IRC20	12	Verified
+YLR248W	RCK2	12	Verified
+YLR249W	YEF3	12	Verified
+YLR250W	SSP120	12	Verified
+YLR251W	SYM1	12	Verified
+YLR252W		12	Dubious
+YLR253W	MCP2	12	Verified
+YLR254C	NDL1	12	Verified
+YLR256W	HAP1	12	Verified
+YLR257W		12	Verified
+YLR258W	GSY2	12	Verified
+YLR259C	HSP60	12	Verified
+YLR260W	LCB5	12	Verified
+YLR261C	VPS63	12	Uncharacterized
+YLR262C	YPT6	12	Verified
+YLR262C-A	TMA7	12	Verified
+YLR263W	RED1	12	Verified
+YLR264W	RPS28B	12	Verified
+YLR264C-A		12	Uncharacterized
+YLR265C	NEJ1	12	Verified
+YLR266C	PDR8	12	Verified
+YLR267W	BOP2	12	Uncharacterized
+YLR268W	SEC22	12	Verified
+YLR270W	DCS1	12	Verified
+YLR271W	CMG1	12	Uncharacterized
+YLR272C	YCS4	12	Verified
+YLR273C	PIG1	12	Verified
+YLR274W	MCM5	12	Verified
+YLR275W	SMD2	12	Verified
+YLR276C	DBP9	12	Verified
+YLR277C	YSH1	12	Verified
+YLR278C		12	Uncharacterized
+YLR280C		12	Dubious
+YLR281C	RSO55	12	Uncharacterized
+YLR282C		12	Dubious
+YLR283W	PUT7	12	Uncharacterized
+YLR284C	ECI1	12	Verified
+YLR285W	NNT1	12	Verified
+YLR285C-A		12	Uncharacterized
+YLR286C	CTS1	12	Verified
+YLR286W-A		12	Dubious
+YLR287C		12	Uncharacterized
+YLR287C-A	RPS30A	12	Verified
+YLR288C	MEC3	12	Verified
+YLR289W	GUF1	12	Verified
+YLR290C	COQ11	12	Verified
+YLR291C	GCD7	12	Verified
+YLR292C	SEC72	12	Verified
+YLR293C	GSP1	12	Verified
+YLR294C		12	Dubious
+YLR295C	ATP14	12	Verified
+YLR297W		12	Verified
+YLR298C	YHC1	12	Verified
+YLR299W	ECM38	12	Verified
+YLR299C-A		12	Dubious
+YLR300W	EXG1	12	Verified
+YLR301W	HRI1	12	Verified
+YLR303W	MET17	12	Verified
+YLR304C	ACO1	12	Verified
+YLR305C	STT4	12	Verified
+YLR306W	UBC12	12	Verified
+YLR307W	CDA1	12	Verified
+YLR307C-A	DPA10	12	Uncharacterized
+YLR308W	CDA2	12	Verified
+YLR309C	IMH1	12	Verified
+YLR310C	CDC25	12	Verified
+YLR311C		12	Dubious
+YLR312C	ATG39	12	Verified
+YLR312W-A	MRPL15	12	Verified
+YLR314C	CDC3	12	Verified
+YLR315W	NKP2	12	Verified
+YLR316C	TAD3	12	Verified
+YLR317W		12	Dubious
+YLR318W	EST2	12	Verified
+YLR319C	BUD6	12	Verified
+YLR320W	MMS22	12	Verified
+YLR321C	SFH1	12	Verified
+YLR322W	VPS65	12	Dubious
+YLR323C	CWC24	12	Verified
+YLR324W	PEX30	12	Verified
+YLR325C	RPL38	12	Verified
+YLR326W		12	Uncharacterized
+YLR327C	TMA10	12	Verified
+YLR328W	NMA1	12	Verified
+YLR329W	REC102	12	Verified
+YLR330W	CHS5	12	Verified
+YLR331C	JIP3	12	Uncharacterized
+YLR332W	MID2	12	Verified
+YLR333C	RPS25B	12	Verified
+YLR334C		12	Dubious
+YLR335W	NUP2	12	Verified
+YLR336C	SGD1	12	Verified
+YLR337C	VRP1	12	Verified
+YLR338W	OPI9	12	Dubious
+YLR339C		12	Dubious
+YLR340W	RPP0	12	Verified
+YLR341W	SPO77	12	Verified
+YLR342W	FKS1	12	Verified
+YLR343W	GAS2	12	Verified
+YLR344W	RPL26A	12	Verified
+YLR345W		12	Uncharacterized
+YLR346C	CIS1	12	Verified
+YLR347C	KAP95	12	Verified
+YLR347W-A		12	Dubious
+YLR348C	DIC1	12	Verified
+YLR350W	ORM2	12	Verified
+YLR351C	NIT3	12	Verified
+YLR352W	LUG1	12	Verified
+YLR353W	BUD8	12	Verified
+YLR354C	TAL1	12	Verified
+YLR355C	ILV5	12	Verified
+YLR356W	ATG33	12	Verified
+YLR357W	RSC2	12	Verified
+YLR358C		12	Uncharacterized
+YLR359W	ADE13	12	Verified
+YLR360W	VPS38	12	Verified
+YLR361C	DCR2	12	Verified
+YLR361C-A		12	Uncharacterized
+YLR362W	STE11	12	Verified
+YLR363C	NMD4	12	Verified
+YLR363W-A		12	Verified
+YLR364W	GRX8	12	Verified
+YLR364C-A		12	Dubious
+YLR366W		12	Dubious
+YLR367W	RPS22B	12	Verified
+YLR368W	MDM30	12	Verified
+YLR369W	SSQ1	12	Verified
+YLR370C	ARC18	12	Verified
+YLR371W	ROM2	12	Verified
+YLR372W	ELO3	12	Verified
+YLR373C	VID22	12	Verified
+YLR374C		12	Dubious
+YLR375W	STP3	12	Verified
+YLR376C	PSY3	12	Verified
+YLR377C	FBP1	12	Verified
+YLR378C	SEC61	12	Verified
+YLR379W		12	Dubious
+YLR379W-A		12	Uncharacterized
+YLR380W	CSR1	12	Verified
+YLR381W	CTF3	12	Verified
+YLR382C	NAM2	12	Verified
+YLR383W	SMC6	12	Verified
+YLR384C	IKI3	12	Verified
+YLR385C	SWC7	12	Verified
+YLR386W	VAC14	12	Verified
+YLR387C	REH1	12	Verified
+YLR388W	RPS29A	12	Verified
+YLR389C	STE23	12	Verified
+YLR390W	ECM19	12	Verified
+YLR390W-A	CCW14	12	Verified
+YLR392C	ART10	12	Verified
+YLR393W	ATP10	12	Verified
+YLR394W	CST9	12	Verified
+YLR395C	COX8	12	Verified
+YLR396C	VPS33	12	Verified
+YLR397C	AFG2	12	Verified
+YLR398C	SKI2	12	Verified
+YLR399C	BDF1	12	Verified
+YLR399W-A		12	Dubious
+YLR401C	DUS3	12	Verified
+YLR402W		12	Dubious
+YLR403W	SFP1	12	Verified
+YLR404W	SEI1	12	Verified
+YLR405W	DUS4	12	Verified
+YLR406C	RPL31B	12	Verified
+YLR406C-A		12	Uncharacterized
+YLR407W		12	Uncharacterized
+YLR408C	BLS1	12	Verified
+YLR409C	UTP21	12	Verified
+YLR410W	VIP1	12	Verified
+YLR411W	CTR3	12	Verified
+YLR412W	BER1	12	Verified
+YLR412C-A		12	Uncharacterized
+YLR413W	INA1	12	Verified
+YLR414C	PUN1	12	Verified
+YLR415C		12	Uncharacterized
+YLR416C		12	Dubious
+YLR417W	VPS36	12	Verified
+YLR418C	CDC73	12	Verified
+YLR419W		12	Uncharacterized
+YLR420W	URA4	12	Verified
+YLR421C	RPN13	12	Verified
+YLR422W	DCK1	12	Verified
+YLR423C	ATG17	12	Verified
+YLR424W	SPP382	12	Verified
+YLR425W	TUS1	12	Verified
+YLR426W	TDA5	12	Uncharacterized
+YLR427W	MAG2	12	Verified
+YLR428C		12	Dubious
+YLR429W	CRN1	12	Verified
+YLR430W	SEN1	12	Verified
+YLR431C	ATG23	12	Verified
+YLR432W	IMD3	12	Verified
+YLR433C	CNA1	12	Verified
+YLR434C		12	Dubious
+YLR435W	TSR2	12	Verified
+YLR436C	ECM30	12	Verified
+YLR437C	DIF1	12	Verified
+YLR438W	CAR2	12	Verified
+YLR438C-A	LSM3	12	Verified
+YLR439W	MRPL4	12	Verified
+YLR440C	SEC39	12	Verified
+YLR441C	RPS1A	12	Verified
+YLR442C	SIR3	12	Verified
+YLR443W	ECM7	12	Verified
+YLR444C		12	Dubious
+YLR445W	GMC2	12	Verified
+YLR446W		12	Uncharacterized
+YLR447C	VMA6	12	Verified
+YLR448W	RPL6B	12	Verified
+YLR449W	FPR4	12	Verified
+YLR450W	HMG2	12	Verified
+YLR451W	LEU3	12	Verified
+YLR452C	SST2	12	Verified
+YLR453C	RIF2	12	Verified
+YLR454W	FMP27	12	Uncharacterized
+YLR455W	PDP3	12	Verified
+YLR456W		12	Uncharacterized
+YLR457C	NBP1	12	Verified
+YLR458W		12	Dubious
+YLR459W	GAB1	12	Verified
+YLR460C		12	Uncharacterized
+YJL222W-A		12	Dubious
+YLL064C	PAU18	12	Verified
+YNR076W	PAU6	12	Verified
+YBL108C-A	PAU9	12	Verified
+YDR543C		12	Dubious
+YML131W		13	Verified
+YML130C	ERO1	13	Verified
+YML129C	COX14	13	Verified
+YML128C	MSC1	13	Verified
+YML127W	RSC9	13	Verified
+YML126C	ERG13	13	Verified
+YML125C	PGA3	13	Verified
+YML124C	TUB3	13	Verified
+YML123C	PHO84	13	Verified
+YML122C		13	Uncharacterized
+YML121W	GTR1	13	Verified
+YML120C	NDI1	13	Verified
+YML119W		13	Uncharacterized
+YML118W	NGL3	13	Verified
+YML117W	NAB6	13	Verified
+YML116W-A		13	Dubious
+YML116W	ATR1	13	Verified
+YML115C	VAN1	13	Verified
+YML114C	TAF8	13	Verified
+YML113W	DAT1	13	Verified
+YML112W	CTK3	13	Verified
+YML111W	BUL2	13	Verified
+YML110C	COQ5	13	Verified
+YML109W	ZDS2	13	Verified
+YML108W		13	Verified
+YML107C	PML39	13	Verified
+YML106W	URA5	13	Verified
+YML105C	SEC65	13	Verified
+YML104C	MDM1	13	Verified
+YML103C	NUP188	13	Verified
+YML102W	CAC2	13	Verified
+YML101C-A		13	Dubious
+YML101C	CUE4	13	Verified
+YML100W	TSL1	13	Verified
+YML099W-A		13	Dubious
+YML099C	ARG81	13	Verified
+YML098W	TAF13	13	Verified
+YML097C	VPS9	13	Verified
+YML096W		13	Uncharacterized
+YML095C	RAD10	13	Verified
+YML094C-A		13	Dubious
+YML094W	GIM5	13	Verified
+YML093W	UTP14	13	Verified
+YML092C	PRE8	13	Verified
+YML091C	RPM2	13	Verified
+YML090W		13	Dubious
+YML089C		13	Dubious
+YML088W	UFO1	13	Verified
+YML087C	AIM33	13	Verified
+YML086C	ALO1	13	Verified
+YML085C	TUB1	13	Verified
+YML084W		13	Dubious
+YML083C		13	Verified
+YML082W		13	Uncharacterized
+YML081C-A	ATP18	13	Verified
+YML081W	TDA9	13	Verified
+YML080W	DUS1	13	Verified
+YML079W		13	Uncharacterized
+YML078W	CPR3	13	Verified
+YML077W	BET5	13	Verified
+YML076C	WAR1	13	Verified
+YML075C	HMG1	13	Verified
+YML074C	FPR3	13	Verified
+YML073C	RPL6A	13	Verified
+YML072C	TCB3	13	Verified
+YML071C	COG8	13	Verified
+YML070W	DAK1	13	Verified
+YML069W	POB3	13	Verified
+YML068W	ITT1	13	Verified
+YML067C	ERV41	13	Verified
+YML066C	SMA2	13	Verified
+YML065W	ORC1	13	Verified
+YML064C	TEM1	13	Verified
+YML063W	RPS1B	13	Verified
+YML062C	MFT1	13	Verified
+YML061C	PIF1	13	Verified
+YML060W	OGG1	13	Verified
+YML059C	NTE1	13	Verified
+YML058W-A	HUG1	13	Verified
+YML058W	SML1	13	Verified
+YML057C-A		13	Dubious
+YML057W	CMP2	13	Verified
+YML056C	IMD4	13	Verified
+YML055W	SPC2	13	Verified
+YML054C	CYB2	13	Verified
+YML054C-A		13	Uncharacterized
+YML053C		13	Uncharacterized
+YML052W	SUR7	13	Verified
+YML051W	GAL80	13	Verified
+YML050W	AIM32	13	Verified
+YML049C	RSE1	13	Verified
+YML048W	GSF2	13	Verified
+YML047W-A		13	Dubious
+YML047C	PRM6	13	Verified
+YML046W	PRP39	13	Verified
+YML043C	RRN11	13	Verified
+YML042W	CAT2	13	Verified
+YML041C	VPS71	13	Verified
+YML038C	YMD8	13	Verified
+YML037C		13	Uncharacterized
+YML036W	CGI121	13	Verified
+YML035C	AMD1	13	Verified
+YML034C-A		13	Dubious
+YML034W	SRC1	13	Verified
+YML032C	RAD52	13	Verified
+YML031C-A		13	Dubious
+YML031W	NDC1	13	Verified
+YML030W	RCF1	13	Verified
+YML029W	USA1	13	Verified
+YML028W	TSA1	13	Verified
+YML027W	YOX1	13	Verified
+YML026C	RPS18B	13	Verified
+YML025C	YML6	13	Verified
+YML024W	RPS17A	13	Verified
+YML023C	NSE5	13	Verified
+YML022W	APT1	13	Verified
+YML021C	UNG1	13	Verified
+YML020W		13	Uncharacterized
+YML019W	OST6	13	Verified
+YML018C		13	Verified
+YML017W	PSP2	13	Verified
+YML016C	PPZ1	13	Verified
+YML015C	TAF11	13	Verified
+YML014W	TRM9	13	Verified
+YML013W	UBX2	13	Verified
+YML012C-A		13	Dubious
+YML012W	ERV25	13	Verified
+YML011C	RAD33	13	Verified
+YML010W	SPT5	13	Verified
+YML009W-B		13	Dubious
+YML009C-A		13	Dubious
+YML009C	MRPL39	13	Verified
+YML008C	ERG6	13	Verified
+YML007C-A	MIN4	13	Uncharacterized
+YML007W	YAP1	13	Verified
+YML006C	GIS4	13	Verified
+YML005W	TRM12	13	Verified
+YML004C	GLO1	13	Verified
+YML002W		13	Uncharacterized
+YML001W	YPT7	13	Verified
+YMR001C	CDC5	13	Verified
+YMR001C-A		13	Uncharacterized
+YMR002W	MIX17	13	Verified
+YMR003W	AIM34	13	Verified
+YMR004W	MVP1	13	Verified
+YMR005W	TAF4	13	Verified
+YMR006C	PLB2	13	Verified
+YMR007W		13	Uncharacterized
+YMR008C	PLB1	13	Verified
+YMR008C-A		13	Uncharacterized
+YMR009W	ADI1	13	Verified
+YMR010W	ANY1	13	Verified
+YMR011W	HXT2	13	Verified
+YMR012W	CLU1	13	Verified
+YMR013C	SEC59	13	Verified
+YMR013C-A		13	Dubious
+YMR013W-A		13	Dubious
+YMR014W	BUD22	13	Verified
+YMR015C	ERG5	13	Verified
+YMR016C	SOK2	13	Verified
+YMR017W	SPO20	13	Verified
+YMR018W	PEX9	13	Verified
+YMR020W	FMS1	13	Verified
+YMR021C	MAC1	13	Verified
+YMR022W	UBC7	13	Verified
+YMR023C	MSS1	13	Verified
+YMR024W	MRPL3	13	Verified
+YMR025W	CSI1	13	Verified
+YMR026C	PEX12	13	Verified
+YMR027W		13	Verified
+YMR028W	TAP42	13	Verified
+YMR029C	FAR8	13	Verified
+YMR030W	RSF1	13	Verified
+YMR031C	EIS1	13	Verified
+YMR031W-A		13	Dubious
+YMR032W	HOF1	13	Verified
+YMR033W	ARP9	13	Verified
+YMR034C	RCH1	13	Verified
+YMR035W	IMP2	13	Verified
+YMR036C	MIH1	13	Verified
+YMR037C	MSN2	13	Verified
+YMR038C	CCS1	13	Verified
+YMR039C	SUB1	13	Verified
+YMR040W	YET2	13	Verified
+YMR041C	ARA2	13	Verified
+YMR042W	ARG80	13	Verified
+YMR043W	MCM1	13	Verified
+YMR044W	IOC4	13	Verified
+YMR047C	NUP116	13	Verified
+YMR048W	CSM3	13	Verified
+YMR049C	ERB1	13	Verified
+YMR052W	FAR3	13	Verified
+YMR052C-A		13	Dubious
+YMR053C	STB2	13	Verified
+YMR054W	STV1	13	Verified
+YMR055C	BUB2	13	Verified
+YMR056C	AAC1	13	Verified
+YMR058W	FET3	13	Verified
+YMR059W	SEN15	13	Verified
+YMR060C	SAM37	13	Verified
+YMR061W	RNA14	13	Verified
+YMR062C	ARG7	13	Verified
+YMR063W	RIM9	13	Verified
+YMR064W	AEP1	13	Verified
+YMR065W	KAR5	13	Verified
+YMR066W	SOV1	13	Verified
+YMR067C	UBX4	13	Verified
+YMR068W	AVO2	13	Verified
+YMR069W	NAT4	13	Verified
+YMR070W	MOT3	13	Verified
+YMR071C	TVP18	13	Verified
+YMR072W	ABF2	13	Verified
+YMR073C	IRC21	13	Verified
+YMR074C	SDD2	13	Verified
+YMR075W	RCO1	13	Verified
+YMR075C-A		13	Verified
+YMR076C	PDS5	13	Verified
+YMR077C	VPS20	13	Verified
+YMR078C	CTF18	13	Verified
+YMR079W	SEC14	13	Verified
+YMR080C	NAM7	13	Verified
+YMR081C	ISF1	13	Verified
+YMR082C		13	Uncharacterized
+YMR083W	ADH3	13	Verified
+YMR085W		13	Uncharacterized
+YMR086W	SEG1	13	Verified
+YMR086C-A		13	Dubious
+YMR087W	PDL32	13	Verified
+YMR088C	VBA1	13	Verified
+YMR089C	YTA12	13	Verified
+YMR090W		13	Uncharacterized
+YMR091C	NPL6	13	Verified
+YMR092C	AIP1	13	Verified
+YMR093W	UTP15	13	Verified
+YMR094W	CTF13	13	Verified
+YMR095C	SNO1	13	Verified
+YMR096W	SNZ1	13	Verified
+YMR097C	MTG1	13	Verified
+YMR098C	ATP25	13	Verified
+YMR099C		13	Verified
+YMR100W	MUB1	13	Verified
+YMR101C	SRT1	13	Verified
+YMR102C	LAF1	13	Uncharacterized
+YMR103C		13	Uncharacterized
+YMR107W	SPG4	13	Verified
+YMR108W	ILV2	13	Verified
+YMR109W	MYO5	13	Verified
+YMR110C	HFD1	13	Verified
+YMR111C	EUC1	13	Verified
+YMR112C	MED11	13	Verified
+YMR113W	FOL3	13	Verified
+YMR114C		13	Verified
+YMR115W	MGR3	13	Verified
+YMR116C	ASC1	13	Verified
+YMR117C	SPC24	13	Verified
+YMR118C	SHH3	13	Uncharacterized
+YMR119W	ASI1	13	Verified
+YMR120C	ADE17	13	Verified
+YMR121C	RPL15B	13	Verified
+YMR122C		13	Uncharacterized
+YMR122W-A	NCW1	13	Uncharacterized
+YMR123W	PKR1	13	Verified
+YMR124W	EPO1	13	Verified
+YMR125W	STO1	13	Verified
+YMR126C	DLT1	13	Uncharacterized
+YMR127C	SAS2	13	Verified
+YMR128W	ECM16	13	Verified
+YMR129W	POM152	13	Verified
+YMR130W	DPI35	13	Uncharacterized
+YMR131C	RRB1	13	Verified
+YMR132C	JLP2	13	Uncharacterized
+YMR133W	REC114	13	Verified
+YMR134W	ERG29	13	Verified
+YMR135C	GID8	13	Verified
+YMR135W-A		13	Dubious
+YMR136W	GAT2	13	Verified
+YMR137C	PSO2	13	Verified
+YMR138W	CIN4	13	Verified
+YMR139W	RIM11	13	Verified
+YMR140W	SIP5	13	Verified
+YMR141C		13	Uncharacterized
+YMR142C	RPL13B	13	Verified
+YMR141W-A		13	Dubious
+YMR143W	RPS16A	13	Verified
+YMR144W	FDO1	13	Uncharacterized
+YMR145C	NDE1	13	Verified
+YMR146C	TIF34	13	Verified
+YMR147W	LDO45	13	Uncharacterized
+YMR148W	LDO16	13	Verified
+YMR149W	SWP1	13	Verified
+YMR150C	IMP1	13	Verified
+YMR152W	YIM1	13	Verified
+YMR153W	NUP53	13	Verified
+YMR153C-A		13	Dubious
+YMR154C	RIM13	13	Verified
+YMR155W		13	Uncharacterized
+YMR156C	TPP1	13	Verified
+YMR157C	AIM36	13	Verified
+YMR158W	MRPS8	13	Verified
+YMR158W-B		13	Dubious
+YMR159C	ATG16	13	Verified
+YMR160W		13	Verified
+YMR161W	HLJ1	13	Verified
+YMR162C	DNF3	13	Verified
+YMR163C	INP2	13	Verified
+YMR164C	MSS11	13	Verified
+YMR165C	PAH1	13	Verified
+YMR166C	MME1	13	Verified
+YMR167W	MLH1	13	Verified
+YMR168C	CEP3	13	Verified
+YMR169C	ALD3	13	Verified
+YMR170C	ALD2	13	Verified
+YMR171C	EAR1	13	Verified
+YMR172W	HOT1	13	Verified
+YMR172C-A		13	Dubious
+YMR173W	DDR48	13	Verified
+YMR173W-A		13	Dubious
+YMR174C	PAI3	13	Verified
+YMR175W	SIP18	13	Verified
+YMR176W	ECM5	13	Verified
+YMR177W	MMT1	13	Verified
+YMR178W	FPY1	13	Verified
+YMR179W	SPT21	13	Verified
+YMR180C	CTL1	13	Verified
+YMR181C		13	Uncharacterized
+YMR182C	RGM1	13	Verified
+YMR182W-A	MIN3	13	Uncharacterized
+YMR183C	SSO2	13	Verified
+YMR184W	ADD37	13	Verified
+YMR185W	RTP1	13	Verified
+YMR186W	HSC82	13	Verified
+YMR187C		13	Uncharacterized
+YMR188C	MRPS17	13	Verified
+YMR189W	GCV2	13	Verified
+YMR190C	SGS1	13	Verified
+YMR191W	SPG5	13	Verified
+YMR192W	GYL1	13	Verified
+YMR193W	MRPL24	13	Verified
+YMR193C-A		13	Dubious
+YMR194W	RPL36A	13	Verified
+YMR194C-B	CMC4	13	Verified
+YMR195W	ICY1	13	Verified
+YMR196W		13	Uncharacterized
+YMR197C	VTI1	13	Verified
+YMR198W	CIK1	13	Verified
+YMR199W	CLN1	13	Verified
+YMR200W	ROT1	13	Verified
+YMR201C	RAD14	13	Verified
+YMR202W	ERG2	13	Verified
+YMR203W	TOM40	13	Verified
+YMR204C	INP1	13	Verified
+YMR205C	PFK2	13	Verified
+YMR206W		13	Uncharacterized
+YMR207C	HFA1	13	Verified
+YMR208W	ERG12	13	Verified
+YMR209C		13	Uncharacterized
+YMR210W	MGL2	13	Verified
+YMR211W	DML1	13	Verified
+YMR212C	EFR3	13	Verified
+YMR213W	CEF1	13	Verified
+YMR214W	SCJ1	13	Verified
+YMR215W	GAS3	13	Verified
+YMR216C	SKY1	13	Verified
+YMR217W	GUA1	13	Verified
+YMR218C	TRS130	13	Verified
+YMR219W	ESC1	13	Verified
+YMR220W	ERG8	13	Verified
+YMR221C	FMP42	13	Uncharacterized
+YMR222C	FSH2	13	Verified
+YMR223W	UBP8	13	Verified
+YMR224C	MRE11	13	Verified
+YMR225C	MRPL44	13	Verified
+YMR226C		13	Verified
+YMR227C	TAF7	13	Verified
+YMR228W	MTF1	13	Verified
+YMR229C	RRP5	13	Verified
+YMR230W	RPS10B	13	Verified
+YMR230W-A		13	Uncharacterized
+YMR231W	PEP5	13	Verified
+YMR232W	FUS2	13	Verified
+YMR234W	RNH1	13	Verified
+YMR235C	RNA1	13	Verified
+YMR236W	TAF9	13	Verified
+YMR237W	BCH1	13	Verified
+YMR238W	DFG5	13	Verified
+YMR239C	RNT1	13	Verified
+YMR240C	CUS1	13	Verified
+YMR241W	YHM2	13	Verified
+YMR242C	RPL20A	13	Verified
+YMR242W-A		13	Uncharacterized
+YMR243C	ZRC1	13	Verified
+YMR244W		13	Uncharacterized
+YMR244C-A	COA6	13	Verified
+YMR246W	FAA4	13	Verified
+YMR247C	RKR1	13	Verified
+YMR247W-A		13	Uncharacterized
+YMR250W	GAD1	13	Verified
+YMR251W	GTO3	13	Verified
+YMR251W-A	HOR7	13	Verified
+YMR252C	MLO1	13	Uncharacterized
+YMR253C		13	Uncharacterized
+YMR255W	GFD1	13	Verified
+YMR256C	COX7	13	Verified
+YMR257C	PET111	13	Verified
+YMR258C	ROY1	13	Verified
+YMR259C	TRM732	13	Verified
+YMR260C	TIF11	13	Verified
+YMR261C	TPS3	13	Verified
+YMR262W		13	Uncharacterized
+YMR263W	SAP30	13	Verified
+YMR264W	CUE1	13	Verified
+YMR265C		13	Uncharacterized
+YMR266W	RSN1	13	Verified
+YMR267W	PPA2	13	Verified
+YMR268C	PRP24	13	Verified
+YMR269W	TMA23	13	Verified
+YMR270C	RRN9	13	Verified
+YMR271C	URA10	13	Verified
+YMR272C	SCS7	13	Verified
+YMR272W-A		13	Dubious
+YMR272W-B		13	Uncharacterized
+YMR273C	ZDS1	13	Verified
+YMR274C	RCE1	13	Verified
+YMR275C	BUL1	13	Verified
+YMR276W	DSK2	13	Verified
+YMR277W	FCP1	13	Verified
+YMR278W	PRM15	13	Verified
+YMR279C	ATR2	13	Verified
+YMR280C	CAT8	13	Verified
+YMR281W	GPI12	13	Verified
+YMR282C	AEP2	13	Verified
+YMR283C	RIT1	13	Verified
+YMR284W	YKU70	13	Verified
+YMR285C	NGL2	13	Verified
+YMR286W	MRPL33	13	Verified
+YMR287C	DSS1	13	Verified
+YMR288W	HSH155	13	Verified
+YMR289W	ABZ2	13	Verified
+YMR290C	HAS1	13	Verified
+YMR291W	TDA1	13	Verified
+YMR292W	GOT1	13	Verified
+YMR293C	HER2	13	Verified
+YMR294W	JNM1	13	Verified
+YMR294W-A		13	Dubious
+YMR295C		13	Verified
+YMR296C	LCB1	13	Verified
+YMR297W	PRC1	13	Verified
+YMR298W	LIP1	13	Verified
+YMR299C	DYN3	13	Verified
+YMR300C	ADE4	13	Verified
+YMR301C	ATM1	13	Verified
+YMR302C	YME2	13	Verified
+YMR303C	ADH2	13	Verified
+YMR304W	UBP15	13	Verified
+YMR305C	SCW10	13	Verified
+YMR306W	FKS3	13	Verified
+YMR306C-A		13	Dubious
+YMR307W	GAS1	13	Verified
+YMR307C-A		13	Dubious
+YMR308C	PSE1	13	Verified
+YMR309C	NIP1	13	Verified
+YMR310C		13	Uncharacterized
+YMR311C	GLC8	13	Verified
+YMR312W	ELP6	13	Verified
+YMR313C	TGL3	13	Verified
+YMR314W	PRE5	13	Verified
+YMR315W		13	Verified
+YMR315W-A		13	Uncharacterized
+YMR316W	DIA1	13	Verified
+YMR316C-A		13	Uncharacterized
+YMR316C-B		13	Dubious
+YMR317W		13	Uncharacterized
+YMR318C	ADH6	13	Verified
+YMR319C	FET4	13	Verified
+YMR320W		13	Uncharacterized
+YEL070W	DSF1	13	Verified
+YAL068W-A		13	Dubious
+YNL321W	VNX1	14	Verified
+YNL320W		14	Uncharacterized
+YNL319W		14	Dubious
+YNL318C	HXT14	14	Verified
+YNL317W	PFS2	14	Verified
+YNL315C	ATP11	14	Verified
+YNL313C	EMW1	14	Verified
+YNL312W	RFA2	14	Verified
+YNL311C	SKP2	14	Verified
+YNL310C	ZIM17	14	Verified
+YNL309W	STB1	14	Verified
+YNL308C	KRI1	14	Verified
+YNL307C	MCK1	14	Verified
+YNL306W	MRPS18	14	Verified
+YNL305C	BXI1	14	Verified
+YNL304W	YPT11	14	Verified
+YNL303W		14	Dubious
+YNL302C	RPS19B	14	Verified
+YNL301C	RPL18B	14	Verified
+YNL300W	TOS6	14	Uncharacterized
+YNL299W	TRF5	14	Verified
+YNL298W	CLA4	14	Verified
+YNL297C	MON2	14	Verified
+YNL296W		14	Dubious
+YNL295W	MRX6	14	Uncharacterized
+YNL294C	RIM21	14	Verified
+YNL293W	MSB3	14	Verified
+YNL292W	PUS4	14	Verified
+YNL291C	MID1	14	Verified
+YNL290W	RFC3	14	Verified
+YNL289W	PCL1	14	Verified
+YNL288W	CAF40	14	Verified
+YNL287W	SEC21	14	Verified
+YNL286W	CUS2	14	Verified
+YNL284C	MRPL10	14	Verified
+YNL283C	WSC2	14	Verified
+YNL282W	POP3	14	Verified
+YNL281W	HCH1	14	Verified
+YNL280C	ERG24	14	Verified
+YNL279W	PRM1	14	Verified
+YNL278W	CAF120	14	Verified
+YNL277W	MET2	14	Verified
+YNL276C		14	Dubious
+YNL275W	BOR1	14	Verified
+YNL274C	GOR1	14	Verified
+YNL273W	TOF1	14	Verified
+YNL272C	SEC2	14	Verified
+YNL271C	BNI1	14	Verified
+YNL270C	ALP1	14	Verified
+YNL269W	BSC4	14	Verified
+YNL268W	LYP1	14	Verified
+YNL267W	PIK1	14	Verified
+YNL266W		14	Dubious
+YNL265C	IST1	14	Verified
+YNL264C	PDR17	14	Verified
+YNL263C	YIF1	14	Verified
+YNL262W	POL2	14	Verified
+YNL261W	ORC5	14	Verified
+YNL260C	LTO1	14	Verified
+YNL259C	ATX1	14	Verified
+YNL258C	DSL1	14	Verified
+YNL257C	SIP3	14	Verified
+YNL256W	FOL1	14	Verified
+YNL255C	GIS2	14	Verified
+YNL254C	RTC4	14	Verified
+YNL253W	TEX1	14	Verified
+YNL252C	MRPL17	14	Verified
+YNL251C	NRD1	14	Verified
+YNL250W	RAD50	14	Verified
+YNL248C	RPA49	14	Verified
+YNL247W	CRS1	14	Verified
+YNL246W	VPS75	14	Verified
+YNL245C	CWC25	14	Verified
+YNL244C	SUI1	14	Verified
+YNL243W	SLA2	14	Verified
+YNL242W	ATG2	14	Verified
+YNL241C	ZWF1	14	Verified
+YNL240C	NAR1	14	Verified
+YNL239W	LAP3	14	Verified
+YNL238W	KEX2	14	Verified
+YNL237W	YTP1	14	Verified
+YNL236W	SIN4	14	Verified
+YNL235C		14	Dubious
+YNL234W		14	Verified
+YNL233W	BNI4	14	Verified
+YNL232W	CSL4	14	Verified
+YNL231C	PDR16	14	Verified
+YNL230C	ELA1	14	Verified
+YNL229C	URE2	14	Verified
+YNL228W		14	Dubious
+YNL227C	JJJ1	14	Verified
+YNL226W		14	Dubious
+YNL225C	CNM67	14	Verified
+YNL224C	SQS1	14	Verified
+YNL223W	ATG4	14	Verified
+YNL222W	SSU72	14	Verified
+YNL221C	POP1	14	Verified
+YNL220W	ADE12	14	Verified
+YNL219C	ALG9	14	Verified
+YNL218W	MGS1	14	Verified
+YNL217W	PPN2	14	Verified
+YNL216W	RAP1	14	Verified
+YNL215W	IES2	14	Verified
+YNL214W	PEX17	14	Verified
+YNL213C	RRG9	14	Verified
+YNL212W	VID27	14	Verified
+YNL211C	MRX7	14	Uncharacterized
+YNL210W	MER1	14	Verified
+YNL209W	SSB2	14	Verified
+YNL208W		14	Verified
+YNL207W	RIO2	14	Verified
+YNL206C	RTT106	14	Verified
+YNL205C		14	Dubious
+YNL204C	SPS18	14	Verified
+YNL203C		14	Dubious
+YNL202W	SPS19	14	Verified
+YNL201C	PSY2	14	Verified
+YNL200C	NNR1	14	Verified
+YNL199C	GCR2	14	Verified
+YNL198C		14	Dubious
+YNL197C	WHI3	14	Verified
+YNL196C	SLZ1	14	Verified
+YNL195C		14	Uncharacterized
+YNL194C		14	Verified
+YNL193W		14	Uncharacterized
+YNL192W	CHS1	14	Verified
+YNL191W	DUG3	14	Verified
+YNL190W		14	Verified
+YNL189W	SRP1	14	Verified
+YNL188W	KAR1	14	Verified
+YNL187W	SWT21	14	Verified
+YNL186W	UBP10	14	Verified
+YNL185C	MRPL19	14	Verified
+YNL183C	NPR1	14	Verified
+YNL182C	IPI3	14	Verified
+YNL181W	PBR1	14	Uncharacterized
+YNL180C	RHO5	14	Verified
+YNL178W	RPS3	14	Verified
+YNL177C	MRPL22	14	Verified
+YNL176C	TDA7	14	Verified
+YNL175C	NOP13	14	Verified
+YNL174W		14	Dubious
+YNL173C	MDG1	14	Verified
+YNL172W	APC1	14	Verified
+YNL171C		14	Dubious
+YNL170W		14	Dubious
+YNL169C	PSD1	14	Verified
+YNL168C	FMP41	14	Uncharacterized
+YNL167C	SKO1	14	Verified
+YNL166C	BNI5	14	Verified
+YNL165W		14	Uncharacterized
+YNL164C	IBD2	14	Verified
+YNL163C	RIA1	14	Verified
+YNL162W-A		14	Uncharacterized
+YNL162W	RPL42A	14	Verified
+YNL161W	CBK1	14	Verified
+YNL160W	YGP1	14	Verified
+YNL159C	ASI2	14	Verified
+YNL158W	PGA1	14	Verified
+YNL157W	IGO1	14	Verified
+YNL156C	NSG2	14	Verified
+YNL155W	CUZ1	14	Verified
+YNL154C	YCK2	14	Verified
+YNL153C	GIM3	14	Verified
+YNL152W	INN1	14	Verified
+YNL151C	RPC31	14	Verified
+YNL150W		14	Dubious
+YNL149C	PGA2	14	Verified
+YNL148C	ALF1	14	Verified
+YNL147W	LSM7	14	Verified
+YNL146C-A		14	Uncharacterized
+YNL146W		14	Uncharacterized
+YNL145W	MFA2	14	Verified
+YNL144C		14	Uncharacterized
+YNL144W-A		14	Dubious
+YNL142W	MEP2	14	Verified
+YNL141W	AAH1	14	Verified
+YNL140C		14	Uncharacterized
+YNL139C	THO2	14	Verified
+YNL138W-A	YSF3	14	Verified
+YNL138W	SRV2	14	Verified
+YNL137C	NAM9	14	Verified
+YNL136W	EAF7	14	Verified
+YNL135C	FPR1	14	Verified
+YNL134C		14	Verified
+YNL133C	FYV6	14	Verified
+YNL132W	KRE33	14	Verified
+YNL131W	TOM22	14	Verified
+YNL130C	CPT1	14	Verified
+YNL130C-A	DGR1	14	Uncharacterized
+YNL129W	NRK1	14	Verified
+YNL128W	TEP1	14	Verified
+YNL127W	FAR11	14	Verified
+YNL126W	SPC98	14	Verified
+YNL125C	ESBP6	14	Verified
+YNL124W	NAF1	14	Verified
+YNL123W	NMA111	14	Verified
+YNL122C	MRP35	14	Verified
+YNL121C	TOM70	14	Verified
+YNL120C		14	Dubious
+YNL119W	NCS2	14	Verified
+YNL118C	DCP2	14	Verified
+YNL117W	MLS1	14	Verified
+YNL116W	DMA2	14	Verified
+YNL115C		14	Uncharacterized
+YNL114C		14	Dubious
+YNL113W	RPC19	14	Verified
+YNL112W	DBP2	14	Verified
+YNL111C	CYB5	14	Verified
+YNL110C	NOP15	14	Verified
+YNL109W		14	Dubious
+YNL108C		14	Verified
+YNL107W	YAF9	14	Verified
+YNL106C	INP52	14	Verified
+YNL105W	RRT16	14	Dubious
+YNL104C	LEU4	14	Verified
+YNL103W-A		14	Dubious
+YNL103W	MET4	14	Verified
+YNL102W	POL1	14	Verified
+YNL101W	AVT4	14	Verified
+YNL100W	MIC27	14	Verified
+YNL099C	OCA1	14	Verified
+YNL098C	RAS2	14	Verified
+YNL097C-B		14	Uncharacterized
+YNL097C	PHO23	14	Verified
+YNL097W-A		14	Dubious
+YNL096C	RPS7B	14	Verified
+YNL095C		14	Uncharacterized
+YNL094W	APP1	14	Verified
+YNL093W	YPT53	14	Verified
+YNL092W		14	Verified
+YNL091W	NST1	14	Verified
+YNL090W	RHO2	14	Verified
+YNL088W	TOP2	14	Verified
+YNL087W	TCB2	14	Verified
+YNL086W	SNN1	14	Verified
+YNL085W	MKT1	14	Verified
+YNL084C	END3	14	Verified
+YNL083W	SAL1	14	Verified
+YNL082W	PMS1	14	Verified
+YNL081C	SWS2	14	Verified
+YNL080C	EOS1	14	Verified
+YNL079C	TPM1	14	Verified
+YNL078W	NIS1	14	Verified
+YNL077W	APJ1	14	Verified
+YNL076W	MKS1	14	Verified
+YNL075W	IMP4	14	Verified
+YNL074C	MLF3	14	Verified
+YNL073W	MSK1	14	Verified
+YNL072W	RNH201	14	Verified
+YNL071W	LAT1	14	Verified
+YNL070W	TOM7	14	Verified
+YNL069C	RPL16B	14	Verified
+YNL068C	FKH2	14	Verified
+YNL067W	RPL9B	14	Verified
+YNL066W	SUN4	14	Verified
+YNL065W	AQR1	14	Verified
+YNL064C	YDJ1	14	Verified
+YNL063W	MTQ1	14	Verified
+YNL062C	GCD10	14	Verified
+YNL061W	NOP2	14	Verified
+YNL059C	ARP5	14	Verified
+YNL058C		14	Uncharacterized
+YNL057W		14	Dubious
+YNL056W	OCA2	14	Verified
+YNL055C	POR1	14	Verified
+YNL054W	VAC7	14	Verified
+YNL053W	MSG5	14	Verified
+YNL052W	COX5A	14	Verified
+YNL051W	COG5	14	Verified
+YNL050C		14	Uncharacterized
+YNL049C	SFB2	14	Verified
+YNL048W	ALG11	14	Verified
+YNL047C	SLM2	14	Verified
+YNL046W		14	Uncharacterized
+YNL045W	LAP2	14	Verified
+YNL044W	YIP3	14	Verified
+YNL043C		14	Dubious
+YNL042W-B		14	Uncharacterized
+YNL042W	BOP3	14	Verified
+YNL041C	COG6	14	Verified
+YNL040W		14	Verified
+YNL039W	BDP1	14	Verified
+YNL038W	GPI15	14	Verified
+YNL037C	IDH1	14	Verified
+YNL036W	NCE103	14	Verified
+YNL035C		14	Verified
+YNL018C		14	Uncharacterized
+YNL034W		14	Uncharacterized
+YNL019C		14	Uncharacterized
+YNL020C	ARK1	14	Verified
+YNL021W	HDA1	14	Verified
+YNL022C	RCM1	14	Verified
+YNL023C	FAP1	14	Verified
+YNL024C	EFM6	14	Uncharacterized
+YNL024C-A	KSH1	14	Verified
+YNL025C	SSN8	14	Verified
+YNL026W	SAM50	14	Verified
+YNL027W	CRZ1	14	Verified
+YNL028W		14	Dubious
+YNL029C	KTR5	14	Verified
+YNL030W	HHF2	14	Verified
+YNL031C	HHT2	14	Verified
+YNL032W	SIW14	14	Verified
+YNL019C		14	Uncharacterized
+YNL033W		14	Uncharacterized
+YNL034W		14	Uncharacterized
+YNL017C		14	Dubious
+YNL016W	PUB1	14	Verified
+YNL015W	PBI2	14	Verified
+YNL014W	HEF3	14	Verified
+YNL013C		14	Dubious
+YNL012W	SPO1	14	Verified
+YNL011C		14	Uncharacterized
+YNL010W	PYP1	14	Verified
+YNL009W	IDP3	14	Verified
+YNL008C	ASI3	14	Verified
+YNL007C	SIS1	14	Verified
+YNL006W	LST8	14	Verified
+YNL005C	MRP7	14	Verified
+YNL004W	HRB1	14	Verified
+YNL003C	PET8	14	Verified
+YNL002C	RLP7	14	Verified
+YNL001W	DOM34	14	Verified
+YNR001C	CIT1	14	Verified
+YNR001W-A		14	Dubious
+YNR002C	ATO2	14	Verified
+YNR003C	RPC34	14	Verified
+YNR003W-A		14	Dubious
+YNR004W	SWM2	14	Verified
+YNR005C		14	Dubious
+YNR006W	VPS27	14	Verified
+YNR007C	ATG3	14	Verified
+YNR008W	LRO1	14	Verified
+YNR009W	NRM1	14	Verified
+YNR010W	CSE2	14	Verified
+YNR011C	PRP2	14	Verified
+YNR012W	URK1	14	Verified
+YNR013C	PHO91	14	Verified
+YNR014W		14	Uncharacterized
+YNR015W	SMM1	14	Verified
+YNR016C	ACC1	14	Verified
+YNR017W	TIM23	14	Verified
+YNR018W	RCF2	14	Verified
+YNR019W	ARE2	14	Verified
+YNR020C	ATP23	14	Verified
+YNR021W		14	Uncharacterized
+YNR022C	MRPL50	14	Verified
+YNR023W	SNF12	14	Verified
+YNR024W	MPP6	14	Verified
+YNR025C		14	Dubious
+YNR026C	SEC12	14	Verified
+YNR027W	BUD17	14	Verified
+YNR028W	CPR8	14	Verified
+YNR029C		14	Uncharacterized
+YNR030W	ALG12	14	Verified
+YNR031C	SSK2	14	Verified
+YNR032W	PPG1	14	Verified
+YNR032C-A	HUB1	14	Verified
+YNR033W	ABZ1	14	Verified
+YNR034W	SOL1	14	Verified
+YNR034W-A	EGO4	14	Verified
+YNR035C	ARC35	14	Verified
+YNR036C	MRPS12	14	Verified
+YNR037C	RSM19	14	Verified
+YNR038W	DBP6	14	Verified
+YNR039C	ZRG17	14	Verified
+YNR040W	MRX15	14	Verified
+YNR041C	COQ2	14	Verified
+YNR042W		14	Dubious
+YNR043W	MVD1	14	Verified
+YNR044W	AGA1	14	Verified
+YNR045W	PET494	14	Verified
+YNR046W	TRM112	14	Verified
+YNR047W	FPK1	14	Verified
+YNR048W		14	Verified
+YNR049C	MSO1	14	Verified
+YNR050C	LYS9	14	Verified
+YNR051C	BRE5	14	Verified
+YNR052C	POP2	14	Verified
+YNR053C	NOG2	14	Verified
+YNR054C	ESF2	14	Verified
+YNR055C	HOL1	14	Verified
+YNR057C	BIO4	14	Verified
+YNR058W	BIO3	14	Verified
+YNR059W	MNT4	14	Verified
+YNR060W	FRE4	14	Verified
+YNR061C		14	Verified
+YNR062C	PUL3	14	Verified
+YNR063W	PUL4	14	Verified
+YNR064C		14	Verified
+YNR065C		14	Uncharacterized
+YNR067C	DSE4	14	Verified
+YNR068C		14	Uncharacterized
+YNR069C	BSC5	14	Verified
+YNR070W	PDR18	14	Verified
+YNR071C		14	Uncharacterized
+YNR072W	HXT17	14	Verified
+YNR073C	MAN2	14	Verified
+YNR074C	AIF1	14	Verified
+YNR075W	COS10	14	Verified
+YOL161C	PAU20	14	Verified
+YDR543C		14	Dubious
+YKL225W		15	Dubious
+YOL166W-A		15	Uncharacterized
+YOL164W-A		15	Uncharacterized
+YOL164W	BDS1	15	Verified
+YOL163W		15	Uncharacterized
+YOL162W		15	Uncharacterized
+YOL161C	PAU20	15	Verified
+YOL159C-A		15	Verified
+YOL159C	CSS3	15	Verified
+YOL158C	ENB1	15	Verified
+YOL157C	IMA2	15	Verified
+YOL156W	HXT11	15	Verified
+YOL155W-A		15	Uncharacterized
+YOL154W	ZPS1	15	Verified
+YOL152W	FRE7	15	Verified
+YOL151W	GRE2	15	Verified
+YOL150C		15	Dubious
+YOL149W	DCP1	15	Verified
+YOL148C	SPT20	15	Verified
+YOL147C	PEX11	15	Verified
+YOL146W	PSF3	15	Verified
+YOL145C	CTR9	15	Verified
+YOL144W	NOP8	15	Verified
+YOL143C	RIB4	15	Verified
+YOL142W	RRP40	15	Verified
+YOL141W	PPM2	15	Verified
+YOL140W	ARG8	15	Verified
+YOL139C	CDC33	15	Verified
+YOL138C	RTC1	15	Verified
+YOL137W	BSC6	15	Verified
+YOL136C	PFK27	15	Verified
+YOL135C	MED7	15	Verified
+YOL134C		15	Dubious
+YOL133W	HRT1	15	Verified
+YOL132W	GAS4	15	Verified
+YOL131W		15	Uncharacterized
+YOL130W	ALR1	15	Verified
+YOL129W	VPS68	15	Verified
+YOL128C	YGK3	15	Verified
+YOL127W	RPL25	15	Verified
+YOL126C	MDH2	15	Verified
+YOL125W	TRM13	15	Verified
+YOL124C	TRM11	15	Verified
+YOL123W	HRP1	15	Verified
+YOL122C	SMF1	15	Verified
+YOL121C	RPS19A	15	Verified
+YOL120C	RPL18A	15	Verified
+YOL119C	MCH4	15	Verified
+YOL118C		15	Uncharacterized
+YOL117W	RRI2	15	Verified
+YOL116W	MSN1	15	Verified
+YOL115W	PAP2	15	Verified
+YOL114C	PTH4	15	Verified
+YOL113W	SKM1	15	Verified
+YOL112W	MSB4	15	Verified
+YOL111C	MDY2	15	Verified
+YOL110W	SHR5	15	Verified
+YOL109W	ZEO1	15	Verified
+YOL108C	INO4	15	Verified
+YOL107W		15	Uncharacterized
+YOL106W		15	Dubious
+YOL105C	WSC3	15	Verified
+YOL104C	NDJ1	15	Verified
+YOL103W	ITR2	15	Verified
+YOL102C	TPT1	15	Verified
+YOL101C	IZH4	15	Verified
+YOL100W	PKH2	15	Verified
+YOL099C		15	Dubious
+YOL098C	SDD3	15	Verified
+YOL097W-A		15	Uncharacterized
+YOL097C	WRS1	15	Verified
+YOL096C	COQ3	15	Verified
+YOL095C	HMI1	15	Verified
+YOL094C	RFC4	15	Verified
+YOL093W	TRM10	15	Verified
+YOL092W	YPQ1	15	Verified
+YOL091W	SPO21	15	Verified
+YOL090W	MSH2	15	Verified
+YOL089C	HAL9	15	Verified
+YOL088C	MPD2	15	Verified
+YOL087C	DUF1	15	Verified
+YOL086W-A	MHF1	15	Verified
+YOL086C	ADH1	15	Verified
+YOL085W-A		15	Dubious
+YOL085C		15	Uncharacterized
+YOL084W	PHM7	15	Verified
+YOL083W	ATG34	15	Verified
+YOL083C-A		15	Dubious
+YOL082W	ATG19	15	Verified
+YOL081W	IRA2	15	Verified
+YOL080C	REX4	15	Verified
+YOL079W		15	Dubious
+YOL078W	AVO1	15	Verified
+YOL077W-A	ATP19	15	Verified
+YOL077C	BRX1	15	Verified
+YOL076W	MDM20	15	Verified
+YOL075C		15	Verified
+YOL073C	DSC2	15	Verified
+YOL072W	THP1	15	Verified
+YOL071W	SDH5	15	Verified
+YOL070C	NBA1	15	Verified
+YOL069W	NUF2	15	Verified
+YOL068C	HST1	15	Verified
+YOL067C	RTG1	15	Verified
+YOL066C	RIB2	15	Verified
+YOL065C	INP54	15	Verified
+YOL064C	MET22	15	Verified
+YOL063C	CRT10	15	Verified
+YOL062C	APM4	15	Verified
+YOL061W	PRS5	15	Verified
+YOL060C	MAM3	15	Verified
+YOL059W	GPD2	15	Verified
+YOL058W	ARG1	15	Verified
+YOL057W		15	Verified
+YOL056W	GPM3	15	Verified
+YOL055C	THI20	15	Verified
+YOL054W	PSH1	15	Verified
+YOL053W	AIM39	15	Verified
+YOL052C-A	DDR2	15	Verified
+YOL052C	SPE2	15	Verified
+YOL051W	GAL11	15	Verified
+YOL050C		15	Dubious
+YOL049W	GSH2	15	Verified
+YOL048C	RRT8	15	Verified
+YOL047C	LDS2	15	Verified
+YOL046C		15	Dubious
+YOL045W	PSK2	15	Verified
+YOL044W	PEX15	15	Verified
+YOL043C	NTG2	15	Verified
+YOL042W	NGL1	15	Verified
+YOL041C	NOP12	15	Verified
+YOL040C	RPS15	15	Verified
+YOL039W	RPP2A	15	Verified
+YOL038W	PRE6	15	Verified
+YOL037C		15	Dubious
+YOL036W		15	Uncharacterized
+YOL035C		15	Dubious
+YOL034W	SMC5	15	Verified
+YOL033W	MSE1	15	Verified
+YOL032W	OPI10	15	Verified
+YOL031C	SIL1	15	Verified
+YOL030W	GAS5	15	Verified
+YOL029C		15	Uncharacterized
+YOL027C	MDM38	15	Verified
+YOL026C	MIM1	15	Verified
+YOL025W	LAG2	15	Verified
+YOL024W		15	Uncharacterized
+YOL023W	IFM1	15	Verified
+YOL022C	TSR4	15	Verified
+YOL021C	DIS3	15	Verified
+YOL020W	TAT2	15	Verified
+YOL019W-A		15	Uncharacterized
+YOL019W	TOS7	15	Verified
+YOL018C	TLG2	15	Verified
+YOL017W	ESC8	15	Verified
+YOL016C	CMK2	15	Verified
+YOL015W	IRC10	15	Verified
+YOL013W-A		15	Uncharacterized
+YOL013C	HRD1	15	Verified
+YOL012C	HTZ1	15	Verified
+YOL011W	PLB3	15	Verified
+YOL010W	RCL1	15	Verified
+YOL009C	MDM12	15	Verified
+YOL008W	COQ10	15	Verified
+YOL007C	CSI2	15	Verified
+YOL006C	TOP1	15	Verified
+YOL005C	RPB11	15	Verified
+YOL004W	SIN3	15	Verified
+YOL003C	PFA4	15	Verified
+YOL002C	IZH2	15	Verified
+YOL001W	PHO80	15	Verified
+YOR001W	RRP6	15	Verified
+YOR002W	ALG6	15	Verified
+YOR003W	YSP3	15	Verified
+YOR004W	UTP23	15	Verified
+YOR005C	DNL4	15	Verified
+YOR006C	TSR3	15	Verified
+YOR007C	SGT2	15	Verified
+YOR008C	SLG1	15	Verified
+YOR008C-A		15	Uncharacterized
+YOR008W-B		15	Dubious
+YOR009W	TIR4	15	Verified
+YOR010C	TIR2	15	Verified
+YOR011W	AUS1	15	Verified
+YOR011W-A		15	Uncharacterized
+YOR014W	RTS1	15	Verified
+YOR015W		15	Uncharacterized
+YOR016C	ERP4	15	Verified
+YOR017W	PET127	15	Verified
+YOR018W	ROD1	15	Verified
+YOR019W		15	Verified
+YOR020C	HSP10	15	Verified
+YOR020W-A	MCO10	15	Verified
+YOR021C	SFM1	15	Verified
+YOR022C	DDL1	15	Verified
+YOR023C	AHC1	15	Verified
+YOR024W		15	Dubious
+YOR025W	HST3	15	Verified
+YOR026W	BUB3	15	Verified
+YOR027W	STI1	15	Verified
+YOR028C	CIN5	15	Verified
+YOR029W		15	Uncharacterized
+YOR030W	DFG16	15	Verified
+YOR032C	HMS1	15	Verified
+YOR032W-A		15	Uncharacterized
+YOR033C	EXO1	15	Verified
+YOR034C	AKR2	15	Verified
+YOR035C	SHE4	15	Verified
+YOR036W	PEP12	15	Verified
+YOR037W	CYC2	15	Verified
+YOR038C	HIR2	15	Verified
+YOR039W	CKB2	15	Verified
+YOR040W	GLO4	15	Verified
+YOR041C		15	Dubious
+YOR042W	CUE5	15	Verified
+YOR043W	WHI2	15	Verified
+YOR044W	IRC23	15	Verified
+YOR045W	TOM6	15	Verified
+YOR046C	DBP5	15	Verified
+YOR047C	STD1	15	Verified
+YOR048C	RAT1	15	Verified
+YOR049C	RSB1	15	Verified
+YOR050C		15	Dubious
+YOR051C	ETT1	15	Verified
+YOR052C	TMC1	15	Verified
+YOR053W		15	Dubious
+YOR054C	VHS3	15	Verified
+YOR055W		15	Dubious
+YOR056C	NOB1	15	Verified
+YOR057W	SGT1	15	Verified
+YOR058C	ASE1	15	Verified
+YOR059C	LPL1	15	Verified
+YOR060C	SLD7	15	Verified
+YOR061W	CKA2	15	Verified
+YOR062C		15	Uncharacterized
+YOR063W	RPL3	15	Verified
+YOR064C	YNG1	15	Verified
+YOR065W	CYT1	15	Verified
+YOR066W	MSA1	15	Verified
+YOR067C	ALG8	15	Verified
+YOR069W	VPS5	15	Verified
+YOR068C	VAM10	15	Verified
+YOR070C	GYP1	15	Verified
+YOR071C	NRT1	15	Verified
+YOR072W		15	Uncharacterized
+YOR072W-A		15	Dubious
+YOR072W-B		15	Uncharacterized
+YOR073W	SGO1	15	Verified
+YOR074C	CDC21	15	Verified
+YOR073W-A		15	Dubious
+YOR075W	UFE1	15	Verified
+YOR076C	SKI7	15	Verified
+YOR077W	RTS2	15	Verified
+YOR078W	BUD21	15	Verified
+YOR079C	ATX2	15	Verified
+YOR080W	DIA2	15	Verified
+YOR081C	TGL5	15	Verified
+YOR082C		15	Dubious
+YOR083W	WHI5	15	Verified
+YOR084W	LPX1	15	Verified
+YOR085W	OST3	15	Verified
+YOR086C	TCB1	15	Verified
+YOR087W	YVC1	15	Verified
+YOR089C	VPS21	15	Verified
+YOR090C	PTC5	15	Verified
+YOR091W	TMA46	15	Verified
+YOR092W	ECM3	15	Verified
+YOR093C	CMR2	15	Uncharacterized
+YOR094W	ARF3	15	Verified
+YOR095C	RKI1	15	Verified
+YOR096W	RPS7A	15	Verified
+YOR097C		15	Uncharacterized
+YOR098C	NUP1	15	Verified
+YOR099W	KTR1	15	Verified
+YOR100C	CRC1	15	Verified
+YOR101W	RAS1	15	Verified
+YOR102W		15	Dubious
+YOR103C	OST2	15	Verified
+YOR104W	PIN2	15	Verified
+YOR105W		15	Uncharacterized
+YOR106W	VAM3	15	Verified
+YOR108W	LEU9	15	Verified
+YOR108C-A		15	Dubious
+YOR109W	INP53	15	Verified
+YOR110W	TFC7	15	Verified
+YOR111W		15	Uncharacterized
+YOR112W	CEX1	15	Verified
+YOR113W	AZF1	15	Verified
+YOR114W	DPI34	15	Uncharacterized
+YOR115C	TRS33	15	Verified
+YOR116C	RPO31	15	Verified
+YOR117W	RPT5	15	Verified
+YOR118W	RTC5	15	Verified
+YOR119C	RIO1	15	Verified
+YOR120W	GCY1	15	Verified
+YOR121C		15	Dubious
+YOR122C	PFY1	15	Verified
+YOR123C	LEO1	15	Verified
+YOR124C	UBP2	15	Verified
+YOR125C	CAT5	15	Verified
+YOR126C	IAH1	15	Verified
+YOR127W	RGA1	15	Verified
+YOR128C	ADE2	15	Verified
+YOR129C	AFI1	15	Verified
+YOR130C	ORT1	15	Verified
+YOR131C		15	Verified
+YOR132W	VPS17	15	Verified
+YDR385W	EFT2	15	Verified
+YOR134W	BAG7	15	Verified
+YOR135C	IRC14	15	Dubious
+YOR136W	IDH2	15	Verified
+YOR137C	SIA1	15	Verified
+YOR138C	RUP1	15	Verified
+YOR139C		15	Dubious
+YOR140W	SFL1	15	Verified
+YOR141C	ARP8	15	Verified
+YOR142W	LSC1	15	Verified
+YOR143C	THI80	15	Verified
+YOR144C	ELG1	15	Verified
+YOR145C	PNO1	15	Verified
+YOR146W		15	Dubious
+YOR147W	MDM32	15	Verified
+YOR148C	SPP2	15	Verified
+YOR149C	SMP3	15	Verified
+YOR150W	MRPL23	15	Verified
+YOR151C	RPB2	15	Verified
+YOR152C	ATG40	15	Verified
+YOR153W	PDR5	15	Verified
+YOR154W	SLP1	15	Verified
+YOR155C	ISN1	15	Verified
+YOR156C	NFI1	15	Verified
+YOR157C	PUP1	15	Verified
+YOR158W	PET123	15	Verified
+YOR159C	SME1	15	Verified
+YOR160W	MTR10	15	Verified
+YOR161C	PNS1	15	Verified
+YOR161W-A		15	Dubious
+YOR161W-B		15	Dubious
+YOR161C-C		15	Uncharacterized
+YOR162C	YRR1	15	Verified
+YOR163W	DDP1	15	Verified
+YOR164C	GET4	15	Verified
+YOR165W	SEY1	15	Verified
+YOR166C	SWT1	15	Verified
+YOR167C	RPS28A	15	Verified
+YOR168W	GLN4	15	Verified
+YOR169C		15	Dubious
+YOR170W		15	Dubious
+YOR171C	LCB4	15	Verified
+YOR172W	YRM1	15	Verified
+YOR173W	DCS2	15	Verified
+YOR174W	MED4	15	Verified
+YOR175C	ALE1	15	Verified
+YOR176W	HEM15	15	Verified
+YOR177C	MPC54	15	Verified
+YOR178C	GAC1	15	Verified
+YOR179C	SYC1	15	Verified
+YOR180C	DCI1	15	Verified
+YOR181W	LAS17	15	Verified
+YOR182C	RPS30B	15	Verified
+YOR183W	FYV12	15	Uncharacterized
+YOR184W	SER1	15	Verified
+YOR185C	GSP2	15	Verified
+YOR186W		15	Uncharacterized
+YOR186C-A		15	Dubious
+YOR187W	TUF1	15	Verified
+YOR188W	MSB1	15	Verified
+YOR189W	IES4	15	Verified
+YOR190W	SPR1	15	Verified
+YOR191W	ULS1	15	Verified
+YOR192C	THI72	15	Verified
+YOR193W	PEX27	15	Verified
+YOR194C	TOA1	15	Verified
+YOR195W	SLK19	15	Verified
+YOR196C	LIP5	15	Verified
+YOR197W	MCA1	15	Verified
+YOR198C	BFR1	15	Verified
+YOR200W		15	Dubious
+YOR201C	MRM1	15	Verified
+YOR202W	HIS3	15	Verified
+YOR203W		15	Dubious
+YOR204W	DED1	15	Verified
+YOR205C	GEP3	15	Verified
+YOR206W	NOC2	15	Verified
+YOR207C	RET1	15	Verified
+YOR208W	PTP2	15	Verified
+YOR209C	NPT1	15	Verified
+YOR210W	RPB10	15	Verified
+YOR211C	MGM1	15	Verified
+YOR212W	STE4	15	Verified
+YOR213C	SAS5	15	Verified
+YOR214C	SPR2	15	Verified
+YOR215C	AIM41	15	Verified
+YOR216C	RUD3	15	Verified
+YOR217W	RFC1	15	Verified
+YOR219C	STE13	15	Verified
+YOR220W	RCN2	15	Verified
+YOR221C	MCT1	15	Verified
+YOR222W	ODC2	15	Verified
+YOR223W	DSC3	15	Verified
+YOR224C	RPB8	15	Verified
+YOR226C	ISU2	15	Verified
+YOR227W	HER1	15	Verified
+YOR228C	MCP1	15	Verified
+YOR229W	WTM2	15	Verified
+YOR230W	WTM1	15	Verified
+YOR231W	MKK1	15	Verified
+YOR231C-A		15	Dubious
+YOR232W	MGE1	15	Verified
+YOR233W	KIN4	15	Verified
+YOR234C	RPL33B	15	Verified
+YOR235W	IRC13	15	Uncharacterized
+YOR236W	DFR1	15	Verified
+YOR237W	HES1	15	Verified
+YOR238W		15	Uncharacterized
+YOR239W	ABP140	15	Verified
+YOR241W	MET7	15	Verified
+YOR242C	SSP2	15	Verified
+YOR243C	PUS7	15	Verified
+YOR244W	ESA1	15	Verified
+YOR249C	APC5	15	Verified
+YOR250C	CLP1	15	Verified
+YOR251C	TUM1	15	Verified
+YOR252W	TMA16	15	Verified
+YOR253W	NAT5	15	Verified
+YOR254C	SEC63	15	Verified
+YOR256C	TRE2	15	Verified
+YOR257W	CDC31	15	Verified
+YOR258W	HNT3	15	Verified
+YOR259C	RPT4	15	Verified
+YOR260W	GCD1	15	Verified
+YOR261C	RPN8	15	Verified
+YOR262W	GPN2	15	Verified
+YOR263C		15	Dubious
+YOR264W	DSE3	15	Verified
+YOR265W	RBL2	15	Verified
+YOR266W	PNT1	15	Verified
+YOR267C	HRK1	15	Verified
+YOR268C		15	Uncharacterized
+YOR269W	PAC1	15	Verified
+YOR270C	VPH1	15	Verified
+YOR271C	FSF1	15	Uncharacterized
+YOR272W	YTM1	15	Verified
+YOR273C	TPO4	15	Verified
+YOR274W	MOD5	15	Verified
+YOR275C	RIM20	15	Verified
+YOR276W	CAF20	15	Verified
+YOR277C		15	Dubious
+YOR278W	HEM4	15	Verified
+YOR279C	RFM1	15	Verified
+YOR280C	FSH3	15	Verified
+YOR281C	PLP2	15	Verified
+YOR282W		15	Dubious
+YOR283W		15	Verified
+YOR284W	HUA2	15	Verified
+YOR285W	RDL1	15	Verified
+YOR286W	RDL2	15	Verified
+YOR287C	RRP36	15	Verified
+YOR288C	MPD1	15	Verified
+YOR289W		15	Uncharacterized
+YOR290C	SNF2	15	Verified
+YOR291W	YPK9	15	Verified
+YOR292C		15	Uncharacterized
+YOR293W	RPS10A	15	Verified
+YOR294W	RRS1	15	Verified
+YOR295W	UAF30	15	Verified
+YOR296W		15	Uncharacterized
+YOR297C	TIM18	15	Verified
+YOR298W	MUM3	15	Verified
+YOR298C-A	MBF1	15	Verified
+YOR299W	BUD7	15	Verified
+YOR300W		15	Dubious
+YOR301W	RAX1	15	Verified
+YOR302W		15	Verified
+YOR303W	CPA1	15	Verified
+YOR304W	ISW2	15	Verified
+YOR304C-A	BIL1	15	Verified
+YOR305W	RRG7	15	Verified
+YOR306C	MCH5	15	Verified
+YOR307C	SLY41	15	Verified
+YOR308C	SNU66	15	Verified
+YOR309C		15	Dubious
+YOR310C	NOP58	15	Verified
+YOR311C	DGK1	15	Verified
+YOR312C	RPL20B	15	Verified
+YOR313C	SPS4	15	Verified
+YOR314W-A		15	Dubious
+YOR315W	SFG1	15	Verified
+YOR316C	COT1	15	Verified
+YOR316C-A		15	Uncharacterized
+YOR317W	FAA1	15	Verified
+YOR318C		15	Dubious
+YOR319W	HSH49	15	Verified
+YOR320C	GNT1	15	Verified
+YOR321W	PMT3	15	Verified
+YOR322C	LDB19	15	Verified
+YOR323C	PRO2	15	Verified
+YOR324C	FRT1	15	Verified
+YOR325W		15	Dubious
+YOR326W	MYO2	15	Verified
+YOR327C	SNC2	15	Verified
+YOR328W	PDR10	15	Verified
+YOR329C	SCD5	15	Verified
+YOR329W-A		15	Dubious
+YOR330C	MIP1	15	Verified
+YOR331C		15	Dubious
+YOR332W	VMA4	15	Verified
+YOR333C		15	Dubious
+YOR334W	MRS2	15	Verified
+YOR335C	ALA1	15	Verified
+YOR335W-A		15	Dubious
+YOR336W	KRE5	15	Verified
+YOR337W	TEA1	15	Verified
+YOR338W		15	Uncharacterized
+YOR339C	UBC11	15	Verified
+YOR340C	RPA43	15	Verified
+YOR341W	RPA190	15	Verified
+YOR342C		15	Verified
+YOR344C	TYE7	15	Verified
+YOR346W	REV1	15	Verified
+YOR347C	PYK2	15	Verified
+YOR348C	PUT4	15	Verified
+YOR349W	CIN1	15	Verified
+YOR350C	MNE1	15	Verified
+YOR351C	MEK1	15	Verified
+YOR352W	TFB6	15	Verified
+YOR353C	SOG2	15	Verified
+YOR354C	MSC6	15	Verified
+YOR355W	GDS1	15	Verified
+YOR356W	CIR2	15	Verified
+YOR357C	SNX3	15	Verified
+YOR358W	HAP5	15	Verified
+YOR359W	VTS1	15	Verified
+YOR360C	PDE2	15	Verified
+YOR361C	PRT1	15	Verified
+YOR362C	PRE10	15	Verified
+YOR363C	PIP2	15	Verified
+YOR364W		15	Dubious
+YOR365C		15	Uncharacterized
+YOR366W		15	Dubious
+YOR367W	SCP1	15	Verified
+YOR368W	RAD17	15	Verified
+YOR369C	RPS12	15	Verified
+YOR370C	MRS6	15	Verified
+YOR371C	GPB1	15	Verified
+YOR372C	NDD1	15	Verified
+YOR373W	NUD1	15	Verified
+YOR374W	ALD4	15	Verified
+YOR375C	GDH1	15	Verified
+YOR376W		15	Uncharacterized
+YOR377W	ATF1	15	Verified
+YOR378W	AMF1	15	Verified
+YOR379C		15	Dubious
+YOR380W	RDR1	15	Verified
+YOR381W	FRE3	15	Verified
+YOR381W-A		15	Uncharacterized
+YOR382W	FIT2	15	Verified
+YOR383C	FIT3	15	Verified
+YOR384W	FRE5	15	Verified
+YOR385W		15	Uncharacterized
+YOR386W	PHR1	15	Verified
+YOR387C		15	Uncharacterized
+YPL278C		15	Uncharacterized
+YPL279C	FEX2	15	Verified
+YMR322C	SNO4	15	Verified
+YOR391C	HSP33	15	Verified
+YPL280W	HSP32	15	Verified
+YOR392W		15	Dubious
+YMR323W	ERR3	15	Verified
+YOR393W	ERR1	15	Verified
+YPL281C	ERR2	15	Verified
+YMR324C		15	Dubious
+YMR325W	PAU19	15	Verified
+YDR543C		16	Dubious
+YCR104W	PAU3	16	Verified
+YMR325W	PAU19	16	Verified
+YOR394W	PAU21	16	Verified
+YPL282C	PAU22	16	Verified
+YMR324C		16	Dubious
+YMR322C	SNO4	16	Verified
+YOR390W	FEX1	16	Verified
+YOR389W		16	Uncharacterized
+YOR388C	FDH1	16	Verified
+YPL273W	SAM4	16	Verified
+YPL272C	PBI1	16	Uncharacterized
+YPL271W	ATP15	16	Verified
+YPL270W	MDL2	16	Verified
+YPL269W	KAR9	16	Verified
+YPL268W	PLC1	16	Verified
+YPL267W	ACM1	16	Verified
+YPL266W	DIM1	16	Verified
+YPL265W	DIP5	16	Verified
+YPL264C		16	Uncharacterized
+YPL263C	KEL3	16	Verified
+YPL262W	FUM1	16	Verified
+YPL261C		16	Uncharacterized
+YPL260W	CUB1	16	Verified
+YPL259C	APM1	16	Verified
+YPL258C	THI21	16	Verified
+YPL256C	CLN2	16	Verified
+YPL255W	BBP1	16	Verified
+YPL254W	HFI1	16	Verified
+YPL253C	VIK1	16	Verified
+YPL252C	YAH1	16	Verified
+YPL251W		16	Dubious
+YPL250C	ATG41	16	Verified
+YPL249C-A	RPL36B	16	Verified
+YPL250W-A		16	Dubious
+YPL249C	GYP5	16	Verified
+YPL248C	GAL4	16	Verified
+YPL247C		16	Uncharacterized
+YPL246C	RBD2	16	Verified
+YPL245W		16	Uncharacterized
+YPL244C	HUT1	16	Verified
+YPL243W	SRP68	16	Verified
+YPL242C	IQG1	16	Verified
+YPL241C	CIN2	16	Verified
+YPL240C	HSP82	16	Verified
+YPL239W	YAR1	16	Verified
+YPL238C		16	Dubious
+YPL237W	SUI3	16	Verified
+YPL236C	ENV7	16	Verified
+YPL235W	RVB2	16	Verified
+YPL234C	VMA11	16	Verified
+YPL233W	NSL1	16	Verified
+YPL232W	SSO1	16	Verified
+YPL231W	FAS2	16	Verified
+YPL230W	USV1	16	Verified
+YPL229W		16	Uncharacterized
+YPL228W	CET1	16	Verified
+YPL227C	ALG5	16	Verified
+YPL226W	NEW1	16	Verified
+YPL225W		16	Verified
+YPL224C	MMT2	16	Verified
+YPL223C	GRE1	16	Verified
+YPL222W	FMP40	16	Uncharacterized
+YPL222C-A		16	Dubious
+YPL221W	FLC1	16	Verified
+YGL135W	RPL1B	16	Verified
+YPL220W	RPL1A	16	Verified
+YPL219W	PCL8	16	Verified
+YPL218W	SAR1	16	Verified
+YPL217C	BMS1	16	Verified
+YPL216W		16	Uncharacterized
+YPL215W	CBP3	16	Verified
+YPL214C	THI6	16	Verified
+YPL213W	LEA1	16	Verified
+YPL212C	PUS1	16	Verified
+YPL211W	NIP7	16	Verified
+YPL210C	SRP72	16	Verified
+YPL209C	IPL1	16	Verified
+YPL208W	RKM1	16	Verified
+YPL207W	TYW1	16	Verified
+YPL206C	PGC1	16	Verified
+YPL205C		16	Dubious
+YPL204W	HRR25	16	Verified
+YPL203W	TPK2	16	Verified
+YPL202C	AFT2	16	Verified
+YPL201C	YIG1	16	Verified
+YPL200W	CSM4	16	Verified
+YPL199C		16	Verified
+YPL198W	RPL7B	16	Verified
+YPL197C		16	Dubious
+YPL196W	OXR1	16	Verified
+YPL195W	APL5	16	Verified
+YPL194W	DDC1	16	Verified
+YPL193W	RSA1	16	Verified
+YPL192C	PRM3	16	Verified
+YPL191C		16	Verified
+YPL190C	NAB3	16	Verified
+YPL189C-A	COA2	16	Verified
+YPL189W	GUP2	16	Verified
+YPL188W	POS5	16	Verified
+YPL187W	MF%28ALPHA%291	16	Verified
+YPL186C	UIP4	16	Verified
+YPL184C	MRN1	16	Verified
+YPL183W-A	RTC6	16	Verified
+YPL183C	RTT10	16	Verified
+YPL182C		16	Dubious
+YPL181W	CTI6	16	Verified
+YPL180W	TCO89	16	Verified
+YPL179W	PPQ1	16	Verified
+YPL178W	CBC2	16	Verified
+YPL177C	CUP9	16	Verified
+YPL176C	TRE1	16	Verified
+YPL175W	SPT14	16	Verified
+YPL174C	NIP100	16	Verified
+YPL173W	MRPL40	16	Verified
+YPL172C	COX10	16	Verified
+YPL171C	OYE3	16	Verified
+YPL170W	DAP1	16	Verified
+YPL169C	MEX67	16	Verified
+YPL168W	MRX4	16	Uncharacterized
+YPL167C	REV3	16	Verified
+YPL166W	ATG29	16	Verified
+YPL165C	SET6	16	Verified
+YPL164C	MLH3	16	Verified
+YPL163C	SVS1	16	Verified
+YPL162C		16	Uncharacterized
+YPL161C	BEM4	16	Verified
+YPL160W	CDC60	16	Verified
+YPL159C	PET20	16	Verified
+YPL158C	AIM44	16	Verified
+YPL157W	TGS1	16	Verified
+YPL156C	PRM4	16	Verified
+YPL155C	KIP2	16	Verified
+YPL154C	PEP4	16	Verified
+YPL153C	RAD53	16	Verified
+YPL152W-A		16	Uncharacterized
+YPL152W	RRD2	16	Verified
+YPL151C	PRP46	16	Verified
+YPL150W		16	Uncharacterized
+YPL149W	ATG5	16	Verified
+YPL148C	PPT2	16	Verified
+YPL147W	PXA1	16	Verified
+YPL146C	NOP53	16	Verified
+YPL145C	KES1	16	Verified
+YPL144W	POC4	16	Verified
+YPL143W	RPL33A	16	Verified
+YPL142C		16	Dubious
+YPL141C	FRK1	16	Verified
+YPL140C	MKK2	16	Verified
+YPL139C	UME1	16	Verified
+YPL138C	SPP1	16	Verified
+YPL137C	GIP3	16	Verified
+YPL136W		16	Dubious
+YPL135W	ISU1	16	Verified
+YPL135C-A		16	Dubious
+YPL134C	ODC1	16	Verified
+YPL133C	RDS2	16	Verified
+YPL132W	COX11	16	Verified
+YPL131W	RPL5	16	Verified
+YPL130W	SPO19	16	Verified
+YPL129W	TAF14	16	Verified
+YPL128C	TBF1	16	Verified
+YPL127C	HHO1	16	Verified
+YPL126W	NAN1	16	Verified
+YPL125W	KAP120	16	Verified
+YPL124W	SPC29	16	Verified
+YPL123C	RNY1	16	Verified
+YPL122C	TFB2	16	Verified
+YPL121C	MEI5	16	Verified
+YPL120W	VPS30	16	Verified
+YPL119C	DBP1	16	Verified
+YPL118W	MRP51	16	Verified
+YPL117C	IDI1	16	Verified
+YPL116W	HOS3	16	Verified
+YPL115C	BEM3	16	Verified
+YPL114W		16	Dubious
+YPL113C		16	Verified
+YPL112C	PEX25	16	Verified
+YPL111W	CAR1	16	Verified
+YPL110C	GDE1	16	Verified
+YPL109C	MCO76	16	Uncharacterized
+YPL108W		16	Uncharacterized
+YPL107W	DPC25	16	Uncharacterized
+YPL106C	SSE1	16	Verified
+YPL105C	SYH1	16	Verified
+YPL104W	MSD1	16	Verified
+YPL103C	FMP30	16	Verified
+YPL102C		16	Dubious
+YPL101W	ELP4	16	Verified
+YPL100W	ATG21	16	Verified
+YPL099C	INA17	16	Verified
+YPL098C	MGR2	16	Verified
+YPL097W	MSY1	16	Verified
+YPL096C-A	ERI1	16	Verified
+YPL096W	PNG1	16	Verified
+YPL095C	EEB1	16	Verified
+YPL094C	SEC62	16	Verified
+YPL093W	NOG1	16	Verified
+YPL092W	SSU1	16	Verified
+YPL091W	GLR1	16	Verified
+YPL090C	RPS6A	16	Verified
+YPL089C	RLM1	16	Verified
+YPL088W		16	Uncharacterized
+YPL087W	YDC1	16	Verified
+YPL086C	ELP3	16	Verified
+YPL085W	SEC16	16	Verified
+YPL084W	BRO1	16	Verified
+YPL083C	SEN54	16	Verified
+YPL082C	MOT1	16	Verified
+YPL081W	RPS9A	16	Verified
+YPL080C		16	Uncharacterized
+YPL079W	RPL21B	16	Verified
+YPL078C	ATP4	16	Verified
+YPL077C		16	Uncharacterized
+YPL076W	GPI2	16	Verified
+YPL075W	GCR1	16	Verified
+YPL074W	YTA6	16	Verified
+YPL073C		16	Dubious
+YPL072W	UBP16	16	Verified
+YPL071C		16	Uncharacterized
+YPL070W	MUK1	16	Verified
+YPL069C	BTS1	16	Verified
+YPL068C		16	Uncharacterized
+YPL067C	HTC1	16	Uncharacterized
+YPL066W	RGL1	16	Verified
+YPL065W	VPS28	16	Verified
+YPL064C	CWC27	16	Verified
+YPL063W	TIM50	16	Verified
+YPL062W		16	Uncharacterized
+YPL061W	ALD6	16	Verified
+YPL060W	MFM1	16	Verified
+YPL059W	GRX5	16	Verified
+YPL058C	PDR12	16	Verified
+YPL057C	SUR1	16	Verified
+YPL055C	LGE1	16	Verified
+YPL054W	LEE1	16	Verified
+YPL053C	KTR6	16	Verified
+YPL052W	OAZ1	16	Verified
+YPL051W	ARL3	16	Verified
+YPL050C	MNN9	16	Verified
+YPL049C	DIG1	16	Verified
+YPL048W	CAM1	16	Verified
+YPL047W	SGF11	16	Verified
+YPL046C	ELC1	16	Verified
+YPL045W	VPS16	16	Verified
+YPL044C		16	Dubious
+YPL043W	NOP4	16	Verified
+YPL042C	SSN3	16	Verified
+YPL041C	MRX11	16	Uncharacterized
+YPL040C	ISM1	16	Verified
+YPL039W		16	Uncharacterized
+YPL038W-A		16	Uncharacterized
+YPL038W	MET31	16	Verified
+YPL037C	EGD1	16	Verified
+YPL036W	PMA2	16	Verified
+YPL035C		16	Dubious
+YPL034W		16	Uncharacterized
+YPL033C	SRL4	16	Verified
+YPL032C	SVL3	16	Verified
+YPL031C	PHO85	16	Verified
+YPL030W	TRM44	16	Verified
+YPL029W	SUV3	16	Verified
+YPL028W	ERG10	16	Verified
+YPL027W	SMA1	16	Verified
+YPL026C	SKS1	16	Verified
+YPL024W	RMI1	16	Verified
+YPL023C	MET12	16	Verified
+YPL022W	RAD1	16	Verified
+YPL021W	ECM23	16	Verified
+YPL020C	ULP1	16	Verified
+YPL019C	VTC3	16	Verified
+YPL018W	CTF19	16	Verified
+YPL017C	IRC15	16	Verified
+YPL016W	SWI1	16	Verified
+YPL015C	HST2	16	Verified
+YPL014W	CIP1	16	Verified
+YPL013C	MRPS16	16	Verified
+YPL012W	RRP12	16	Verified
+YPL011C	TAF3	16	Verified
+YPL010W	RET3	16	Verified
+YPL009C	RQC2	16	Verified
+YPL008W	CHL1	16	Verified
+YPL007C	TFC8	16	Verified
+YPL006W	NCR1	16	Verified
+YPL005W	AEP3	16	Verified
+YPL004C	LSP1	16	Verified
+YPL003W	ULA1	16	Verified
+YPL002C	SNF8	16	Verified
+YPL001W	HAT1	16	Verified
+YPR001W	CIT3	16	Verified
+YPR002W	PDH1	16	Verified
+YPR003C		16	Uncharacterized
+YPR004C	AIM45	16	Verified
+YPR005C	HAL1	16	Verified
+YPR006C	ICL2	16	Verified
+YPR007C	REC8	16	Verified
+YPR008W	HAA1	16	Verified
+YPR009W	SUT2	16	Verified
+YPR010C	RPA135	16	Verified
+YPR010C-A	MIN8	16	Verified
+YPR011C	MRX21	16	Verified
+YPR012W		16	Dubious
+YPR013C	CMR3	16	Uncharacterized
+YPR015C		16	Uncharacterized
+YPR016C	TIF6	16	Verified
+YPR016W-A		16	Dubious
+YPR017C	DSS4	16	Verified
+YPR018W	RLF2	16	Verified
+YPR019W	MCM4	16	Verified
+YPR020W	ATP20	16	Verified
+YPR021C	AGC1	16	Verified
+YPR022C	SDD4	16	Verified
+YPR023C	EAF3	16	Verified
+YPR024W	YME1	16	Verified
+YPR025C	CCL1	16	Verified
+YPR026W	ATH1	16	Verified
+YPR027C		16	Uncharacterized
+YPR028W	YOP1	16	Verified
+YPR029C	APL4	16	Verified
+YPR030W	CSR2	16	Verified
+YPR031W	NTO1	16	Verified
+YPR032W	SRO7	16	Verified
+YPR033C	HTS1	16	Verified
+YPR034W	ARP7	16	Verified
+YPR035W	GLN1	16	Verified
+YPR036W	VMA13	16	Verified
+YPR036W-A	SPO24	16	Verified
+YPR037C	ERV2	16	Verified
+YPR038W	IRC16	16	Uncharacterized
+YPR039W		16	Dubious
+YPR040W	TIP41	16	Verified
+YPR041W	TIF5	16	Verified
+YPR042C	PUF2	16	Verified
+YPR043W	RPL43A	16	Verified
+YPR044C	OPI11	16	Dubious
+YPR045C	THP3	16	Verified
+YPR046W	MCM16	16	Verified
+YPR047W	MSF1	16	Verified
+YPR048W	TAH18	16	Verified
+YPR049C	ATG11	16	Verified
+YPR050C		16	Dubious
+YPR051W	MAK3	16	Verified
+YPR052C	NHP6A	16	Verified
+YPR053C		16	Uncharacterized
+YPR054W	SMK1	16	Verified
+YPR055W	SEC8	16	Verified
+YPR056W	TFB4	16	Verified
+YPR057W	BRR1	16	Verified
+YPR058W	YMC1	16	Verified
+YPR059C		16	Dubious
+YPR060C	ARO7	16	Verified
+YPR061C	JID1	16	Verified
+YPR062W	FCY1	16	Verified
+YPR063C		16	Uncharacterized
+YPR064W		16	Uncharacterized
+YPR065W	ROX1	16	Verified
+YPR066W	UBA3	16	Verified
+YPR067W	ISA2	16	Verified
+YPR068C	HOS1	16	Verified
+YPR069C	SPE3	16	Verified
+YPR070W	MED1	16	Verified
+YPR071W		16	Uncharacterized
+YPR072W	NOT5	16	Verified
+YPR073C	LTP1	16	Verified
+YPR074C	TKL1	16	Verified
+YPR074W-A		16	Dubious
+YPR075C	OPY2	16	Verified
+YPR076W		16	Dubious
+YPR077C		16	Dubious
+YPR078C		16	Uncharacterized
+YPR079W	MRL1	16	Verified
+YPR080W	TEF1	16	Verified
+YPR081C	GRS2	16	Verified
+YPR082C	DIB1	16	Verified
+YPR083W	MDM36	16	Verified
+YPR084W		16	Uncharacterized
+YPR085C	ASA1	16	Verified
+YPR086W	SUA7	16	Verified
+YPR088C	SRP54	16	Verified
+YPR089W		16	Uncharacterized
+YPR091C	NVJ2	16	Verified
+YPR092W		16	Dubious
+YPR093C	ASR1	16	Verified
+YPR094W	RDS3	16	Verified
+YPR095C	SYT1	16	Verified
+YPR096C		16	Verified
+YPR097W		16	Verified
+YPR098C	TMH18	16	Verified
+YPR099C		16	Verified
+YPR100W	MRPL51	16	Verified
+YPR101W	SNT309	16	Verified
+YPR102C	RPL11A	16	Verified
+YPR103W	PRE2	16	Verified
+YPR104C	FHL1	16	Verified
+YPR105C	COG4	16	Verified
+YPR106W	ISR1	16	Verified
+YPR107C	YTH1	16	Verified
+YPR108W	RPN7	16	Verified
+YPR108W-A		16	Uncharacterized
+YPR109W	GLD1	16	Verified
+YPR110C	RPC40	16	Verified
+YPR111W	DBF20	16	Verified
+YPR112C	MRD1	16	Verified
+YPR113W	PIS1	16	Verified
+YPR114W		16	Uncharacterized
+YPR115W	RGC1	16	Verified
+YPR116W	RRG8	16	Verified
+YPR117W		16	Uncharacterized
+YPR118W	MRI1	16	Verified
+YPR119W	CLB2	16	Verified
+YPR120C	CLB5	16	Verified
+YPR121W	THI22	16	Verified
+YPR122W	AXL1	16	Verified
+YPR123C		16	Dubious
+YPR124W	CTR1	16	Verified
+YPR125W	YLH47	16	Verified
+YPR126C		16	Dubious
+YPR127W		16	Verified
+YPR128C	ANT1	16	Verified
+YPR129W	SCD6	16	Verified
+YPR130C		16	Dubious
+YPR131C	NAT3	16	Verified
+YPR132W	RPS23B	16	Verified
+YPR133C	SPN1	16	Verified
+YPR133W-A	TOM5	16	Verified
+YPR134W	MSS18	16	Verified
+YPR135W	CTF4	16	Verified
+YPR136C		16	Dubious
+YPR137W	RRP9	16	Verified
+YPR138C	MEP3	16	Verified
+YPR139C	LOA1	16	Verified
+YPR140W	TAZ1	16	Verified
+YPR141C	KAR3	16	Verified
+YPR142C		16	Dubious
+YPR143W	RRP15	16	Verified
+YPR144C	NOC4	16	Verified
+YPR145W	ASN1	16	Verified
+YPR145C-A		16	Uncharacterized
+YPR146C		16	Dubious
+YPR147C		16	Verified
+YPR148C		16	Verified
+YPR149W	NCE102	16	Verified
+YPR150W		16	Dubious
+YPR151C	SUE1	16	Verified
+YPR152C	URN1	16	Verified
+YPR153W	MAY24	16	Verified
+YPR154W	PIN3	16	Verified
+YPR155C	NCA2	16	Verified
+YPR156C	TPO3	16	Verified
+YPR157W	TDA6	16	Uncharacterized
+YPR158W	CUR1	16	Verified
+YPR159W	KRE6	16	Verified
+YPR159C-A		16	Uncharacterized
+YPR160W	GPH1	16	Verified
+YPR160W-A		16	Dubious
+YPR160C-A		16	Dubious
+YPR161C	SGV1	16	Verified
+YPR162C	ORC4	16	Verified
+YPR163C	TIF3	16	Verified
+YPR164W	MMS1	16	Verified
+YPR165W	RHO1	16	Verified
+YPR166C	MRP2	16	Verified
+YPR167C	MET16	16	Verified
+YPR168W	NUT2	16	Verified
+YPR169W	JIP5	16	Verified
+YPR170C		16	Dubious
+YPR169W-A		16	Dubious
+YPR170W-B		16	Verified
+YPR170W-A		16	Dubious
+YPR171W	BSP1	16	Verified
+YPR172W		16	Uncharacterized
+YPR173C	VPS4	16	Verified
+YPR174C	CSA1	16	Verified
+YPR175W	DPB2	16	Verified
+YPR176C	BET2	16	Verified
+YPR177C		16	Dubious
+YPR178W	PRP4	16	Verified
+YPR179C	HDA3	16	Verified
+YPR180W	AOS1	16	Verified
+YPR181C	SEC23	16	Verified
+YPR182W	SMX3	16	Verified
+YPR183W	DPM1	16	Verified
+YPR184W	GDB1	16	Verified
+YPR185W	ATG13	16	Verified
+YPR186C	PZF1	16	Verified
+YPR187W	RPO26	16	Verified
+YPR188C	MLC2	16	Verified
+YPR189W	SKI3	16	Verified
+YPR190C	RPC82	16	Verified
+YPR191W	QCR2	16	Verified
+YPR192W	AQY1	16	Verified
+YPR193C	HPA2	16	Verified
+YPR194C	OPT2	16	Verified
+YPR195C		16	Uncharacterized
+YPR196W		16	Uncharacterized
+YPR197C		16	Dubious
+YPR198W	SGE1	16	Verified
+YPR199C	ARR1	16	Verified
+YPR200C	ARR2	16	Verified
+YPR201W	ARR3	16	Verified
+YAR064W		1	Uncharacterized
+YCL067C	HMLALPHA2	3	Verified
+YCL066W	HMLALPHA1	3	Verified
+YDR038C	ENA5	4	Verified
+YGL137W	SEC27	7	Verified
+YGL135W	RPL1B	7	Verified
+YGL134W	PCL10	7	Verified
+YGL133W	ITC1	7	Verified
+YGL132W		7	Dubious
+YHR052W-A		8	Dubious
+YHR053C	CUP1-1	8	Verified
+YHR215W	PHO12	8	Verified
+YIL173W	VTH1	9	Verified
+YKR106W	GEX2	11	Verified
+YMR105C	PGM2	13	Verified
+YMR105W-A		13	Uncharacterized
+YNL333W	SNZ2	14	Verified
+YNL330C	RPD3	14	Verified
+YNL329C	PEX6	14	Verified
+YNL328C	MDJ2	14	Verified
+YNL327W	EGT2	14	Verified
+YNL326C	PFA3	14	Verified
+YNL325C	FIG4	14	Verified
+YNL324W		14	Dubious
+YNL323W	LEM3	14	Verified
+YNL033W		14	Uncharacterized
+YOR246C	ENV9	15	Verified
+YOR247W	SRL1	15	Verified
+YOR255W	OSW1	15	Verified

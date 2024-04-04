@@ -1,0 +1,379 @@
+Gene.introns.length	Gene.introns.status	Gene.secondaryIdentifier	Gene.sgdAlias
+885	Active	Q0045	cytochrome c oxidase subunit 1|OXI3
+1009	Active	Q0045	cytochrome c oxidase subunit 1|OXI3
+1364	Active	Q0045	cytochrome c oxidase subunit 1|OXI3
+1515	Active	Q0045	cytochrome c oxidase subunit 1|OXI3
+1570	Active	Q0045	cytochrome c oxidase subunit 1|OXI3
+2447	Active	Q0045	cytochrome c oxidase subunit 1|OXI3
+2482	Active	Q0045	cytochrome c oxidase subunit 1|OXI3
+2447	Active	Q0055	intron-encoded reverse transcriptase aI2
+2447	Active	Q0060	intron-encoded DNA endonuclease aI3|I-SceIII
+2482	Active	Q0060	intron-encoded DNA endonuclease aI3|I-SceIII
+1515	Active	Q0065	intron-encoded DNA endonuclease aI4|I-SceII
+2447	Active	Q0065	intron-encoded DNA endonuclease aI4|I-SceII
+2482	Active	Q0065	intron-encoded DNA endonuclease aI4|I-SceII
+1009	Active	Q0070	intron-encoded DNA endonuclease aI5 alpha
+1515	Active	Q0070	intron-encoded DNA endonuclease aI5 alpha
+2447	Active	Q0070	intron-encoded DNA endonuclease aI5 alpha
+2482	Active	Q0070	intron-encoded DNA endonuclease aI5 alpha
+34	Active	Q0075	intron-encoded DNA endonuclease aI5 beta
+737	Active	Q0105	COB1|CYTB|cytochrome b
+767	Active	Q0105	COB1|CYTB|cytochrome b
+1403	Active	Q0105	COB1|CYTB|cytochrome b
+1416	Active	Q0105	COB1|CYTB|cytochrome b
+1622	Active	Q0105	COB1|CYTB|cytochrome b
+767	Active	Q0110	cytochrome b mRNA maturase bI2
+767	Active	Q0115	cytochrome b mRNA maturase bI3
+1403	Active	Q0115	cytochrome b mRNA maturase bI3
+767	Active	Q0120	intron-encoded RNA maturase bI4
+1403	Active	Q0120	intron-encoded RNA maturase bI4
+1622	Active	Q0120	intron-encoded RNA maturase bI4
+30	Active	Q0255	maturase-like protein|ORF1|RF1
+39	Active	Q0255	maturase-like protein|ORF1|RF1
+89	Active	YAL001C	FUN24|tau 138|transcription factor TFIIIC subunit TFC3|TSV115
+365	Active	YAL003W	eEF1Balpha|EF-1beta|TEF5|translation elongation factor 1 subunit beta
+112	Active	YAL030W	SNAP receptor SNC1
+74	Active	YBL018C	ribonuclease P
+127	Active	YBL026W	Sm-like protein LSM2|SMX5|SNP3
+383	Active	YBL027W	eL19|L19B|L19e|L23B|ribosomal 60S subunit protein L19B|rpl5L|YL14
+96	Active	YBL040C	""
+115	Active	YBL050W	RNS3
+84	Active	YBL059C-A	""
+68	Active	YBL059W	""
+503	Active	YBL087C	L14|L17aA|L23A|ribosomal 60S subunit protein L23A|uL14|YL32
+87	Active	YBL091C-A	phospholipid metabolism-regulating protein SCS22
+98	Active	YBL111C	""
+510	Active	YBR048W	ribosomal 40S subunit protein S11B|rp41B|S11B|S17|S18B|uS17|YS12
+81	Active	YBR062C	""
+329	Active	YBR078W	""
+94	Active	YBR082C	E2 ubiquitin-conjugating protein UBC4
+505	Active	YBR084C-A	eL19|L19A|L19e|L23A|ribosomal 60S subunit protein L19A|rpl5L|YL14
+356	Active	YBR090C	""
+69	Active	YBR111W-A	""
+79	Active	YBR111W-A	""
+88	Active	YBR119W	U1A|U1-A
+351	Active	YBR181C	eS6|LPG18|ribosomal 40S subunit protein S6B|RPS101|RPS102|S6e
+112	Active	YBR186W	""
+412	Active	YBR189W	ribosomal 40S subunit protein S9B|rp21|RPS13A|S13|S4|S9B|SUP46|uS4|YS11
+387	Active	YBR191W	eL21|L21A|L21e|ribosomal 60S subunit protein L21A|URP1
+83	Active	YBR215W	""
+420	Active	YBR219C	""
+96	Active	YBR230C	""
+93	Active	YBR255C-A	""
+75	Active	YCL002C	""
+76	Active	YCL005W-A	CWH36|H(+)-transporting V0 sector ATPase subunit e|LDB10
+95	Active	YCL005W-A	CWH36|H(+)-transporting V0 sector ATPase subunit e|LDB10
+66	Active	YCL012C	YCL011C-A
+82	Active	YCR028C-A	""
+306	Active	YCR031C	CRY1|ribosomal 40S subunit protein S14A|rp59A|RPL59|S11|S14A|uS11
+51	Active	YCR097W	YCR097WB
+53	Active	YCR097W	YCR097WB
+85	Active	YDL012C	""
+122	Active	YDL029W	ACT2|actin-related protein 2
+109	Active	YDL064W	E2 SUMO-conjugating protein UBC9
+420	Active	YDL075W	eL31|L31A|L31e|L34A|ribosomal 60S subunit protein L31A|RPL34|YL28
+291	Active	YDL079C	putative serine/threonine protein kinase MRK1
+364	Active	YDL082W	eL13|L13A|L13e|ribosomal 60S subunit protein L13A
+431	Active	YDL083C	ribosomal 40S subunit protein S16B|rp61R|S16B|S9|uS9
+80	Active	YDL108W	TFIIH complex serine/threonine-protein kinase subunit KIN28
+69	Active	YDL115C	""
+110	Active	YDL125C	adenosine 5'-monophosphoramidase
+300	Active	YDL130W	Ax|L44'|P1B|ribosomal protein P1B|RPL44'|RPLA3|YP1beta
+404	Active	YDL136W	L29|L35B|ribosomal 60S subunit protein L35B|SOS2|uL29
+490	Active	YDL191W	L29|L35A|ribosomal 60S subunit protein L35A|SOS1|uL29
+70	Active	YDL219W	D-tyrosyl-tRNA(Tyr) deacylase
+79	Active	YDR005C	RNA polymerase III-inhibiting protein MAF1
+338	Active	YDR025W	ribosomal 40S subunit protein S11A|rp41A|S11A|S17|S18A|uS17|YS12
+89	Active	YDR059C	E2 ubiquitin-conjugating protein UBC5
+538	Active	YDR064W	ribosomal 40S subunit protein S13|RPS13B|RPS13C|S13|S15|S27a|uS15|YS15
+267	Active	YDR092W	E2 ubiquitin-conjugating protein UBC13
+110	Active	YDR129C	ABP67|fimbrin
+72	Active	YDR139C	NEDD8 family protein RUB1
+88	Active	YDR305C	APH1|bis(5'-adenosyl)-triphosphatase
+82	Active	YDR318W	CTF5
+100	Active	YDR367W	""
+193	Active	YDR381C-A	MCO13
+765	Active	YDR381W	RNA-binding protein YRA1|SHE11
+91	Active	YDR397C	negative cofactor 2 transcription regulator complex subunit NCB2|YDR1
+79	Active	YDR424C	dynein light chain|SLC1
+95	Active	YDR424C	dynein light chain|SLC1
+313	Active	YDR447C	eS17|ribosomal 40S subunit protein S17B|rp51B|RP51B|RPL51B|S17B|S17e
+434	Active	YDR450W	ribosomal 40S subunit protein S18A|S13|S18A|uS13
+383	Active	YDR471W	eL27|L27B|L27e|ribosomal 60S subunit protein L27B
+388	Active	YDR500C	eL37|L37B|L37e|L43|ribosomal 60S subunit protein L37B|YL35
+255	Active	YDR535C	""
+87	Active	YEL003W	PFD2|tubulin-binding prefolding complex subunit GIM4
+122	Active	YEL012W	E2 ubiquitin-conjugating protein UBC8|GID3
+278	Active	YEL076C-A	""
+92	Active	YER003C	mannose-6-phosphate isomerase PMI40|PMI
+102	Active	YER007C-A	RBF20|translation machinery-associated protein 20
+507	Active	YER014C-A	""
+87	Active	YER044C-A	""
+396	Active	YER056C-A	eL34|L34A|L34e|ribosomal 60S subunit protein L34A
+465	Active	YER074W	eS24|ribosomal 40S subunit protein S24A|RPS24EA|S24A|S24e
+101	Active	YER074W-A	""
+110	Active	YER074W-A	""
+74	Active	YER093C-A	GEP8
+470	Active	YER117W	L14|L17aB|L23B|ribosomal 60S subunit protein L23B|uL14|YL32
+524	Active	YER133W	CID1|DIS2|DIS2S1|PP1|type 1 serine/threonine-protein phosphatase catalytic subunit GLC7
+91	Active	YER179W	ISC2|recombinase DMC1
+251	Active	YFL031W	ERN4|IRE15|transcription factor HAC1
+320	Active	YFL034C-A	eL22|l1c|L22B|L22e|ribosomal 60S subunit protein L22B|rp4|YFL035C-B|YL31
+113	Active	YFL034C-B	YFL035C|YFL035C-A
+308	Active	YFL039C	ABY1|actin|END7
+93	Active	YFR024C-A	YFR024C
+146	Active	YFR031C-A	L2|L2A|L5A|ribosomal 60S subunit protein L2A|rp8|RPL5B|uL2|YL6
+71	Active	YFR045W	""
+229	Active	YGL030W	eL30|L30|L30e|L32|ribosomal 60S subunit protein L30|rp73|YL38
+61	Active	YGL033W	""
+69	Active	YGL033W	""
+458	Active	YGL076C	L30|L6A|L7A|ribosomal 60S subunit protein L7A|rp11|uL30|YL8
+467	Active	YGL076C	L30|L6A|L7A|ribosomal 60S subunit protein L7A|rp11|uL30|YL8
+84	Active	YGL087C	E2 ubiquitin-conjugating protein MMS2
+510	Active	YGL103W	CYH2|L15|L28|L29|ribosomal 60S subunit protein L28|rp44|uL15|YL24
+199	Active	YGL137W	coatomer subunit beta'
+639	Active	YGL178W	HTR1|PUF5|UTH4
+82	Active	YGL183C	""
+148	Active	YGL226C-A	dolichyl-diphosphooligosaccharide--protein glycotransferase subunit
+57	Active	YGL232W	putative tRNA acetyltransferase
+151	Active	YGL251C	DNA helicase|MER3
+61	Active	YGR001C	AML1|protein-lysine N-methyltransferase
+92	Active	YGR001C	AML1|protein-lysine N-methyltransferase
+82	Active	YGR029W	flavin-linked sulfhydryl oxidase
+476	Active	YGR034W	L24|L26B|L33B|ribosomal 60S subunit protein L26B|uL24|YL33
+318	Active	YGR118W	ribosomal 40S subunit protein S23A|rp37|S12|S23A|S28A|uS12|YS14
+212	Active	YGR183C	ubiquinol--cytochrome-c reductase subunit 9|UCR9
+454	Active	YGR214W	NAB1|NAB1A|ribosomal 40S subunit protein S0A|S0A|S2|uS2|YST1
+92	Active	YGR225W	SPO70
+147	Active	YGR296W	Y' element ATP-dependent helicase protein 1 copy 3|YRF1
+397	Active	YHL001W	eL14|L14B|L14e|ribosomal 60S subunit protein L14B
+772	Active	YHL050C	""
+62	Active	YHR001W-A	ubiquinol--cytochrome-c reductase subunit 10
+560	Active	YHR010W	eL27|L27A|L27e|ribosomal 60S subunit protein L27A|RPL27
+118	Active	YHR012W	PEP11|retromer subunit VPS29|VPT6
+167	Active	YHR016C	LSB4
+549	Active	YHR021C	eS27|ribosomal 40S subunit protein S27B|rp61|S27B|S27e|YS20
+161	Active	YHR039C-A	H(+)-transporting V1 sector ATPase subunit G|YHR039BC|YHR039C-B
+100	Active	YHR041C	HRS2|MED20
+92	Active	YHR076W	type 2C protein phosphatase PTC7
+112	Active	YHR077C	IFS1|SUA1|SUP111|UPF2
+85	Active	YHR079C-A	YHR079BC|YHR079C-B
+123	Active	YHR097C	SCD1
+86	Active	YHR101C	""
+90	Active	YHR123W	bifunctional diacylglycerol cholinephosphotransferase/ethanolaminephosphotransferase
+440	Active	YHR141C	eL42|L41B|L42B|L44e|MAK18|ribosomal 60S subunit protein L42B|YL27|YP44
+66	Active	YHR199C-A	MCL1
+268	Active	YHR203C	eS4|ribosomal 40S subunit protein S4B|rp5|S4B|S4e|S7B|YS6
+98	Active	YHR218W	""
+130	Active	YIL004C	SLY12
+399	Active	YIL018W	L2|L2B|L5B|LOT2|ribosomal 60S subunit protein L2B|rp8|RPL5A|uL2|YL6
+471	Active	YIL052C	eL34|L34B|L34e|ribosomal 60S subunit protein L34B
+408	Active	YIL069C	eS24|ribosomal 40S subunit protein S24B|RPS24EB|S24B|S24e
+89	Active	YIL073C	ZIP4
+84	Active	YIL106W	""
+87	Active	YIL111W	cytochrome c oxidase subunit Vb
+289	Active	YIL133C	L13|L16A|L21A|ribosomal 60S subunit protein L16A|rp22|RPL13|uL13|YL15
+433	Active	YIL148W	CEP52A|eL40|L40A|L40e|UB11|UBI1|ubiquitin-ribosomal 60S subunit protein L40A fusion protein
+61	Active	YIL156W-B	""
+387	Active	YIL177C	Y' element ATP-dependent helicase
+115	Active	YJL001W	CRL21|proteasome core particle subunit beta 1
+76	Active	YJL024C	YKS7
+86	Active	YJL031C	Rab geranylgeranyltransferase BET4
+117	Active	YJL041W	FG-nucleoporin NSP1
+459	Active	YJL136C	eS21|ribosomal 40S subunit protein S21B|S21B|S21e|S26B|YS25
+316	Active	YJL177W	L17B|L20B|L22|ribosomal 60S subunit protein L17B|uL22|YL17
+385	Active	YJL189W	eL39|L39|L39e|L46|ribosomal 60S subunit protein L39|RPL46|SPB2|YL40
+407	Active	YJL191W	CRY2|ribosomal 40S subunit protein S14B|rp59B|S11|S14B|uS11
+142	Active	YJL205C	NCE1|YJL205C-A|YJL206C-A
+387	Active	YJL225C	Y' element ATP-dependent helicase
+79	Active	YJR021C	MER2
+704	Active	YJR079W	""
+274	Active	YJR094W-A	eL43|L43B|L43e|ribosomal 60S subunit protein L43B
+48	Active	YJR112W-A	""
+255	Active	YJR145C	eS4|ribosomal 40S subunit protein S4A|rp5|S4A|S4e|S7A|YS6
+67	Active	YKL002W	CHM2|ESCRT-III subunit protein DID4|GRD7|REN1|VPL2|VPS14|VPS2|VPT14
+140	Active	YKL006C-A	""
+397	Active	YKL006W	eL14|L14A|L14e|ribosomal 60S subunit protein L14A
+325	Active	YKL081W	EFC1|translation elongation factor EF1B gamma
+350	Active	YKL156W	eS27|ribosomal 40S subunit protein S27A|rp61|S27A|S27e|YS20
+382	Active	YKL157W	LAP1|metallo-aminopeptidase|YKL158W
+305	Active	YKL180W	L17A|L20A|L22|ribosomal 60S subunit protein L17A|RPL17|uL22|YL17
+75	Active	YKL190W	calcineurin regulatory subunit B|CRV1|YCN2
+103	Active	YKR004C	YKR004C-A
+68	Active	YKR005C	""
+321	Active	YKR057W	eS21|ribosomal 40S subunit protein S21A|RPS25|S21A|S21e|S26A|YS25
+367	Active	YKR094C	CEP52B|eL40|L40B|L40e|UB12|UBI2|ubiquitin-ribosomal 60S subunit protein L40B fusion protein
+74	Active	YKR095W-A	chromatin DNA-binding EKC/KEOPS complex subunit PCC1
+178	Active	YLL050C	cofilin
+98	Active	YLL066C	Y' element ATP-dependent helicase
+98	Active	YLL067C	Y' element ATP-dependent helicase
+358	Active	YLR048W	NAB1B|ribosomal 40S subunit protein S0B|S0B|S2|uS2|YST2
+86	Active	YLR054C	""
+388	Active	YLR061W	eL22|l1c|L22A|L22e|ribosomal 60S subunit protein L22A|rp4|YL31
+88	Active	YLR078C	SEC32
+140	Active	YLR093C	MAM2
+93	Active	YLR128W	NEDD8 ligase DCN1
+358	Active	YLR185W	eL37|L37A|L37e|L43|ribosomal 60S subunit protein L37A|YL35
+85	Active	YLR199C	POC1
+115	Active	YLR202C	""
+58	Active	YLR211C	""
+89	Active	YLR275W	mRNA splicing protein SMD2|Sm D2
+429	Active	YLR287C-A	eS30|ribosomal 40S subunit protein S30A|S30A|S30e
+133	Active	YLR306W	NEDD8-conjugating protein UBC12
+55	Active	YLR316C	""
+67	Active	YLR316C	""
+96	Active	YLR329W	""
+446	Active	YLR344W	L24|L26A|L33A|ribosomal 60S subunit protein L26A|uL24|YL33
+482	Active	YLR367W	ribosomal 40S subunit protein S22B|rp50|S22B|S24B|S8|uS8|YS22
+348	Active	YLR406C	eL31|L31B|L31e|L34B|ribosomal 60S subunit protein L31B|YL28
+70	Active	YLR426W	""
+81	Active	YLR445W	""
+383	Active	YLR448W	eL6|L17B|L6B|L6e|ribosomal 60S subunit protein L6B|rp18|YL16
+278	Active	YLR464W	""
+361	Active	YML017W	MRS15
+397	Active	YML024W	eS17|ribosomal 40S subunit protein S17A|rp51A|RP51A|RPL51A|S17A|S17e
+98	Active	YML025C	mitochondrial 54S ribosomal protein YmL6|uL4m
+400	Active	YML026C	ribosomal 40S subunit protein S18B|S13|S18B|uS13
+125	Active	YML034W	HEH1|YML033W
+105	Active	YML036W	""
+407	Active	YML056C	IMP dehydrogenase IMD4
+92	Active	YML067C	""
+414	Active	YML073C	eL6|L17A|L6A|L6e|ribosomal 60S subunit protein L6A|rp18|YL16|YL16A
+115	Active	YML085C	alpha-tubulin TUB1
+82	Active	YML094W	PFD5
+297	Active	YML124C	alpha-tubulin TUB3
+98	Active	YML133C	Y' element ATP-dependent helicase
+85	Active	YMR033W	RSC12|SWP59
+155	Active	YMR079W	phosphatidylinositol/phosphatidylcholine transfer protein SEC14|PIT1
+272	Active	YMR116C	ASU9|CPC2|guanine nucleotide-binding protein subunit beta|NAD1|RACK1
+321	Active	YMR125W	CBC1|CBP80|GCR3|SUT1
+115	Active	YMR133W	""
+401	Active	YMR142C	eL13|L13B|L13e|ribosomal 60S subunit protein L13B
+543	Active	YMR143W	ribosomal 40S subunit protein S16A|rp61R|S16A|S9|uS9
+374	Active	YMR147W	""
+71	Active	YMR194C-B	""
+462	Active	YMR194W	eL36|L36A|L36e|L39|ribosomal 60S subunit protein L36A|RPL39B|YL39
+83	Active	YMR201C	DNA repair protein RAD14
+146	Active	YMR225C	mitochondrial 54S ribosomal protein YmL44|mL53|YmL44|YMR44
+409	Active	YMR230W	eS10|ribosomal 40S subunit protein S10B|S10B|S10e
+476	Active	YMR242C	eL20|L18A|L20A|L20e|ribosomal 60S subunit protein L20A|RPL18A2
+81	Active	YMR292W	""
+30	Active	YNCA0002W	tP(UGG)A|tRNA-Pro|tRNA-Pro
+31	Active	YNCA0005W	tL(CAA)A|tRNA-Leu|tRNA-Leu
+17	Active	YNCB0002W	tF(GAA)B|tRNA-Phe|tRNA-Phe
+31	Active	YNCC0002W	tL(CAA)C|tRNA-Leu|tRNA-Leu
+18	Active	YNCC0013W	tRNA-Ser|tRNA-Ser|tS(CGA)C
+22	Active	YNCD0003W	tK(UUU)D|tRNA-Lys|tRNA-Lys
+59	Active	YNCD0017W	tI(UAU)D|tRNA-Ile|tRNA-Ile
+13	Active	YNCD0018W	tRNA-Tyr|tRNA-Tyr|tY(GUA)D
+18	Active	YNCD0023C	tF(GAA)D|tRNA-Phe|tRNA-Phe
+32	Active	YNCD0031C	tL(CAA)D|tRNA-Leu|tRNA-Leu
+30	Active	YNCF0002W	tP(UGG)F|tRNA-Pro|tRNA-Pro
+18	Active	YNCF0005C	tF(GAA)F|tRNA-Phe|tRNA-Phe
+13	Active	YNCF0007W	tRNA-Tyr|tRNA-Tyr|tY(GUA)F1
+18	Active	YNCF0009C	tRNA-Ser|tRNA-Ser|tS(GCU)F
+13	Active	YNCF0012C	tRNA-Tyr|tRNA-Tyr|tY(GUA)F2
+22	Active	YNCG0004W	tK(UUU)G1|tRNA-Lys|tRNA-Lys
+31	Active	YNCG0008W	tL(CAA)G1|tRNA-Leu|tRNA-Leu
+33	Active	YNCG0009C	tRNA-Trp|tRNA-Trp|tW(CCA)G1
+31	Active	YNCG0019W	tL(CAA)G2|tRNA-Leu|tRNA-Leu
+18	Active	YNCG0020C	tF(GAA)G|tRNA-Phe|tRNA-Phe
+22	Active	YNCG0029C	tK(UUU)G2|tRNA-Lys|tRNA-Lys
+31	Active	YNCG0040C	tL(CAA)G3|tRNA-Leu|tRNA-Leu
+33	Active	YNCG0042C	tRNA-Trp|tRNA-Trp|tW(CCA)G2
+18	Active	YNCH0009C	tF(GAA)H1|tRNA-Phe|tRNA-Phe
+18	Active	YNCH0010C	tF(GAA)H2|tRNA-Phe|tRNA-Phe
+30	Active	YNCH0013C	tP(UGG)H|tRNA-Pro|tRNA-Pro
+13	Active	YNCJ0010W	tRNA-Tyr|tRNA-Tyr|tY(GUA)J1
+33	Active	YNCJ0019C	tRNA-Trp|tRNA-Trp|tW(CCA)J
+13	Active	YNCJ0027C	tRNA-Tyr|tRNA-Tyr|tY(GUA)J2
+18	Active	YNCJ0029W	tL(UAG)J|tRNA-Leu|tRNA-Leu
+33	Active	YNCK0010W	tRNA-Trp|tRNA-Trp|tW(CCA)K
+31	Active	YNCK0016W	tL(CAA)K|tRNA-Leu|tRNA-Leu
+22	Active	YNCK0021W	tK(UUU)K|tRNA-Lys|tRNA-Lys
+30	Active	YNCL0001W	tP(UGG)L|tRNA-Pro|tRNA-Pro
+18	Active	YNCL0032C	tL(UAG)L1|tRNA-Leu|tRNA-Leu
+59	Active	YNCL0033C	tI(UAU)L|tRNA-Ile|tRNA-Ile
+32	Active	YNCL0034W	tL(CAA)L|tRNA-Leu|tRNA-Leu
+18	Active	YNCL0037W	tL(UAG)L2|tRNA-Leu|tRNA-Leu
+19	Active	YNCL0039W	tS(GCU)L|tX(XXX)L
+22	Active	YNCL0047W	tK(UUU)L|tRNA-Lys|tRNA-Lys
+13	Active	YNCM0006W	tRNA-Tyr|tRNA-Tyr|tY(GUA)M1
+30	Active	YNCM0008C	tP(UGG)M|tRNA-Pro|tRNA-Pro
+17	Active	YNCM0019W	tF(GAA)M|tRNA-Phe|tRNA-Phe
+33	Active	YNCM0022C	tRNA-Trp|tRNA-Trp|tW(CCA)M
+31	Active	YNCM0027W	tL(CAA)M|tRNA-Leu|tRNA-Leu
+13	Active	YNCM0037W	tRNA-Tyr|tRNA-Tyr|tY(GUA)M2
+17	Active	YNCN0006W	tF(GAA)N|tRNA-Phe|tRNA-Phe
+31	Active	YNCN0007W	tL(CAA)N|tRNA-Leu|tRNA-Leu
+30	Active	YNCN0009W	tP(UGG)N1|tRNA-Pro|tRNA-Pro
+30	Active	YNCN0011W	tP(UGG)N2|tRNA-Pro|tRNA-Pro
+18	Active	YNCO0008W	tRNA-Ser|tRNA-Ser|tS(GCU)O
+13	Active	YNCO0010W	tRNA-Tyr|tRNA-Tyr|tY(GUA)O
+29	Active	YNCO0011W	tP(UGG)O1|tRNA-Pro|tRNA-Pro
+22	Active	YNCO0016W	tK(UUU)O|tRNA-Lys|tRNA-Lys
+29	Active	YNCO0017W	tP(UGG)O2|tRNA-Pro|tRNA-Pro
+156	Active	YNCO0025W	snR17a|U3
+32	Active	YNCO0031W	tP(UGG)O3|tRNA-Pro|tRNA-Pro
+33	Active	YNCP0001C	tRNA-Trp|tRNA-Trp|tW(CCA)P
+129	Active	YNCP0005C	snR17b|U3
+18	Active	YNCP0008C	tF(GAA)P1|tRNA-Phe|tRNA-Phe
+18	Active	YNCP0011C	tF(GAA)P2|tRNA-Phe|tRNA-Phe
+22	Active	YNCP0017C	tK(UUU)P|tRNA-Lys|tRNA-Lys
+1142	Active	YNCQ0006W	21S ribosomal RNA|21S_rRNA_3|21S_rRNA_4|Q0158
+341	Active	YNL004W	mRNA-binding protein|TOM34
+83	Active	YNL012W	putative carboxylic ester hydrolase
+73	Active	YNL038W	phosphatidylinositol N-acetylglucosaminyltransferase GPI15
+78	Active	YNL044W	""
+90	Active	YNL050C	""
+448	Active	YNL069C	L13|L16B|L21B|ribosomal 60S subunit protein L16B|rp23|RP23|uL13|YL15
+344	Active	YNL096C	eS7|ribosomal 40S subunit protein S7B|rp30|S7B|S7e
+1001	Active	YNL112W	DEAD-box ATP-dependent RNA helicase DBP2
+91	Active	YNL130C	diacylglycerol cholinephosphotransferase
+121	Active	YNL138W-A	RCP10|U2 snRNP complex subunit YSF3
+95	Active	YNL147W	Sm-like protein LSM7
+511	Active	YNL162W	eL42|L41A|L42A|L44e|ribosomal 60S subunit protein L42A|YL27
+94	Active	YNL246W	""
+104	Active	YNL265C	""
+431	Active	YNL301C	eL18|L18B|L18e|ribosomal 60S subunit protein L18B|rp28B|RP28B
+550	Active	YNL302C	eS19|ribosomal 40S subunit protein S19B|rp55B|RP55B|S16aB|S19B|S19e|YS16B
+107	Active	YNL312W	BUF1|RPA2|RPA32
+147	Active	YNL339C	Y' element ATP-dependent helicase protein 1 copy 6|YRF1
+531	Active	YNR053C	NUG2|putative GTPase NOG2
+62	Active	YOL047C	""
+77	Active	YOL048C	""
+446	Active	YOL120C	eL18|L18A|L18e|ribosomal 60S subunit protein L18A|rp28A|RP28A
+389	Active	YOL121C	eS19|ribosomal 40S subunit protein S19A|rp55a|S16aA|S19A|S19e|YS16A
+413	Active	YOL127W	L23|L25|ribosomal 60S subunit protein L25|rpl6L|uL23|YL25
+400	Active	YOR096W	eS7|ribosomal 40S subunit protein S7A|rp30|RPS30|S7A|S7e
+208	Active	YOR122C	CLS5|PRF1|profilin
+410	Active	YOR182C	eS30|ribosomal 40S subunit protein S30B|S30B|S30e
+526	Active	YOR234C	eL33|L33B|L33e|L37B|ribosomal 60S subunit protein L33B|rp47|RPL37B|Yl37
+436	Active	YOR293W	eS10|ribosomal 40S subunit protein S10A|S10A|S10e
+425	Active	YOR312C	eL20|L18B|L20B|L20e|ribosomal 60S subunit protein L20B|RPL18A1
+346	Active	YOR318C	""
+101	Active	YPL031C	cyclin-dependent serine/threonine-protein kinase PHO85|LDB15|phoU
+750	Active	YPL075W	LPF10|SIT3|transcription regulator GCR1
+420	Active	YPL079W	eL21|L21B|L21e|ribosomal 60S subunit protein L21B
+500	Active	YPL081W	ribosomal 40S subunit protein S9A|rp21|S13|S4|S9A|uS4|YS11
+393	Active	YPL090C	eS6|ribosomal 40S subunit protein S6A|rp9|S10A|S6A|S6e|YS4
+151	Active	YPL109C	MCO76
+104	Active	YPL129W	ANC1|SWP29|TAF30|TafII30|TATA-binding protein-associated factor TAF14|TFG3
+524	Active	YPL143W	eL33|GCD17|L33A|L33e|l37A|ribosomal 60S subunit protein L33A|rp47|RPL37A|YL37
+99	Active	YPL175W	CWH6|GPI3|phosphatidylinositol N-acetylglucosaminyltransferase SPT14
+406	Active	YPL198W	L30|L6B|L7B|ribosomal 60S subunit protein L7B|rp11|uL30|YL8
+408	Active	YPL198W	L30|L6B|L7B|ribosomal 60S subunit protein L7B|rp11|uL30|YL8
+138	Active	YPL218W	Arf family GTPase SAR1
+79	Active	YPL241C	GTPase-activating protein CIN2
+237	Active	YPL249C-A	eL36|L36B|L36e|L39|ribosomal 60S subunit protein L36B|YL39
+147	Active	YPL283C	Y' element ATP-dependent helicase protein 1 copy 7|YRF1
+142	Active	YPR010C-A	""
+132	Active	YPR028W	YIP2
+402	Active	YPR043W	eL43|L43A|L43e|ribosomal 60S subunit protein L43A
+85	Active	YPR063C	""
+95	Active	YPR098C	""
+364	Active	YPR132W	ribosomal 40S subunit protein S23B|rp37|S12|S23B|S28B|uS12|YS14
+133	Active	YPR153W	EHG1
+98	Active	YPR170W-B	""
+75	Active	YPR187W	ABC23|DNA-directed RNA polymerase core subunit RPO26|RPB6
+147	Active	YPR202W	""
