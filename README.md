@@ -29,9 +29,9 @@ aneuploidy with implications for disease biology and evolution.
 
 Notebook description and order to run:
 
-For the Chromosome duplication modelling (Figure 1-3):
-	1) Aneuploidy_barplot_dataset_preparation: format growth data, plotting, normalize
-	2) Aneuploidy model for figure 1 to 3.  
+For the Chromosome duplication modelling (Figure 1-3):\n
+	1) Aneuploidy_barplot_dataset_preparation: format growth data, plotting, normalize\n
+	2) Aneuploidy model for figure 1 to 3.\n
 
 For duplication-sensitive genes classifier (Figure 5):
 	1) MoBy_genes_features_dataset_prep: combine gene properties from differents sources
