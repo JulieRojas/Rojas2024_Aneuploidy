@@ -1,4 +1,6 @@
 # Rojas2024_Aneuploidy
+
+OFFICIAL VERSION AT: https://github.com/GLBRC/Rojas2024_Aneuploidy
  Code for the paper: "Comparative modeling reveals the molecular determinants of aneuploidy fitness cost in a wild yeast model"   Julie Rojas, James Hose, H. Auguste Dutcher, Michael Place, John F Wolters, Chris Todd Hittinger, Audrey P Gasch
 
 Ths project contain all code used and describe in the paper:
